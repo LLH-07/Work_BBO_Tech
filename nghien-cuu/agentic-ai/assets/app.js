@@ -280,7 +280,7 @@ async function ingestFiles(files){
     const fd = new FormData(); fd.append('file', file);
     let data;
     try{
-      const res = await fetch('/api/ingest', {method:'POST', body:fd});
+      const res = await fetch('/Work_BBO_Tech/api/ingest', {method:'POST', body:fd});
       if(!res.ok) throw new Error(await res.text());
       data = await res.json();
     }catch(err){
@@ -356,4 +356,5 @@ async function init(){
   }
 }
 init();
+
 

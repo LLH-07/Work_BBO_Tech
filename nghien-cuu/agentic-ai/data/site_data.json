@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "title": "Bản đồ Agentic AI theo lĩnh vực",
     "subtitle": "Đã tái cấu trúc theo lĩnh vực, bổ sung báo cáo chiến lược 2025–2026 với số liệu, nỗi đau, giải pháp và 10 ngách mới cho SME.",
@@ -72,7 +72,7 @@
   "fields": [
     {
       "id": "ke-toan",
-      "path": "/linh-vuc/ke-toan/",
+      "path": "/Work_BBO_Tech/linh-vuc/ke-toan/",
       "icon": "💼",
       "title": "Kế toán & tài chính",
       "short_title": "Kế toán",
@@ -216,7 +216,7 @@
     },
     {
       "id": "san-xuat",
-      "path": "/linh-vuc/san-xuat/",
+      "path": "/Work_BBO_Tech/linh-vuc/san-xuat/",
       "icon": "🏭",
       "title": "Sản xuất",
       "short_title": "Sản xuất",
@@ -360,7 +360,7 @@
     },
     {
       "id": "logistics",
-      "path": "/linh-vuc/logistics/",
+      "path": "/Work_BBO_Tech/linh-vuc/logistics/",
       "icon": "🚚",
       "title": "Logistics & chuỗi cung ứng",
       "short_title": "Logistics",
@@ -504,7 +504,7 @@
     },
     {
       "id": "phap-ly",
-      "path": "/linh-vuc/phap-ly/",
+      "path": "/Work_BBO_Tech/linh-vuc/phap-ly/",
       "icon": "⚖️",
       "title": "Pháp lý & tuân thủ",
       "short_title": "Pháp lý",

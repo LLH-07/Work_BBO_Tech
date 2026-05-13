@@ -1,4 +1,4 @@
-name: Deploy Agentic AI site to GitHub Pages
+﻿name: Deploy Agentic AI site to GitHub Pages
 
 on:
   push:
@@ -19,6 +19,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:

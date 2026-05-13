@@ -1,0 +1,1542 @@
+--- PAGE 1 ---
+BÁO CÁO NGHIÊN CỨU
+ Agentic AI và các ngành nghề/ngách
+ có thể xuất hiện trong tương lai
+Toàn cầu và Việt Nam - phân tích từ vĩ mô đến vi mô, tập trung vào cơ hội cho doanh
+ nghiệp vừa và nhỏ, startup và đơn vị chuyển đổi số
+ Phiên bản tiếng Việt PDF - cập nhật đến ngày 12/05/2026
+Cách đọc nhanh: Phần 1-2 giải thích cho người mới; Phần 3-4 đặt trong bức tranh thị trường; Phần 5-7 liệt
+kê ngành/ngách cụ thể; Phần 8-10 đưa ra tiêu chí, điểm ưu tiên và lộ trình triển khai.
+Ghi chú: Báo cáo này là nghiên cứu định hướng kinh doanh và công nghệ; không thay thế tư vấn pháp lý, y tế, tài chính
+hoặc an toàn thông tin chuyên sâu.
+
+
+
+--- PAGE 2 ---
+Mục lục tóm tắt
+- 1. Phương pháp và kết luận nhanh
+ 
+- 2. Agentic AI là gì và khác gì chatbot, GenAI, RPA, copilot
+ 
+- 3. Vì sao Agentic AI xuất hiện: công nghệ, chi phí, thiếu kỹ năng, nhu cầu tự động hóa
+ 
+- 4. Bối cảnh toàn cầu: đầu tư, nhân lực, rủi ro, làn sóng enterprise agents
+ 
+- 5. Bối cảnh Việt Nam: chiến lược AI, chuyển đổi số, hạ tầng và hệ sinh thái doanh nghiệp
+ 
+- 6. Tác động theo ngành: giáo dục, y tế, tài chính, SME, logistics, sản xuất, nông nghiệp, chính phủ số,
+ marketing, an ninh mạng
+- 7. Bản đồ 40 ngách cụ thể cho doanh nghiệp/startup
+ 
+- 8. Top 12 ngách ưu tiên và bảng điểm
+ 
+- 9. Nghề mới, năng lực mới và mô hình tổ chức human-agent
+ 
+- 10. Rủi ro, quản trị, tiêu chuẩn và lộ trình triển khai 6-12 tháng
+ 
+- 11. Danh mục nguồn tham khảo theo phần
+ 
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 2 / 14
+
+
+
+--- PAGE 3 ---
+1. Phương pháp nghiên cứu và kết luận nhanh
+Báo cáo này dùng bộ câu hỏi trong đề cương làm khung kiểm tra độ phủ: từ định nghĩa Agentic AI, công
+nghệ thúc đẩy, lợi ích - rủi ro, tác động lao động, ngành ứng dụng, đến câu hỏi trọng tâm về ngách có thể
+xuất hiện và mức độ phù hợp với Việt Nam. Cách tiếp cận là đi từ vĩ mô xuống vi mô: xu hướng công nghệ
+toàn cầu -> mục tiêu quốc gia của Việt Nam -> bài toán vận hành trong từng ngành -> ngách sản
+phẩm/dịch vụ mà một SME hoặc startup có thể thương mại hóa.
+Kết luận nhanh: Agentic AI không chỉ là chatbot thông minh hơn. Nó là lớp phần mềm có khả năng nhận
+mục tiêu, lập kế hoạch, gọi công cụ/API, quan sát kết quả và lặp lại để hoàn thành một quy trình nhiều
+bước. Vì vậy, thị trường không chỉ nằm ở việc bán chatbot, mà nằm ở việc tái thiết kế workflow, dữ liệu,
+quyền truy cập, giám sát, đánh giá, bảo mật và trách nhiệm pháp lý của các 'lao động số'.
+Luận điểm thị trường: Trong 2-3 năm đầu, ngách dễ thương mại hóa nhất ở Việt Nam không phải là xây mô
+hình nền tảng cạnh tranh với Big Tech, mà là xây agent dọc ngành, connector dữ liệu, AgentOps, agent
+security, agent evaluation, và dịch vụ chuyển đổi quy trình cho SME. Những ngách này tận dụng được dữ
+liệu ngành, hiểu quy trình địa phương, tiếng Việt, pháp lý Việt Nam và quan hệ triển khai tại doanh nghiệp.
+Nguồn chính phần này: [S1], [S3], [S4], [S6], [S7], [S15], [S16]
+ Nhận định
+ Ý nghĩa đối với doanh nghiệp/startup
+Agentic AI là bước chuyển từ 'hỏi - đáp'
+sang 'giao mục tiêu - thực thi có kiểm
+soát'.
+Sản phẩm cần chứng minh được khả năng hành động thật: đọc dữ liệu, gọi API, tạo
+tác vụ, cập nhật hệ thống, báo cáo kết quả.
+Thị trường đang nóng nhưng rủi ro
+'agent washing' cao.
+Cơ hội cho startup biết làm sâu: đánh giá agent, bảo mật, ROI, tích hợp quy trình,
+thay vì chỉ dán nhãn chatbot.
+Việt Nam có áp lực tăng năng suất,
+chuyển đổi số và nhu cầu SME rất lớn.
+Nên bắt đầu từ quy trình lặp lại, dữ liệu có sẵn, chi phí nhân sự cao hoặc lỗi vận hành
+gây thiệt hại.
+Ngách tốt nhất là ngách dọc ngành.
+Ví dụ: agent xuất nhập khẩu cho SME, agent điều phối kho, agent kế toán hóa đơn,
+agent chăm sóc khách hàng tiếng Việt có handoff.
+Rào cản lớn nhất không chỉ là mô hình
+AI, mà là dữ liệu, bảo mật, quyền truy
+cập, quy trình và niềm tin.
+Cần bán giải pháp end-to-end: workflow + tích hợp + giám sát + chính sách quyền +
+đo ROI.
+2. Agentic AI là gì?
+Một cách dễ hiểu, Agentic AI là hệ thống AI có thể hành động theo mục tiêu. Người dùng không chỉ hỏi 'hãy
+viết email', mà có thể giao mục tiêu 'chuẩn bị chiến dịch chăm sóc lại khách hàng bỏ giỏ hàng trong tuần
+này'. Agent sẽ cần đọc CRM, phân nhóm khách hàng, soạn nội dung, tạo danh sách gửi, xin duyệt nếu vượt
+quyền, gửi qua công cụ marketing và báo cáo kết quả.
+Các nguồn như MIT Sloan mô tả agentic AI là lớp hệ thống bán tự chủ hoặc tự chủ, có thể cảm nhận, suy
+luận và hành động, đồng thời tích hợp với phần mềm khác để hoàn thành nhiệm vụ độc lập hoặc với giám
+sát tối thiểu. DeepLearning.AI nhấn mạnh bốn mẫu thiết kế cốt lõi: reflection, tool use, planning và
+multi-agent workflows. OpenAI cũng đưa các công cụ như web search, file search, computer use, tracing,
+evaluations và workflow builder vào nền tảng xây agent. [S1][S3][S4]
+ Loại hệ thống
+ Cách hoạt động
+ Điểm mạnh
+ Giới hạn nếu dùng một
+ mình
+Chatbot truyền thống
+Trả lời theo kịch bản hoặc truy xuất
+FAQ.
+Dễ triển khai, rẻ, phù hợp hỏi đáp
+đơn giản.
+Không tự lập kế hoạch, không hành
+động trên hệ thống thật.
+Generative AI
+Sinh văn bản, ảnh, mã, phân tích theo
+prompt.
+Tạo nội dung và tri thức nhanh.
+Thường dừng ở gợi ý; cần người
+thực thi.
+RPA/automation
+Tự động hóa theo rule và luồng cố
+định.
+Ổn định với quy trình rõ, ít biến
+động.
+Kém linh hoạt khi dữ liệu, giao diện
+hoặc tình huống thay đổi.
+AI copilot
+Hỗ trợ người dùng trong ứng dụng, đề
+xuất bước làm.
+Tăng năng suất cá nhân, dễ chấp
+nhận.
+Thường vẫn cần người nhấn nút và
+chịu trách nhiệm trực tiếp.
+Agentic AI
+Nhận mục tiêu, chia nhỏ tác vụ, gọi
+công cụ, quan sát kết quả, lặp lại và
+báo cáo.
+Tự xử lý quy trình nhiều bước, phù
+hợp vận hành doanh nghiệp.
+Rủi ro cao hơn: sai quyền, sai dữ
+liệu, hành động nhầm, khó đo ROI
+nếu thiết kế kém.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 3 / 14
+
+
+
+--- PAGE 4 ---
+Nguồn chính phần này: [S1], [S2], [S3], [S4], [S5], [S22].
+2.1. Một hệ thống Agentic AI cần những thành phần nào?
+ Thành phần
+ Vai trò
+ Câu hỏi kiểm tra khi mua/xây
+Mô hình nền tảng
+LLM hoặc multimodal model làm lõi suy luận, lập kế
+hoạch, hiểu ngôn ngữ/hình ảnh/âm thanh.
+Dùng model nào? Có chạy
+private/on-prem/cloud? Chi phí token ra sao?
+Context/RAG
+Kết nối dữ liệu nội bộ: tài liệu, email, CRM, ERP, wiki,
+luật, SOP.
+Dữ liệu có sạch, có phân quyền, có log truy
+xuất không?
+Tool/API layer
+Cho agent thực hiện hành động: gửi email, tạo ticket,
+cập nhật CRM, đặt lịch, gọi ERP.
+Agent được phép làm gì? Có sandbox và cơ
+chế duyệt không?
+Planner/orchestrator
+Chia việc, chọn công cụ, phối hợp multi-agent, quản lý
+trạng thái.
+Luồng có quan sát - sửa lỗi - dừng an toàn
+không?
+Memory
+Ghi nhớ trạng thái task, sở thích, lịch sử khách hàng
+hoặc lịch sử xử lý.
+Memory có hết hạn, xóa được, kiểm toán
+được không?
+Guardrails
+Chặn prompt injection, dữ liệu nhạy cảm, hành động
+vượt quyền, hallucination.
+Có policy theo vai trò và mức độ rủi ro không?
+Evaluation
+Đo chất lượng đầu ra, tỷ lệ hoàn thành, lỗi, chi phí,
+latency, ROI.
+Có bộ test và trace trước khi đưa vào
+production không?
+AgentOps
+Giám sát vận hành: log, trace, alert, rollback,
+versioning, phân quyền.
+Ai chịu trách nhiệm khi agent lỗi? Có kill
+switch không?
+3. Vì sao Agentic AI xuất hiện sau Generative AI?
+Generative AI làm cho tri thức và nội dung rẻ hơn; Agentic AI làm cho hành động số rẻ hơn. Sự xuất hiện
+của Agentic AI đến từ việc nhiều mảnh ghép đã đủ chín: LLM có khả năng suy luận và gọi công cụ tốt hơn,
+multimodal AI hiểu được văn bản - hình ảnh - âm thanh, API/cloud giúp phần mềm kết nối, dữ liệu doanh
+nghiệp được số hóa nhiều hơn, và doanh nghiệp đã quen với tự động hóa. Điểm mới là thay vì viết rule
+cứng, agent có thể xử lý quy trình có biến thể, cần suy luận và cần tương tác nhiều hệ thống.
+Nhu cầu thị trường cũng rõ: doanh nghiệp thiếu thời gian, thiếu nhân lực số, thiếu kỹ năng AI, chi phí vận
+hành tăng, khách hàng đòi hỏi phản hồi nhanh và cá nhân hóa. Microsoft Việt Nam công bố Work Trend
+Index 2025 cho biết 91% lãnh đạo Việt Nam trong khảo sát coi năm 2025 là thời điểm quan trọng để nhìn
+lại chiến lược và vận hành doanh nghiệp; báo cáo cũng nêu mô hình 'Doanh nghiệp Tiên phong' xoay
+quanh human-agent teams và agent boss. [S9]
+McKinsey ghi nhận trong khảo sát toàn cầu 2025 rằng 23% tổ chức đang mở rộng agentic AI ở đâu đó trong
+doanh nghiệp và 39% đã bắt đầu thử nghiệm, nhưng việc mở rộng theo từng chức năng vẫn còn hạn chế.
+Điều này cho thấy thị trường đang ở giai đoạn sớm: đủ nhu cầu để bán hàng, nhưng chưa bão hòa về giải
+pháp sâu. [S6]
+Nguồn chính phần này: [S3], [S4], [S6], [S8], [S9], [S10].
+4. Bối cảnh toàn cầu: miếng bánh đang hình thành
+Ở tầng vĩ mô, Agentic AI xuất hiện trong ba xu hướng lớn: (1) AI trở thành hạ tầng năng suất của doanh
+nghiệp; (2) lao động tri thức bị tái cấu trúc; (3) rủi ro AI cần tiêu chuẩn quản trị mới. Stanford HAI cho biết
+năm 2024 có 78% tổ chức báo cáo đã dùng AI, tăng từ 55% năm trước; đầu tư tư nhân toàn cầu vào
+Generative AI đạt 33,9 tỷ USD. [S10]
+WEF Future of Jobs 2025 nhấn mạnh khoảng 40% kỹ năng cần cho công việc sẽ thay đổi và 63% nhà tuyển
+dụng coi khoảng cách kỹ năng là rào cản chính; AI, big data và an ninh mạng nằm trong nhóm kỹ năng
+tăng nhanh nhất. Điều này tạo nhu cầu cho đào tạo lại, thiết kế lại công việc và vai trò giám sát agent. [S8]
+Tuy nhiên, rủi ro hype rất lớn. Gartner dự báo hơn 40% dự án agentic AI có thể bị hủy vào cuối 2027 do chi
+phí tăng, giá trị kinh doanh không rõ hoặc kiểm soát rủi ro không đủ; Gartner cũng cảnh báo 'agent
+washing', tức gọi chatbot/RPA là agent dù thiếu năng lực tự chủ thực sự. [S7]
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 4 / 14
+
+
+
+--- PAGE 5 ---
+Tín hiệu toàn cầu
+ Ý nghĩa thị trường
+ Ngách mở ra
+Big Tech đưa agent vào nền
+tảng phần mềm
+Agent dần thành lớp giao diện mới của
+enterprise software.
+Tư vấn tích hợp, connector, agent workflow,
+migration từ RPA.
+Doanh nghiệp cần
+human-agent teams
+Cơ cấu nhân sự chuyển từ làm tay sang giao
+việc và kiểm soát kết quả.
+Human-agent team design, agent supervisor,
+training nội bộ.
+Nhiều dự án POC thất bại
+Khách hàng sẽ đòi ROI, rủi ro thấp, triển khai
+thực tế.
+Agent evaluation, AgentOps, governance,
+audit, ROI measurement.
+Kỹ năng AI và an ninh mạng
+tăng nhanh
+Cầu vượt cung cho chuyên gia ứng dụng AI an
+toàn.
+Cyber agent, agent security gateway,
+policy-as-code cho agent.
+Multi-agent và tool-use thành
+pattern phổ biến
+Không chỉ một chatbot, mà là hệ điều phối
+nhiều vai trò số.
+Orchestration studio, vertical agent
+marketplace, data/memory layer.
+Nguồn chính phần này: [S4], [S5], [S6], [S7], [S8], [S9], [S10].
+5. Bối cảnh Việt Nam: vì sao phù hợp?
+Việt Nam có ba lớp động lực phù hợp với Agentic AI: mục tiêu quốc gia về AI và chuyển đổi số; nền kinh tế
+số tăng trưởng; và nhu cầu tăng năng suất của doanh nghiệp vừa và nhỏ. Quyết định 127/QĐ-TTg ban
+hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng AI đến năm 2030. Cổng Chuyển đổi số
+quốc gia nêu các mục tiêu như kinh tế số chiếm 20% GDP, tỷ trọng kinh tế số trong từng ngành/lĩnh vực tối
+thiểu 10% và năng suất lao động hằng năm tăng tối thiểu 7%. [S15][S16]
+Hệ sinh thái hạ tầng và đầu tư AI tại Việt Nam cũng đang có tín hiệu mạnh: Reuters đưa tin Nvidia và Chính
+phủ Việt Nam ký thỏa thuận lập trung tâm R&D; AI và trung tâm dữ liệu AI; FPT có kế hoạch xây AI factory
+dùng chip và phần mềm Nvidia; Qualcomm mở trung tâm R&D; AI tại Việt Nam tập trung cả generative và
+agentic AI cho smartphone, PC, XR, automotive và IoT. [S19]
+Ở tầng doanh nghiệp nội địa, FPT AI, Viettel AI, VinAI/Qualcomm và nhiều đơn vị chuyển đổi số đã bắt đầu
+nói nhiều hơn về AI agent, intelligent process automation, voicebot, contact center, data-to-decision và
+agentic workflow. Điều này cho thấy thị trường đang dịch chuyển từ chatbot sang agent, nhưng nhiều
+khoảng trống vẫn còn ở triển khai dọc ngành, dữ liệu tiếng Việt, bảo mật, đánh giá và vận hành thực tế.
+[S20][S21][S22]
+ Lớp bối cảnh
+ Điểm thuận lợi
+ Điểm nghẽn
+ Cơ hội cho startup/SME
+Chính sách
+Chiến lược AI 2030, chuyển đổi số,
+dữ liệu quốc gia, công nghiệp công
+nghệ số.
+Quy định AI, dữ liệu cá nhân, sandbox
+và trách nhiệm vẫn cần cụ thể hóa
+theo ngành.
+AI governance, audit, tư vấn tuân
+thủ, agent sandbox.
+Hạ tầng
+Nvidia, Qualcomm, FPT, trung tâm
+dữ liệu và AI factory tạo tín hiệu đầu
+tư.
+Chi phí compute, thiếu chuyên gia
+MLOps/AgentOps, phụ thuộc nền tảng
+nước ngoài.
+Hybrid/on-prem agent, tối ưu chi phí,
+private RAG, edge/industrial agent.
+Doanh nghiệp
+SME nhiều quy trình lặp lại: sales,
+CSKH, kế toán, kho, nhân sự,
+marketing.
+Dữ liệu phân mảnh, thiếu quy trình
+chuẩn, ngại rủi ro bảo mật.
+Agentic workflow package theo
+ngành, triển khai nhanh, đo ROI rõ.
+Ngôn ngữ/văn hóa
+Tiếng Việt, quy trình địa phương,
+luật/biểu mẫu Việt Nam là lợi thế
+bản địa.
+Dữ liệu chuẩn hóa tiếng Việt và
+domain ontology còn thiếu.
+Vietnamese data/context layer,
+legal/tax/customs agent.
+Thị trường số
+e-Conomy SEA theo dõi kinh tế số
+ASEAN và năm 2025 chuyển từ
+digital decade sang AI reality.
+Cạnh tranh khu vực và nguồn vốn
+sàng lọc khắt khe hơn.
+AI ứng dụng trực tiếp vào doanh
+thu/chi phí trong commerce,
+logistics, fintech, marketing.
+Nguồn chính phần này: [S15], [S16], [S17], [S18], [S19], [S20], [S21], [S22], [S23].
+6. Tác động tổng quan: lợi ích, mặt trái và nhóm bị ảnh
+hưởng
+Agentic AI tác động mạnh nhất đến các công việc có ba đặc điểm: quy trình lặp lại, dữ liệu đầu vào/đầu ra
+số hóa, và kết quả có thể đo được. Các nhóm như chăm sóc khách hàng, telesales, nhập liệu, kế toán cơ
+bản, hành chính, tuyển dụng sơ cấp, báo cáo định kỳ, phân tích junior, content junior và một phần lập trình
+junior sẽ không biến mất ngay, nhưng bị tái cấu trúc. Người lao động chuyển từ 'tự làm từng bước' sang
+'thiết kế yêu cầu, kiểm tra, phê duyệt, giám sát và xử lý ngoại lệ'.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 5 / 14
+
+
+
+--- PAGE 6 ---
+Mặt lợi gồm tăng năng suất, giảm thời gian chờ, giảm lỗi thủ công, mở rộng dịch vụ 24/7, cá nhân hóa ở
+quy mô lớn, và giúp SME có năng lực giống doanh nghiệp lớn hơn. Mặt trái gồm rò rỉ dữ liệu, hành động sai,
+thiên kiến, phụ thuộc nhà cung cấp, agent washing, chi phí ẩn, và rủi ro trách nhiệm nếu agent ra quyết
+định sai trong y tế, tài chính, tuyển dụng hoặc dịch vụ công.
+Giải pháp không phải là cấm agent, mà là thiết kế quyền hạn theo mức rủi ro: read-only trước, sau đó
+draft-only, sau đó action-with-approval, cuối cùng mới autonomous action trong phạm vi hẹp. Với mọi
+agent truy cập email, CRM, tài chính hoặc dữ liệu khách hàng, cần có phân quyền, logging, kiểm thử
+prompt injection, kiểm soát dữ liệu cá nhân, và nút dừng khẩn cấp.
+ Nhóm
+ Tác động
+ Cơ hội chuyển đổi
+Nhân viên tác vụ lặp lại
+Giảm nhu cầu làm tay; tăng yêu cầu kiểm soát
+chất lượng và xử lý ngoại lệ.
+Trở thành agent operator, QA reviewer,
+workflow analyst.
+Junior tri thức
+Một số tác vụ research, viết nháp, coding đơn
+giản, tổng hợp báo cáo bị tự động hóa.
+Học cách giao việc, kiểm định, dùng công cụ,
+hiểu domain sâu hơn.
+SME
+Có thể mở rộng bán hàng, CSKH, marketing, kế
+toán với ít người hơn.
+Dùng agent theo gói ngành, thuê dịch vụ triển
+khai thay vì tự xây.
+Công ty công nghệ
+Cạnh tranh chuyển từ bán chatbot sang bán
+workflow có ROI.
+Xây vertical agents, AgentOps, bảo mật, dữ liệu,
+sandbox.
+Nhà nước và dịch vụ công
+Có thể tăng chất lượng phục vụ, giảm chờ đợi,
+chủ động nhắc hồ sơ.
+Agent dịch vụ công cần governance, minh bạch,
+kiểm toán mạnh.
+Nguồn chính phần này: [S6], [S7], [S8], [S9], [S11], [S12], [S13], [S14].
+7. Phân tích theo ngành: từ bài toán đến cơ hội
+Bảng dưới đây không chỉ liệt kê ngành, mà nêu rõ agent phục vụ mục đích gì, doanh nghiệp nào trả tiền, áp
+dụng ở đâu và rủi ro cần kiểm soát. Đây là lớp trung gian trước khi đi vào danh sách ngách cụ thể.
+ Ngành
+ Bài toán có thể agent hóa
+ Ai trả tiền
+ ROI/giá trị
+ Rủi ro chính
+Giáo dục
+Tutor cá nhân, trợ giảng, soạn bài,
+chấm bài, theo dõi tiến độ, nhắc học.
+Trường học, trung tâm,
+edtech, doanh nghiệp đào
+tạo nội bộ.
+Cá nhân hóa học tập,
+giảm tải giáo viên, tăng
+retention.
+Dữ liệu trẻ em, chất
+lượng sư phạm, phụ
+thuộc AI, thiên kiến.
+Y tế
+Điều phối lịch, nhắc tái khám, tóm tắt
+hồ sơ, hỗ trợ mã hóa bệnh án/bảo
+hiểm.
+Bệnh viện, phòng khám,
+bảo hiểm, healthtech.
+Giảm chờ, giảm lỗi hành
+chính, tăng năng suất bác
+sĩ.
+Sai khuyến nghị, dữ
+liệu sức khỏe, trách
+nhiệm chuyên môn.
+Tài chính - ngân
+hàng
+KYC, AML, phân tích hồ sơ tín dụng,
+tuân thủ, phát hiện gian lận.
+Ngân hàng, ví điện tử,
+công ty tài chính,
+microfinance.
+Giảm chi phí xử lý hồ sơ,
+phát hiện rủi ro sớm.
+Giải thích quyết định,
+dữ liệu nhạy cảm, quy
+định cao.
+SME
+Sales, CSKH, kế toán, tồn kho,
+marketing, báo cáo quản trị.
+Chủ SME, chuỗi bán lẻ,
+D2C, dịch vụ chuyên
+nghiệp.
+Tăng năng suất nhanh,
+chi phí thấp hơn thuê đội
+lớn.
+Dữ liệu rời rạc, nhân sự
+chưa sẵn sàng, bảo
+mật.
+Logistics
+Tối ưu tuyến, điều phối tài xế, quản lý
+kho, ETA, chứng từ xuất nhập khẩu.
+3PL, sàn TMĐT, kho,
+doanh nghiệp xuất nhập
+khẩu.
+Giảm chi phí giao hàng,
+giảm tồn kho, tăng đúng
+hẹn.
+Dữ liệu thời gian thực,
+tích hợp hệ thống, sai
+quyết định vận hành.
+Sản xuất
+Bảo trì dự đoán, QC bằng vision, lập
+kế hoạch sản xuất, quản lý ca/kho.
+Nhà máy, khu công
+nghiệp, SI, OEM/ODM.
+Giảm downtime, giảm
+phế phẩm, tăng OEE.
+An toàn máy móc, dữ
+liệu sensor, trách
+nhiệm khi agent can
+thiệp.
+Nông nghiệp
+Dự báo mùa vụ, sâu bệnh, giá, thời
+tiết, tư vấn vật tư, chuỗi cung ứng.
+HTX, doanh nghiệp nông
+nghiệp, ngân hàng nông
+nghiệp, địa phương.
+Ra quyết định tốt hơn cho
+nông dân nhỏ, giảm lãng
+phí.
+Dữ liệu phân tán, độ tin
+cậy dự báo, khả năng
+chi trả.
+Chính phủ số
+Hỏi đáp dịch vụ công, kiểm tra hồ sơ,
+nhắc hạn, phân tích phản ánh.
+Cơ quan nhà nước, địa
+phương, đơn vị tích hợp.
+Giảm tải quầy, tăng minh
+bạch, phục vụ 24/7.
+Dữ liệu công dân, trách
+nhiệm pháp lý, giải
+thích quyết định.
+Marketing -
+truyền thông
+Lập kế hoạch chiến dịch, tạo nội
+dung, tối ưu ads, phân tích khách
+hàng.
+Agency, SME, retail,
+e-commerce.
+Tốc độ sản xuất nội dung
+và thử nghiệm tăng
+mạnh.
+Sai lệch, đạo nhái,
+deepfake, thương hiệu.
+An ninh mạng
+SOC agent, triage cảnh báo, phản
+ứng sự cố, kiểm tra cấu hình,
+phishing simulation.
+Doanh nghiệp, MSSP,
+ngân hàng, nhà máy.
+Giảm quá tải cảnh báo,
+phản ứng nhanh.
+Agent bị lợi dụng,
+quyền quá rộng,
+dual-use.
+Nguồn chính phần này: [S6], [S8], [S9], [S11], [S14], [S18], [S19], [S21], [S22].
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 6 / 14
+
+
+
+--- PAGE 7 ---
+8. Bản đồ 40 ngách cụ thể cho doanh nghiệp vừa và
+nhỏ/startup
+Tiêu chí lựa chọn ngách: có vấn đề thật, người trả tiền rõ, có thể làm MVP trong 3-6 tháng, có thể triển khai
+pilot trong 6-12 tháng, không cần tự huấn luyện mô hình nền tảng, và có lợi thế bản địa ở tiếng Việt, dữ liệu
+ngành, tích hợp hệ thống hoặc tuân thủ.
+ Ngách
+ Khách hàng trả
+ tiền
+ MVP/sản phẩm ban đầu
+ Mục đích, áp dụng và lưu ý
+1. AgentOps &
+observability
+Công ty dùng nhiều
+agent, SI, ngân hàng,
+SaaS.
+Dashboard trace, log hành động, chi
+phí, lỗi, cảnh báo vượt quyền.
+Giúp đưa agent vào production. Cần tích
+hợp LLM gateway và audit trail.
+2. AI Agent Evaluation
+Studio
+Doanh nghiệp, vendor AI,
+ngân hàng, bảo hiểm.
+Bộ test tiếng Việt, benchmark theo
+task, hallucination và policy violation.
+Đo agent trước khi mua/triển khai; dễ bán
+cho bên sợ rủi ro.
+3. Agent Security Gateway
+Doanh nghiệp có dữ liệu
+nhạy cảm.
+Proxy kiểm soát prompt, data loss,
+secrets, quyền API, approval.
+Ngách bảo mật có giá trị cao. Rủi ro kỹ
+thuật sâu nhưng nhu cầu tăng.
+4. Agentic RPA Migration
+Doanh nghiệp đang dùng
+RPA/Excel/manual.
+Chuyển 1-2 quy trình rule-based sang
+agent có exception handling.
+Dịch vụ tư vấn + triển khai. Dễ bắt đầu
+với back-office.
+5. SME Sales CRM Agent
+SME B2B, trung tâm giáo
+dục, dịch vụ.
+Agent đọc lead, phân loại, nhắc sales,
+soạn follow-up, cập nhật CRM.
+ROI nhanh nếu đo tỷ lệ phản hồi và doanh
+thu.
+6. Human-agent Contact
+Center
+Bank, bán lẻ, bảo hiểm,
+telco, SME có tổng đài.
+Voice/chat agent có handoff, tóm tắt
+cuộc gọi, gợi ý phản hồi.
+Không chỉ voicebot; cần quy trình chuyển
+người và QA.
+7. Kế toán hóa đơn SME
+SME, hộ kinh doanh lớn,
+chuỗi cửa hàng.
+Đọc hóa đơn, đối soát, nhắc thanh
+toán, tạo báo cáo dòng tiền.
+Cần tích hợp phần mềm kế toán và kiểm
+soát dữ liệu tài chính.
+8. Tax & compliance
+agent Việt Nam
+SME, kế toán dịch vụ,
+công ty tư vấn.
+Theo dõi văn bản thuế, tạo checklist
+hồ sơ, cảnh báo hạn nộp.
+Nhu cầu rõ nhưng phải có disclaimer và
+human review.
+9. Procurement/tender
+agent
+Nhà thầu SME, công ty
+xây dựng, nhà cung ứng
+B2G/B2B.
+Tìm gói thầu, đọc yêu cầu, checklist
+hồ sơ, soạn nháp.
+Giảm thời gian chuẩn bị thầu; cần nguồn
+dữ liệu đáng tin.
+10. Legal contract ops
+agent
+SME, legaltech, công ty
+xuất nhập khẩu.
+Tóm tắt hợp đồng, phát hiện điều
+khoản rủi ro, workflow phê duyệt.
+Không thay luật sư; bán như công cụ hỗ
+trợ review.
+11. Logistics route
+dispatch agent
+3PL, giao nhận, chuỗi bán
+lẻ.
+Tối ưu tuyến, phân tài xế, xử lý trễ,
+nhắn khách.
+ROI ở chi phí vận chuyển và đúng hẹn;
+cần dữ liệu thời gian thực.
+12. Warehouse/inventory
+agent
+Kho TMĐT, bán lẻ, sản
+xuất nhẹ.
+Dự báo tồn kho, nhắc đặt hàng, phát
+hiện lệch tồn.
+Phù hợp SME có dữ liệu bán hàng nhưng
+thiếu planner.
+13. Export-import
+documentation agent
+Doanh nghiệp xuất nhập
+khẩu, forwarder,
+logistics.
+Checklist chứng từ, đọc HS code, nhắc
+deadline, soạn email đối tác.
+Ngách rất Việt Nam; cần cập nhật pháp
+lý/hải quan và human approval.
+14. Supply chain risk
+watch agent
+Nhà máy, nhà nhập khẩu,
+doanh nghiệp FDI.
+Theo dõi tin tức, cảng, tỷ giá, nhà
+cung cấp, cảnh báo rủi ro.
+Bán dạng subscription cho
+procurement/logistics manager.
+15. Manufacturing QA
+vision agent
+Nhà máy may, điện tử,
+thực phẩm, bao bì.
+Vision kiểm lỗi + agent tạo ticket,
+phân tích root cause.
+Kết hợp computer vision, IoT, workflow;
+cần dữ liệu hình ảnh.
+16. Predictive
+maintenance agent
+Nhà máy, tòa nhà, khu
+công nghiệp.
+Đọc sensor/log, dự báo lỗi, lập lịch bảo
+trì, tạo phiếu việc.
+Giá trị ở giảm downtime; cần tích hợp
+thiết bị.
+17. Production planning
+agent
+SME sản xuất, xưởng
+OEM/ODM.
+Lập kế hoạch ca, vật tư, máy, đơn
+hàng, cảnh báo trễ.
+Có thể bắt đầu bằng Excel + ERP nhẹ; cần
+hiểu vận hành.
+18. Industrial safety agent
+Nhà máy, kho, cảng.
+Phân tích camera/sensor, nhắc PPE,
+ghi nhận vi phạm an toàn.
+Rủi ro quyền riêng tư và an toàn lao động;
+cần governance.
+19. Learning Agent
+Designer platform
+Edtech, trường, trung
+tâm, doanh nghiệp đào
+tạo.
+Công cụ tạo tutor theo chương trình,
+rubric, lộ trình cá nhân.
+Bán cho tổ chức, không chỉ app học cá
+nhân.
+20. Teacher admin agent
+Trường phổ thông, trung
+tâm, đại học.
+Soạn bài, tạo quiz, chấm nháp, theo
+dõi tiến độ, báo phụ huynh.
+Giảm tải hành chính; cần kiểm soát nội
+dung giáo dục.
+21. Corporate reskilling
+agent
+Doanh nghiệp, ngân
+hàng, nhà máy.
+Đánh giá kỹ năng, gợi ý khóa học,
+tutor nội bộ, theo dõi tiến bộ.
+Ăn theo nhu cầu upskill AI; bán B2B
+HR/L&D.
+22. Hospital flow agent
+Bệnh viện, phòng khám,
+chuỗi y tế.
+Điều phối lịch khám, nhắc bệnh nhân,
+tóm tắt hồ sơ hành chính.
+Bắt đầu từ hành chính y tế, tránh tư vấn
+chẩn đoán tự động.
+23. Medical claims/coding
+agent
+Bảo hiểm, bệnh viện,
+phòng khám.
+Đọc hồ sơ, gợi ý mã, kiểm tra thiếu
+chứng từ, tạo claim.
+ROI ở giảm lỗi claim; rủi ro dữ liệu sức
+khỏe cao.
+24. KYC/AML document
+agent
+Ngân hàng, fintech, ví
+điện tử.
+Đọc hồ sơ, phát hiện thiếu/sai, cảnh
+báo giao dịch rủi ro.
+Ngành trả tiền tốt nhưng yêu cầu bảo mật
+và giải thích quyết định.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 7 / 14
+
+
+
+--- PAGE 8 ---
+Ngách
+ Khách hàng trả
+ tiền
+ MVP/sản phẩm ban đầu
+ Mục đích, áp dụng và lưu ý
+25. Credit memo agent
+Công ty tài chính,
+microfinance, ngân hàng
+SME.
+Tóm tắt hồ sơ vay, nguồn thu, lịch sử,
+rủi ro, đề xuất câu hỏi thẩm định.
+Không tự phê duyệt; hỗ trợ analyst và
+audit.
+26. Marketing campaign
+agent
+SME bán lẻ, agency, D2C,
+nhà hàng.
+Lập kế hoạch, tạo content, A/B test,
+tối ưu ngân sách, báo cáo.
+Thị trường đông nhưng dễ bán; cần tránh
+nội dung rác và vi phạm IP.
+27. E-commerce ops
+agent
+Shop đa sàn, D2C, nhà
+phân phối.
+Cập nhật sản phẩm, phản hồi chat, xử
+lý đổi trả, theo dõi đánh giá.
+ROI rõ cho seller vừa; tích hợp sàn là lợi
+thế.
+28. Retail media/ad
+optimization agent
+Chuỗi bán lẻ, sàn, brand
+FMCG.
+Phân tích dữ liệu bán hàng, đề xuất
+campaign và tối ưu ads.
+Ngách tăng theo retail media và
+AI-powered ads.
+29. SOC triage agent
+MSSP, doanh nghiệp
+vừa-lớn, ngân hàng.
+Tóm tắt alert, ưu tiên sự cố, đề xuất
+playbook, tạo ticket.
+Không cho tự khắc phục rộng ngay; dùng
+approval theo mức độ.
+30. Phishing defense
+agent
+SME, trường, ngân hàng,
+tổ chức công.
+Tạo mô phỏng phishing, huấn luyện cá
+nhân hóa, đo rủi ro người dùng.
+Dễ thương mại hóa dạng subscription.
+31. Agent for public
+service navigation
+Địa phương, đơn vị tích
+hợp GovTech.
+Hỏi đáp thủ tục, kiểm tra hồ sơ, nhắc
+hạn, hướng dẫn biểu mẫu.
+Bắt đầu ở read/draft; dữ liệu công dân cần
+bảo vệ nghiêm.
+32. Citizen feedback
+analytics agent
+Cơ quan nhà nước, đô thị
+thông minh.
+Phân loại phản ánh, ưu tiên, chuyển
+đơn vị xử lý, báo cáo xu hướng.
+Tạo giá trị xã hội rõ; cần minh bạch và
+tránh thiên kiến.
+33. Vietnamese RAG/data
+layer
+Mọi doanh nghiệp xây
+agent tiếng Việt.
+Pipeline làm sạch, phân quyền, vector
+search, ontology, đánh giá retrieval.
+Ngách hạ tầng bản địa, có thể bán B2B
+cho nhiều ngành.
+34. Connector registry
+Vietnam
+Vendor agent, SME dùng
+nhiều SaaS Việt Nam.
+Bộ connector cho MISA, KiotViet,
+Haravan, Sapo, CRM, ERP nội địa.
+Khó nhưng có moat; cần đối tác hệ sinh
+thái.
+35. Multi-agent
+orchestration studio
+Doanh nghiệp cần nhiều
+agent phối hợp.
+Canvas thiết kế workflow, phân quyền,
+eval, version, approval.
+Cạnh tranh với Big Tech; nên chuyên biệt
+tiếng Việt/ngành.
+36. Agent marketplace
+theo ngành
+SME muốn mua nhanh
+agent đã đóng gói.
+Kho template agent cho kế toán,
+sales, HR, logistics, marketing.
+Cần tiêu chuẩn đánh giá và bảo mật để
+tránh agent kém.
+37. AI agent
+insurance/risk assessor
+Bảo hiểm, doanh nghiệp
+dùng agent rủi ro cao.
+Mô hình đánh giá rủi ro agent, yêu cầu
+log, chứng nhận an toàn.
+Ngách tương lai; phụ thuộc khung pháp lý
+và nhu cầu bảo hiểm.
+38. Digital twin workforce
+manager
+Doanh nghiệp lớn, BPO,
+nhà máy.
+Mô phỏng workload giữa người và
+agent, tính headcount/chi phí/ROI.
+Phù hợp tư vấn chiến lược, chưa phải
+mass-market ngay.
+39. Physical AI/robot
+operations agent
+Kho, nhà máy, logistics,
+smart city.
+Agent điều phối robot/camera/edge AI,
+báo cáo và xử lý ngoại lệ.
+Ngách dài hạn, cần phần cứng và an toàn
+vận hành.
+40. Agentic AI sandbox &
+training for SME
+Hiệp hội SME, ngân hàng,
+địa phương, trường đại
+học.
+Sandbox dữ liệu giả lập, khóa học, bộ
+mẫu quy trình, tư vấn pilot.
+Cầu nối thị trường: giúp SME hiểu và thử
+trước khi mua.
+Nguồn chính phần này: tổng hợp từ [S1]-[S23], đặc biệt các tín hiệu về enterprise agents, chuyển đổi số Việt Nam, hạ tầng
+AI, rủi ro governance và nhu cầu SME.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 8 / 14
+
+
+
+--- PAGE 9 ---
+9. Top 12 ngách nên ưu tiên nếu là startup/SME Việt
+Nam
+Cách chấm: 1-5 cho mỗi tiêu chí. Điểm cao nghĩa là tốt hơn. Riêng tiêu chí rủi ro được hiểu là 'khả năng
+kiểm soát rủi ro' chứ không phải mức rủi ro tuyệt đối. Tổng điểm tối đa trong bảng rút gọn là 50.
+Hạ
+ng
+ Ngách
+Xu
+ hư
+ớn
+ g
+ V
+N
+fit
+ Nh
+u c
+ầu/
+ROI
+Ít n
+gườ
+ i
+làm
+sâu
+Học
+ 6-1
+2 th
+áng
+Sản
+ phẩ
+ m
+hóa
+ Th
+ươ
+ng
+mạ
+ i
+ Kiể
+m s
+oát
+rủi
+ ro
+ Ch
+ấp
+nh
+ận
+Tổ
+ng
+ Lý do chọn
+1
+SME Sales/CRM + CSKH
+agent
+5
+5
+5
+3
+4
+5
+5
+3
+5
+40
+ROI nhanh, dễ pilot, nhu cầu
+rộng.
+2
+AgentOps & Evaluation
+tiếng Việt
+5
+4
+4
+5
+3
+5
+4
+4
+4
+38
+Thị trường càng dùng agent càng
+cần kiểm thử và giám sát.
+3
+Export-import
+documentation agent
+4
+5
+5
+4
+4
+4
+4
+3
+4
+37
+Đặc thù Việt Nam, chứng từ
+nhiều, lỗi tốn tiền.
+4
+Kế toán hóa đơn +
+cashflow agent
+4
+5
+5
+3
+4
+4
+5
+3
+4
+37
+SME trả tiền nếu giảm thời gian
+và lỗi.
+5
+Logistics
+route/warehouse agent
+5
+5
+5
+3
+3
+4
+4
+3
+4
+36
+ROI ở giao vận, tồn kho,
+e-commerce.
+6
+Vietnamese
+RAG/data/context layer
+5
+5
+4
+4
+3
+4
+4
+4
+3
+36
+Hạ tầng bản địa cho nhiều
+vertical agents.
+7
+Cyber SOC triage +
+agent security
+5
+4
+5
+4
+2
+4
+4
+3
+4
+35
+Nhu cầu cao, giá trị cao, nhưng
+cần kỹ thuật sâu.
+8
+Agentic RPA migration
+4
+5
+4
+4
+4
+4
+4
+4
+4
+37
+Dễ bán dưới dạng dịch vụ triển
+khai cho quy trình cũ.
+9
+Manufacturing
+QA/maintenance agent
+5
+4
+5
+4
+2
+4
+4
+3
+3
+34
+Giá trị lớn nhưng cần dữ liệu và
+triển khai hiện trường.
+10
+Teacher/admin learning
+agent
+4
+5
+4
+3
+4
+4
+4
+3
+4
+35
+Nhu cầu xã hội cao, phù hợp giáo
+dục Việt Nam.
+11
+KYC/AML and
+compliance agent
+5
+4
+5
+3
+2
+4
+4
+2
+3
+32
+Ngân hàng trả tiền tốt nhưng quy
+định và bảo mật cao.
+12
+Public service
+navigation agent
+4
+5
+4
+3
+3
+4
+3
+2
+4
+32
+Tác động xã hội rõ; chu kỳ bán
+hàng công dài hơn.
+Khuyến nghị chọn ngách theo loại doanh nghiệp: Nếu là startup ít vốn, hãy bắt đầu với SME Sales/CRM
+agent, Agentic RPA migration hoặc kế toán hóa đơn vì dữ liệu dễ tiếp cận và ROI dễ chứng minh. Nếu có đội
+kỹ thuật mạnh, chọn AgentOps/evaluation, agent security hoặc Vietnamese data layer. Nếu có quan hệ
+ngành, chọn export-import, logistics, sản xuất hoặc ngân hàng.
+10. Nghề mới và năng lực mới cho tổ chức
+Với doanh nghiệp, câu hỏi quan trọng không chỉ là 'nghề nào mất' mà là 'vai trò nào cần có để vận hành lực
+lượng lao động số'. Các nghề dưới đây có thể là chức danh chính thức hoặc năng lực kiêm nhiệm trong
+team sản phẩm, vận hành, dữ liệu, an ninh mạng và quản trị rủi ro.
+ Nhóm nghề/năng
+ lực
+ Mô tả
+ Kỹ năng chính
+ Doanh nghiệp cần khi
+ nào
+AI Workflow Analyst
+Phân tích quy trình hiện tại, tách tác vụ
+nào cho người, tác vụ nào cho agent.
+BA, BPMN, dữ liệu, prompt,
+KPI/ROI.
+Khi chuyển từ thủ công/RPA
+sang agentic workflow.
+AI Agent Product Manager
+Thiết kế sản phẩm agent, quyết định
+quyền hạn, UX, giá, roadmap.
+Product, domain, eval,
+compliance, go-to-market.
+Khi bán agent như SaaS hoặc
+tích hợp cho khách hàng.
+Context/Data Engineer for
+Agents
+Làm sạch, phân quyền, embedding,
+retrieval, ontology, data contracts.
+Data engineering, RAG, security,
+metadata.
+Khi agent cần dùng dữ liệu nội
+bộ/tri thức ngành.
+Agentic Automation
+Engineer
+Xây tool/API, workflow, approval, error
+handling.
+Python/JS, API, integration,
+orchestration.
+Khi agent phải hành động thật
+trong phần mềm.
+AgentOps Specialist
+Giám sát, version, log, tracing, chi phí, lỗi,
+rollback.
+Observability, DevOps/MLOps,
+LLM eval, security.
+Khi có nhiều agent chạy
+production.
+AI Agent Evaluator
+Thiết kế bộ test và tiêu chí pass/fail cho
+agent.
+Evaluation, QA, data labeling,
+domain rubric.
+Trước khi triển khai agent ở
+ngành rủi ro hoặc quy mô lớn.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 9 / 14
+
+
+
+--- PAGE 10 ---
+Nhóm nghề/năng
+ lực
+ Mô tả
+ Kỹ năng chính
+ Doanh nghiệp cần khi
+ nào
+AI Governance Specialist
+Quản trị chính sách, dữ liệu, trách nhiệm,
+kiểm toán.
+ISO 42001, NIST AI RMF, pháp lý,
+risk management.
+Khi agent truy cập dữ liệu nhạy
+cảm hoặc ra quyết định quan
+trọng.
+Human-Agent Team
+Designer
+Thiết kế mô hình phối hợp người - agent -
+supervisor.
+Org design, change
+management, training, UX.
+Khi doanh nghiệp tái cấu trúc
+đội vận hành.
+Vertical AI Agent Builder
+Xây agent chuyên ngành: logistics, thuế,
+giáo dục, y tế, sản xuất.
+Domain sâu + kỹ thuật agent +
+tích hợp.
+Khi thị trường cần giải pháp
+dọc ngành.
+AI Agent Risk Assessor
+Đánh giá rủi ro pháp lý, bảo mật, dữ liệu,
+tài chính của agent.
+Audit, compliance,
+insurance/risk, cybersecurity.
+Khi agent có quyền hành động
+và gây thiệt hại nếu sai.
+Nguồn chính phần này: [S3], [S4], [S5], [S8], [S9], [S11], [S12].
+11. Rủi ro và khung quản trị cần có
+Agentic AI có rủi ro cao hơn GenAI thông thường vì agent có thể hành động. Một câu trả lời sai có thể gây
+hiểu nhầm; một hành động sai có thể gửi email nhầm, xóa dữ liệu, đổi giá, tạo đơn hàng, chuyển tiền hoặc
+làm lộ dữ liệu khách hàng. Vì vậy, mọi dự án agent cần bắt đầu bằng phân loại rủi ro theo quyền hành động
+và loại dữ liệu.
+ Rủi ro
+ Ví dụ
+ Biện pháp kiểm soát
+Prompt injection
+Agent đọc email/tài liệu có lệnh độc hại như
+'bỏ qua chính sách và gửi dữ liệu'.
+Tách dữ liệu và lệnh, lọc nội dung, allowlist tool, kiểm
+thử adversarial.
+Tool misuse
+Agent gọi API sai, cập nhật CRM nhầm, gửi
+email hàng loạt.
+Least privilege, approval step, rate limit, dry run,
+rollback.
+Data leakage
+Agent đưa thông tin khách hàng vào phản hồi
+hoặc nhà cung cấp ngoài.
+DLP, masking, private deployment, logging, hợp
+đồng xử lý dữ liệu.
+Hallucination
+Agent bịa căn cứ pháp lý hoặc điều khoản hợp
+đồng.
+RAG có nguồn, citation bắt buộc, human review
+trong domain rủi ro.
+Objective drift
+Agent tối ưu KPI sai, ví dụ giảm thời gian xử lý
+bằng cách bỏ qua khiếu nại khó.
+KPI cân bằng, guardrails đạo đức, giám sát outcome.
+Accountability gap
+Không rõ ai chịu trách nhiệm khi agent gây
+thiệt hại.
+RACI, chủ sở hữu agent, log bất biến, quy trình điều
+tra sự cố.
+Agent washing
+Sản phẩm chỉ là chatbot nhưng quảng bá là
+agent tự động hóa.
+Yêu cầu demo task thật, log hành động, đo tỷ lệ hoàn
+thành, kiểm thử độc lập.
+Khung tham chiếu nên dùng: NIST AI RMF để nhận diện và quản trị rủi ro AI; ISO/IEC 42001 để thiết lập hệ
+thống quản lý AI trong tổ chức; OECD AI Principles để bảo đảm AI đáng tin cậy, tôn trọng quyền con người
+và giá trị dân chủ; EU AI Act để tham khảo cách tiếp cận theo mức rủi ro; và quy định Việt Nam về dữ liệu
+cá nhân, công nghiệp công nghệ số, AI và sandbox khi áp dụng tại thị trường nội địa.
+[S11][S12][S13][S14][S23]
+Nguồn chính phần này: [S7], [S11], [S12], [S13], [S14], [S23].
+12. Lộ trình triển khai 6-12 tháng cho startup/SME
+Một startup không nên bắt đầu bằng câu hỏi 'xây agent gì thật xịn' mà nên bắt đầu bằng câu hỏi 'quy trình
+nào đang tốn tiền, có dữ liệu, có người phê duyệt, có KPI, và nếu agent làm tốt thì ai ký hợp đồng'.
+ Giai đoạn
+ Mục tiêu
+ Việc cần làm
+ Kết quả đầu ra
+0-4 tuần
+Chọn ngách và chứng minh
+nỗi đau.
+Phỏng vấn 15-30 khách hàng, mapping
+workflow, tính chi phí lỗi/thời gian, chọn task
+hẹp.
+Problem brief, ICP, ROI giả
+định, danh sách dữ liệu cần
+có.
+Tháng 2-3
+MVP read/draft-only.
+Làm RAG, tool giả lập, UI phê duyệt, log, bộ
+test 50-100 case tiếng Việt.
+Demo xử lý task thật nhưng
+chưa tự hành động nguy
+hiểm.
+Tháng 4-6
+Pilot có kiểm soát.
+Tích hợp 1-2 hệ thống, approval, dashboard
+ROI, lỗi, thời gian, chi phí token.
+Pilot report: trước/sau, tỷ lệ
+hoàn thành, lỗi, tiết kiệm.
+Tháng 7-9
+Product hóa.
+Đóng gói template theo ngành, onboarding,
+RBAC, audit log, pricing theo seat/task/value.
+SaaS/service package, case
+study, playbook triển khai.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 10 / 14
+
+
+
+--- PAGE 11 ---
+Giai đoạn
+ Mục tiêu
+ Việc cần làm
+ Kết quả đầu ra
+Tháng 10-12
+Mở rộng và tạo moat.
+Thêm connector, bộ dữ liệu ngành, chứng
+nhận/tuân thủ, partner với SI/hiệp hội.
+Doanh thu lặp lại, kênh bán,
+khả năng nhân rộng.
+Checklist MVP an toàn: (1) bắt đầu bằng read-only hoặc draft-only; (2) mọi hành động có log; (3) có human
+approval; (4) có test set; (5) có bảng đo ROI; (6) có phân quyền dữ liệu; (7) có kill switch; (8) có điều khoản
+trách nhiệm; (9) không xử lý dữ liệu nhạy cảm khi chưa có cơ sở pháp lý/hợp đồng; (10) đo tỷ lệ thành công
+theo task, không chỉ đo số câu trả lời hay.
+13. Khung tự đánh giá một ngách có đáng theo không
+Dưới đây là bộ tiêu chí rút gọn từ đề cương nghiên cứu để dùng khi quyết định chọn một ngách. Nên chấm
+1-5 và chỉ theo đuổi nếu tổng điểm trên 35/50 hoặc có lợi thế đặc biệt về khách hàng, dữ liệu, domain hoặc
+kênh bán.
+ Tiêu chí
+ Câu hỏi đánh giá
+ Dấu hiệu tốt
+Vấn đề thật
+Khách hàng có đang mất tiền/thời gian vì vấn
+đề này không?
+Có quy trình lặp lại, backlog, lỗi, SLA hoặc chi phí
+nhân sự rõ.
+Người trả tiền
+Ai có ngân sách và quyền quyết định?
+Có trưởng bộ phận/owner KPI chịu đau trực tiếp.
+Dữ liệu
+Dữ liệu có sẵn, hợp pháp, đủ sạch và có phân
+quyền không?
+Có tài liệu, CRM, ERP, ticket, email, biểu mẫu, log.
+Khả năng agent hóa
+Task có cần suy luận + hành động nhiều bước
+không?
+Có nhiều ngoại lệ nhưng vẫn có SOP và đầu ra đo
+được.
+ROI
+Có đo được trước/sau không?
+Giảm giờ công, tăng doanh thu, giảm lỗi, giảm thời
+gian xử lý.
+Cạnh tranh
+Đối thủ đang ở chatbot, automation hay agent
+thật?
+Khoảng trống ở workflow, tích hợp, tiếng Việt, ngành
+cụ thể.
+Rủi ro
+Dữ liệu/pháp lý/bảo mật có kiểm soát được
+không?
+Có thể bắt đầu read-only/draft-only và tăng quyền
+dần.
+Khả năng học
+Đội ngũ có học trong 6-12 tháng được không?
+Không cần train model nền tảng; cần domain +
+integration + eval.
+Sản phẩm hóa
+Có thể đóng gói thành SaaS/template/service
+không?
+Nhiều khách hàng có quy trình tương tự.
+Phù hợp Việt Nam
+Có bám chiến lược AI/chuyển đổi số/kinh tế số
+không?
+Tăng năng suất, dùng tiếng Việt, phục vụ SME/ngành
+ưu tiên.
+14. Trả lời câu hỏi nghiên cứu trung tâm
+Trong bối cảnh Agentic AI phát triển toàn cầu và Việt Nam thúc đẩy AI, chuyển đổi số, đổi mới sáng tạo đến
+năm 2030, các ngách có khả năng xuất hiện cao nhất là: AgentOps và AI agent evaluation; vertical AI
+agents cho SME, logistics, xuất nhập khẩu, kế toán, CSKH, giáo dục và sản xuất; agent security và
+governance; data/context layer tiếng Việt; multi-agent orchestration; human-agent team design; và các
+dịch vụ sandbox/đào tạo chuyển đổi quy trình. Nhóm lao động bị ảnh hưởng mạnh nhất là nhóm làm tác vụ
+số lặp lại, có quy trình và dữ liệu rõ; nhóm hưởng lợi nhất là người/doanh nghiệp biết biến kiến thức ngành
+thành workflow agent có kiểm soát. Việt Nam nên ưu tiên tầng ứng dụng, dữ liệu, tích hợp và governance
+trước khi cố cạnh tranh trực diện ở mô hình nền tảng hoặc chip.
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 11 / 14
+
+
+
+--- PAGE 12 ---
+15. Nguồn tham khảo chính theo phần
+Các nguồn dưới đây được ưu tiên vì là tổ chức nghiên cứu, cơ quan nhà nước, công ty công nghệ lớn, tiêu
+chuẩn quốc tế hoặc hãng tin uy tín. Nguồn mạng xã hội/X chỉ nên dùng như tín hiệu thị trường phụ, không
+nên dùng làm căn cứ chính nếu không có tài liệu gốc đi kèm.
+ Phần
+ Nguồn khuyến nghị
+Định nghĩa và công nghệ
+MIT Sloan [S1], IBM [S2], DeepLearning.AI [S3], OpenAI [S4], Anthropic [S5], FPT AI [S22].
+Xu hướng doanh nghiệp
+McKinsey [S6], Gartner [S7], Microsoft Work Trend Index [S9], Stanford HAI [S10].
+Lao động và kỹ năng
+WEF Future of Jobs [S8], Microsoft [S9], Stanford HAI [S10].
+Governance/rủi ro
+NIST AI RMF [S11], ISO/IEC 42001 [S12], OECD [S13], EU AI Act [S14], pháp lý Việt Nam [S23].
+Việt Nam
+Quyết định 127/QĐ-TTg [S15], Cổng Chuyển đổi số [S16], NIC/VOV [S17], Reuters về
+Nvidia/Qualcomm/FPT [S19], Qualcomm/VinAI [S20], Viettel AI [S21], FPT AI [S22].
+Kinh tế số ASEAN
+e-Conomy SEA 2025 của Google, Temasek, Bain [S18].
+16. Danh mục tài liệu tham khảo
+ Mã
+ Nguồn
+ Tài liệu
+ URL
+S1
+MIT Sloan
+Agentic AI, explained
+https://mitsloan.mit.edu/ideas-made-to-matter/agentic-
+ai-explained
+S2
+IBM Think
+What is Agentic AI?
+https://www.ibm.com/think/topics/agentic-ai
+S3
+DeepLearning.AI
+Agentic AI course by Andrew Ng
+https://learn.deeplearning.ai/courses/agentic-ai/informa
+tion
+S4
+OpenAI
+New tools for building agents; Introducing
+AgentKit
+https://openai.com/index/new-tools-for-building-agents/
+; https://openai.com/index/introducing-agentkit/
+S5
+Anthropic
+Building Effective Agents; How we built our
+multi-agent research system
+https://www.anthropic.com/engineering/building-effecti
+ve-agents ; https://www.anthropic.com/engineering/mu
+lti-agent-research-system
+S6
+McKinsey
+The State of AI: Global Survey 2025
+https://www.mckinsey.com/capabilities/quantumblack/
+our-insights/the-state-of-ai
+S7
+Gartner
+Gartner Predicts Over 40% of Agentic AI
+Projects Will Be Canceled by End of 2027
+https://www.gartner.com/en/newsroom/press-releases/
+2025-06-25-gartner-predicts-over-40-percent-of-agenti
+c-ai-projects-will-be-canceled-by-end-of-2027
+S8
+World Economic Forum
+Future of Jobs Report 2025 press release
+https://www.weforum.org/press/2025/01/future-of-jobs-
+report-2025-78-million-new-job-opportunities-by-2030-
+but-urgent-upskilling-needed-to-prepare-workforces/
+S9
+Microsoft Vietnam
+Work Trend Index 2025: Sự ra đời của
+Doanh nghiệp Tiên phong
+https://news.microsoft.com/vi-vn/2025/06/12/bao-cao-c
+hi-so-xu-huong-cong-viec-nam-2025-su-ra-doi-cua-doan
+h-nghiep-tien-phong/
+S10
+Stanford HAI
+The 2025 AI Index Report
+https://hai.stanford.edu/ai-index/2025-ai-index-report
+S11
+NIST
+AI Risk Management Framework
+https://www.nist.gov/itl/ai-risk-management-framework
+S12
+ISO
+ISO/IEC 42001:2023 AI management
+systems
+https://www.iso.org/standard/42001
+S13
+OECD
+AI Principles
+https://www.oecd.org/en/topics/ai-principles.html
+S14
+European Commission
+AI Act implementation timeline
+https://digital-strategy.ec.europa.eu/en/policies/regulat
+ory-framework-ai
+S15
+Chinhphu.vn
+Quyết định 127/QĐ-TTg - Chiến lược AI đến
+năm 2030
+https://vanban.chinhphu.vn/default.aspx?docid=20256
+5&pageid=27160
+S16
+Cổng Chuyển đổi số
+quốc gia
+Giới thiệu và mục tiêu chuyển đổi số
+https://dx.gov.vn/gioi-thieu.htm
+S17
+VOV/NIC
+Vietnam unveils report on AI economy for
+2025
+https://english.vov.vn/en/economy/vietnam-unveils-rep
+ort-on-ai-economy-for-2025-post1206533.vov
+S18
+Google, Temasek, Bain
+e-Conomy SEA 2025
+https://www.bain.com/insights/e-conomy-sea-2025/ ;
+https://economysea.withgoogle.com/
+S19
+Reuters
+Nvidia/Qualcomm/FPT AI infrastructure in
+Vietnam
+https://www.reuters.com/technology/nvidia-signs-ai-co
+operation-agreement-with-vietnamese-government-20
+24-12-05/ ; https://www.reuters.com/world/asia-pacific/
+qualcomm-launches-ai-rd-centre-vietnam-2025-06-11/
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 12 / 14
+
+
+
+--- PAGE 13 ---
+Mã
+ Nguồn
+ Tài liệu
+ URL
+S20
+Qualcomm
+Acquisition of VinAI/MovianAI division
+https://www.qualcomm.com/news/releases/2025/04/qu
+alcomm-expands-generative-ai-capabilities-with-acquis
+ition-of-
+S21
+Viettel AI
+AI ON AIR 2025 and AI Agent content
+https://viettelai.vn/tin-tuc/recap-ai-on-air-01-xu-huong-
+va-ung-dung-thuc-tien-cua-ai-agent-tu-goc-nhin-chuye
+n-gia
+S22
+FPT AI
+Agentic AI là gì?
+https://fpt.ai/vi/bai-viet/agentic-ai/
+S23
+Vietnam legal sources
+Dữ liệu cá nhân, Luật Công nghiệp Công
+nghệ số 2025 và các văn bản liên quan
+https://english.luatvietnam.vn/lawonthedigitaltechnolo
+gyindustryno71-2025-qh15datedjune142025ofthenatio
+nalassembly-405695-doc1.html ; https://english.luatvie
+tnam.vn/decree-no-13-2023-nd-cp-dated-april-17-2023
+-of-the-government-on-personal-data-protection-24979
+1-doc1.html
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 13 / 14
+
+
+
+--- PAGE 14 ---
+Phụ lục A - Cách dùng báo cáo để ra quyết định
+1. Nếu mục tiêu là làm startup nhanh: chọn một ngách có khách hàng cụ thể, dữ liệu sẵn và tác vụ hẹp.
+Không bắt đầu bằng nền tảng tổng quát.
+2. Nếu mục tiêu là làm dịch vụ tư vấn: chọn Agentic RPA migration, AI workflow audit, AgentOps setup hoặc
+AI governance. Các dịch vụ này cần hiểu quy trình hơn là cần đội nghiên cứu mô hình lớn.
+3. Nếu mục tiêu là làm sản phẩm công nghệ có moat: chọn Vietnamese data/context layer, connector
+registry, agent security gateway hoặc evaluation studio. Đây là ngách hạ tầng khó hơn nhưng có thể dùng
+lại cho nhiều ngành.
+4. Nếu mục tiêu là ngành có tác động xã hội: chọn giáo dục, y tế hành chính, dịch vụ công hoặc nông
+nghiệp. Cần thiết kế an toàn, minh bạch và human-in-the-loop rõ ràng.
+5. Nếu mục tiêu là B2B có ngân sách lớn: chọn ngân hàng, logistics, sản xuất, an ninh mạng hoặc xuất
+nhập khẩu. Chu kỳ bán dài hơn nhưng giá trị hợp đồng lớn hơn.
+6. Dấu hiệu nên dừng một ngách: không có người trả tiền rõ; dữ liệu không truy cập hợp pháp; task quá rủi
+ro nhưng không thể human review; ROI không đo được; khách hàng chỉ muốn demo chứ không có ngân
+sách; sản phẩm chỉ là chatbot đổi tên.
+Phụ lục B - Bộ câu hỏi phỏng vấn khách hàng pilot
+- Quy trình nào đang tốn nhiều giờ nhất mỗi tuần?
+ 
+- Sai sót nào gây mất tiền hoặc mất khách hàng nhiều nhất?
+ 
+- Dữ liệu đầu vào nằm ở đâu: email, Excel, CRM, ERP, phần mềm kế toán, Zalo, sàn TMĐT?
+ 
+- Ai đang phê duyệt bước cuối cùng và tiêu chí đúng/sai là gì?
+ 
+- Nếu agent chỉ tạo nháp và cần người duyệt, có giúp tiết kiệm thời gian không?
+ 
+- Nếu agent tự hành động, hành động nào tuyệt đối không được phép?
+ 
+- Một pilot thành công cần cải thiện KPI nào: thời gian, chi phí, doanh thu, lỗi, SLA, NPS?
+ 
+- Doanh nghiệp sẵn sàng trả theo seat, task, tháng, hay % giá trị tiết kiệm?
+ 
+- Dữ liệu nào là nhạy cảm, cần masking, không được gửi ra cloud?
+ 
+- Ai sẽ là owner nội bộ sau khi triển khai: vận hành, IT, phòng ban nghiệp vụ hay ban giám đốc?
+ 
+Báo cáo nghiên cứu Agentic AI - ngách nghề và cơ hội cho SME/startup Việt Nam
+Trang 14 / 14

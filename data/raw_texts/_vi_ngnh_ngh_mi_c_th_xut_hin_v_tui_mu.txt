@@ -1,0 +1,228 @@
+--- PAGE 1 ---
+Đ ố  v ớ i ngành ngh ề  m ớ i có th ể  xu ấ t hi ệ n, và tui mu ố n sâu h ơ n v ề  nh ữ ng ngành
+ngh ề  đó ph ụ c v ụ  cho m ụ c đích gì, cho doanh nghi ệ p nào, áp d ụ ng ch ỗ  nào ki ể u
+ki ể u v ậ y, b ạ n có th ể  t ự  đ ề  xu ấ t . c ụ  th ể
+Ngành ngh ề  m ớ i t ừ  Agentic AI: các h ướ ng c ụ  th ể
+Agentic AI (h ệ  tác t ử  t ự  đ ộ ng, đa tác v ụ ) không ch ỉ  thay th ế  vi ệ c l ặ p l ạ i, mà đang t ạ o ra ngh ề  m ớ i + ngách ngành
+m ớ i quanh vi ệ c thi ế t k ế , giám sát, tích h ợ p và “đ ồ ng nghi ệ p hóa” AI. D ướ i đây là các nhóm ngh ề / ngành, m ụ c đích,
+doanh nghi ệ p m ụ c tiêu và b ố i c ả nh ứ ng d ụ ng, d ự a trên t ổ ng quan nghiên c ứ u g ầ n đây.
+1. Nhóm ngh ề  m ớ i quanh Agentic AI (ch ứ c năng & m ụ c đích)
+2. Ngành / doanh nghi ệ p nào s ẽ  dùng m ạ nh?
+Các ngành ư u tiên tác t ử  t ự  đ ộ ng
+Ngành / doanh
+nghi ệ p
+Lo ạ i tác v ụ  giao cho
+Agentic AI
+Doanh nghi ệ p
+phù h ợ p Ngu ồ n
+Tài chính –
+ngân hàng
+Phân tích r ủ i ro, giao
+d ị ch t ự  đ ộ ng, tuân
+th ủ , báo cáo
+Ngân hàng,
+fintech, b ả o
+hi ể m
+(Hosseini & Seilani, 2025; Acharya et al., 2025;
+Sagar & WellsFargo, 2025; Golani, 2025;
+Gadde, 2025; Negnevitsky, 2025; Jadhav &
+Banubakode, 2024)
+Ki ế n trúc s ư  h ệ  tác t ử  / Agentic AI Architect•
+Thi ế t k ế  h ệ  nhi ề u tác t ử , phân rã nhi ệ m v ụ , b ộ  nh ớ , ph ố i h ợ p t ự  đ ộ ng.•
+M ụ c đích: t ự  đ ộ ng hóa quy trình ph ứ c t ạ p, ra quy ế t đ ị nh t ự  ch ủ  ở  quy mô l ớ n (Sapkota et al., 2025; Hosseini &
+Seilani, 2025; Hughes et al., 2025; Acharya et al., 2025; Golani, 2025; Gadde, 2025; Negnevitsky, 2025).
+•
+AI Governance & Ethics (AI Ethics Officer, AI Compliance Architect)•
+Xây khung đ ạ o đ ứ c, tuân th ủ , gi ả i trình (gi ả m r ủ i ro thiên l ệ ch, sai sót, trách nhi ệ m pháp lý) (Hosseini & Seilani,
+2025; Hughes et al., 2025; Acharya et al., 2025; Murugesan & Murugesan, 2025; Harsha, 2025; Jadhav &
+Banubakode, 2024; Shen & Zhang, 2024).
+•
+Human–AI Orchestrator / Automation Strategist•
+Quy ế t đ ị nh ph ầ n nào giao cho tác t ử  (automation), ph ầ n nào tăng l ự c con ng ườ i (augmentation); thi ế t k ế  quy
+trình ph ố i h ợ p ng ườ i–AI (Hosseini & Seilani, 2025; Hughes et al., 2025; Tripathi, 2025; Gadde, 2025;
+Babashahi et al., 2024; Shao et al., 2025; Shen & Zhang, 2024).
+•
+AI Behavior / Safety Analyst•
+Phân tích hành vi b ấ t th ườ ng, l ỗ i ph ố i h ợ p, emergent behavior c ủ a h ệ  nhi ề u tác t ử ; tinh ch ỉ nh ràng bu ộ c an
+toàn (Sapkota et al., 2025; Hughes et al., 2025; Acharya et al., 2025; Murugesan & Murugesan, 2025; Shao et
+al., 2025).
+•
+Chuyên gia k ỹ  năng & đào t ạ o AI (AI skills designer)•
+Xây ch ươ ng trình reskilling/upskilling, k ỹ  năng m ề m – sáng t ạ o – xã h ộ i khó t ự  đ ộ ng hóa (Babashahi et al.,
+2024; Carbonero et al., 2023; Long & Thao, 2025; Ha*, 2023; Shen & Zhang, 2024; Ngo et al., 2025).
+•
+1 / 5
+
+
+
+--- PAGE 2 ---
+Ngành / doanh
+nghi ệ p
+Lo ạ i tác v ụ  giao cho
+Agentic AI
+Doanh nghi ệ p
+phù h ợ p Ngu ồ n
+Y t ế  – chăm sóc
+s ứ c kh ỏ e
+L ậ p phác đ ồ  cá
+nhân hóa, h ỗ  tr ợ
+ch ẩ n đoán, đi ề u
+ph ố i ca b ệ nh
+B ệ nh vi ệ n, phòng
+khám, healthtech
+(Sapkota et al., 2025; Hosseini & Seilani, 2025;
+Hughes et al., 2025; Acharya et al., 2025;
+Golani, 2025; Gadde, 2025; Negnevitsky,
+2025; Babashahi et al., 2024)
+Chu ỗ i cung ứ ng
+– logistics – s ả n
+xu ấ t
+D ự  báo, t ố i ư u t ồ n
+kho, l ậ p l ị ch máy &
+nhân s ự , robot ph ố i
+h ợ p
+Hãng logistics,
+nhà máy, bán l ẻ
+(Hughes et al., 2025; Golani, 2025; Gadde,
+2025; Negnevitsky, 2025; Babashahi et al.,
+2024; Shen & Zhang, 2024)
+D ị ch v ụ  khách
+hàng /
+marketing
+Chatbot tác t ử , cá
+nhân hóa chi ế n
+d ị ch, qu ả n lý đa
+kênh
+Telco, th ươ ng
+m ạ i đi ệ n t ử , SaaS
+(Sapkota et al., 2025; Hosseini & Seilani, 2025;
+Golani, 2025; Gadde, 2025; Babashahi et al.,
+2024; Jadhav & Banubakode, 2024)
+Pháp lý, ki ể m
+toán, tuân th ủ
+Rà soát văn b ả n,
+ki ể m tra chu ẩ n m ự c,
+giám sát r ủ i ro
+Hãng lu ậ t, Big4,
+b ộ  ph ậ n
+compliance
+(Sapkota et al., 2025; Hosseini & Seilani, 2025;
+Sagar & WellsFargo, 2025; Babashahi et al.,
+2024; Jadhav & Banubakode, 2024; Shen &
+Zhang, 2024)
+Giáo d ụ c &
+EdTech
+Tr ợ  gi ả ng cá nhân
+hóa, đánh giá t ự
+đ ộ ng, l ộ  trình h ọ c
+Tr ườ ng ĐH, n ề n
+t ả ng h ọ c online
+(Babashahi et al., 2024; Ha*, 2023; Shen &
+Zhang, 2024; Ngo et al., 2025)
+FIGURE 1 Ngành tiêu bi ể u ứ ng d ụ ng h ệ  tác t ử  AI
+2 / 5
+
+
+
+--- PAGE 3 ---
+3. Ứ ng d ụ ng c ụ  th ể  trong doanh nghi ệ p
+4. H ướ ng ngành/ngh ề  g ợ i ý riêng cho b ố i c ả nh Vi ệ t Nam
+Conclusion
+Agentic AI m ở  ra c ả  “l ớ p ngh ề  m ớ i” xoay quanh ki ế n trúc, an toàn, đ ạ o đ ứ c, ph ố i h ợ p ng ườ i–AI và phát tri ể n k ỹ
+năng, đ ồ ng th ờ i t ạ o c ơ  h ộ i cho doanh nghi ệ p ở  tài chính, y t ế , s ả n xu ấ t, d ị ch v ụ , giáo d ụ c. Ai n ắ m đ ượ c b ứ c tranh
+quy trình doanh nghi ệ p + hi ể u cách “giao vi ệ c cho tác t ử ” s ẽ  n ằ m đúng tâm c ủ a các ngành ngh ề  m ớ i này.
+These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at
+https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires
+copyright holders’ consent.
+References
+Acharya, D., Kuppan, K., & Bhaskaracharya, D. (2025). Agentic AI: Autonomous Intelligence for Complex Goals—A
+Comprehensive Survey. IEEE Access, 13, 18912-18936. https://doi.org/10.1109/access.2025.3532853
+“Autopilot” v ậ n hành doanh nghi ệ p•
+Tác t ử  ch ạ y end ‑ to ‑ end: kéo d ữ  li ệ u, phân tích, ra quy ế t đ ị nh, kích ho ạ t hành đ ộ ng (g ử i email, t ạ o ticket, c ậ p
+nh ậ t CRM) (Sapkota et al., 2025; Hosseini & Seilani, 2025; Golani, 2025; Gadde, 2025; Negnevitsky, 2025).
+•
+Dùng nhi ề u ở : v ậ n hành tài chính, chăm sóc khách hàng, qu ả n lý chu ỗ i cung ứ ng.•
+T ự  đ ộ ng hóa nghiên c ứ u & R&D•
+Agentic AI cho t ổ ng h ợ p tài li ệ u, đ ề  xu ấ t gi ả  thuy ế t, thi ế t k ế  thí nghi ệ m trong khoa h ọ c, y sinh, tài chính đ ị nh
+l ượ ng (Sapkota et al., 2025; Hughes et al., 2025; Acharya et al., 2025; Golani, 2025; Negnevitsky, 2025).
+•
+Qu ả n tr ị  nhân s ự  & k ỹ  năng•
+H ệ  tác t ử  phân tích k ỹ  năng, đ ề  xu ấ t l ộ  trình đào t ạ o, d ự  báo thi ế u h ụ t k ỹ  năng, nh ấ t là ở  các n ề n kinh t ế  đang
+phát tri ể n nh ư  Vi ệ t Nam (Babashahi et al., 2024; Carbonero et al., 2023; Long & Thao, 2025; Shen & Zhang,
+2024; Ngo et al., 2025).
+•
+N ề n t ả ng B2B “AI-as-a-worker”•
+Startup/nhà cung c ấ p SaaS bán “tác t ử  chuyên ngành” c ắ m th ẳ ng vào quy trình doanh nghi ệ p (k ế  toán, pháp
+ch ế , marketing, v ậ n hành) (Hosseini & Seilani, 2025; Golani, 2025; Tripathi, 2025; Gadde, 2025; Negnevitsky,
+2025; Shao et al., 2025; Jadhav & Banubakode, 2024).
+•
+T ư  v ấ n chi ế n l ượ c Agentic AI cho SME•
+Giúp doanh nghi ệ p nh ỏ /ch ư a s ố  hóa ch ọ n quy trình phù h ợ p đ ể  t ự  đ ộ ng hóa, thi ế t k ế  mô hình ng ườ i–AI, x ử  lý
+chênh l ệ ch h ạ  t ầ ng (Babashahi et al., 2024; Carbonero et al., 2023; Long & Thao, 2025; Shen & Zhang, 2024;
+Ngo et al., 2025).
+•
+Chuyên gia n ộ i đ ị a hóa & đào t ạ o AI ti ế ng Vi ệ t•
+G ắ n d ữ  li ệ u ti ế ng Vi ệ t, văn hóa, chu ẩ n m ự c đ ị a ph ươ ng vào h ệ  tác t ử ; d ạ y AI hi ể u b ố i c ả nh – phép l ị ch s ự  –
+ẩ n d ụ  văn hóa (Long & Thao, 2025).
+•
+Nhà thi ế t k ế  h ệ  sinh thái k ỹ  năng & h ọ c t ậ p su ố t đ ờ i•
+Làm vi ệ c ở  tr ườ ng ĐH, vi ệ n, t ổ  ch ứ c nhà n ướ c đ ể  xây h ệ  sinh thái k ỹ  năng t ươ ng thích k ị ch b ả n “Adaptive
+Innovation Ecosystem” (h ọ c su ố t đ ờ i, d ự  báo k ỹ  năng b ằ ng AI, g ắ n k ế t nhà tr ườ ng – doanh nghi ệ p) (Ha*,
+2023; Shen & Zhang, 2024; Ngo et al., 2025).
+•
+3 / 5
+
+
+
+--- PAGE 4 ---
+Babashahi, L., Barbosa, C., Lima, Y., Lyra, A., Salazar, H., Argôlo, M., Almeida, M., & Souza, J. (2024). AI in the
+Workplace: A Systematic Review of Skill Transformation in the Industry. Administrative Sciences.
+https://doi.org/10.3390/admsci14060127
+Carbonero, F., Davies, J., Ernst, E., Fossen, F., Samaan, D., & Sorgner, A. (2023). The impact of artificial intelligence
+on labor markets in developing countries: a new method with an illustration for Lao PDR and urban Viet Nam.
+Journal of Evolutionary Economics, 1 - 30. https://doi.org/10.1007/s00191-023-00809-7
+Gadde, A. (2025). AI Agents: The autonomous workforce for automating workflows across industries. World
+Journal of Advanced Engineering Technology and Sciences. https://doi.org/10.30574/wjaets.2025.15.2.0744
+Golani, R. (2025). The Rise of AI Agents: Transforming Enterprise Automation. International Journal of Advances in
+Engineering and Management. https://doi.org/10.35629/5252-0704132139
+Ha*, T. (2023). THE IMPACT OF ARTIFICIAL INTELLIGENCE ON EMPLOYMENT TRENDSAND THE DEMANDS
+ON VIETNAMESE UNIVERSITIES. T ạ p chí Khoa h ọ c Tr ườ ng Đ ạ i h ọ c M ở  Hà N ộ i.
+https://doi.org/10.59266/houjs.2023.306
+Harsha, S. (2025). Navigating the Future of Work: The Impact of Artificial Intelligence on Jobs, Skills, and
+Workforce Dynamics. International Journal of Business and Management Invention.
+https://doi.org/10.35629/8028-14056779
+Hosseini, S., & Seilani, H. (2025). The role of agentic AI in shaping a smart future: A systematic review. Array, 26,
+100399. https://doi.org/10.1016/j.array.2025.100399
+Hughes, L., Dwivedi, Y., Malik, T., Shawosh, M., Albashrawi, M., Jeon, I., Dutot, V., Appanderanda, M., Crick, T., De',
+R., Fenwick, M., Gunaratnege, S., Jurcys, P., Kar, A., Kshetri, N., Li, K., Mutasa, S., Samothrakis, S., Wade, M., &
+Walton, P. (2025). AI Agents and Agentic Systems: A Multi-Expert Analysis. Journal of Computer Information
+Systems, 65, 489 - 517. https://doi.org/10.1080/08874417.2025.2483832
+Jadhav, R., & Banubakode, A. (2024). The Implications of Artificial Intelligence on the Employment Sector.
+International Journal For Multidisciplinary Research. https://doi.org/10.36948/ijfmr.2024.v06i03.22716
+Long, T., & Thao, T. (2025). Employment Opportunities Created By Artificial Intelligence (Ai). International Journal
+of Advances in Engineering and Management. https://doi.org/10.35629/5252-0704757761
+Murugesan, S., & Murugesan, S. (2025). The Rise of Agentic AI: Implications, Concerns, and the Path Forward. IEEE
+Intelligent Systems, 40, 8-14. https://doi.org/10.1109/mis.2025.3544940
+Negnevitsky, M. (2025). The Rise of Autonomous AI Agents: Automating Complex Tasks. International Journal of
+Artificial Intelligence for Science (IJAI4S). https://doi.org/10.63619/ijai4s.v1i2.007
+Ngo, Q., Nguyen, Q., & Vu, C. (2025). Envisioning Future Workforce Adaptability: A Multi ‐ Layered Analysis of Skills
+Ecosystems in Vietnam's Emerging Economy. FUTURES & FORESIGHT SCIENCE.
+https://doi.org/10.1002/ffo2.70000
+Sagar, V., & WellsFargo, G. (2025). AI-Driven Finance: Career Evolution in the Autonomous Era. Journal of
+Information Systems Engineering and Management. https://doi.org/10.52783/jisem.v10i59s.12828
+Sapkota, R., Roumeliotis, K., & Karkee, M. (2025). AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications
+and Challenges. Inf. Fusion, 126, 103599. https://doi.org/10.1016/j.inffus.2025.103599
+Shao, Y., Zope, H., Jiang, Y., Pei, J., Nguyen, D., Brynjolfsson, E., & Yang, D. (2025). Future of Work with AI Agents:
+Auditing Automation and Augmentation Potential across the U.S. Workforce. ArXiv, abs/2506.06576.
+https://doi.org/10.48550/arxiv.2506.06576
+4 / 5
+
+
+
+--- PAGE 5 ---
+Shen, Y., & Zhang, X. (2024). The impact of artificial intelligence on employment: the role of virtual agglomeration.
+Humanities and Social Sciences Communications, 11, 1-14. https://doi.org/10.1057/s41599-024-02647-9
+Tripathi, M. (2025). Autonomous Generative AI Agents in the Workforce: Transforming Industry Operations.
+International Research Journal on Advanced Engineering and Management (IRJAEM).
+https://doi.org/10.47392/irjaem.2025.0265
+5 / 5

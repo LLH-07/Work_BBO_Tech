@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Cơ hội Việt Nam">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8de3ff"/><stop offset="1" stop-color="#c6ff8d"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".32"/></filter>
+</defs>
+<rect width="900" height="520" rx="36" fill="#0b1020"/>
+<circle cx="130" cy="96" r="82" fill="#8de3ff" opacity=".16"/>
+<circle cx="760" cy="420" r="120" fill="#c6ff8d" opacity=".12"/>
+
+<g font-family="Arial" filter="url(#shadow)">
+  <rect x="90" y="100" width="720" height="320" rx="36" fill="#111832" stroke="#263151"/>
+  <text x="450" y="158" text-anchor="middle" fill="#edf2ff" font-size="34" font-weight="900">Việt Nam: cửa sổ vàng</text>
+  <text x="450" y="200" text-anchor="middle" fill="#a9b4d0" font-size="20">Doanh nghiệp vừa và nhỏ • tiếng Việt • quy trình dọc • quản trị</text>
+  <g transform="translate(170 250)"><circle r="50" fill="url(#g)"/><text y="8" text-anchor="middle" fill="#07101e" font-size="22" font-weight="900">DN nhỏ</text></g>
+  <g transform="translate(350 250)"><circle r="50" fill="url(#g)"/><text y="8" text-anchor="middle" fill="#07101e" font-size="20" font-weight="900">Zalo</text></g>
+  <g transform="translate(530 250)"><circle r="50" fill="url(#g)"/><text y="8" text-anchor="middle" fill="#07101e" font-size="20" font-weight="900">Quản trị DN</text></g>
+  <g transform="translate(710 250)"><circle r="50" fill="url(#g)"/><text y="8" text-anchor="middle" fill="#07101e" font-size="18" font-weight="900">Luật</text></g>
+  <path d="M220 250 H300 M400 250 H480 M580 250 H660" stroke="#8de3ff" stroke-width="7" stroke-linecap="round"/>
+</g>
+
+</svg>

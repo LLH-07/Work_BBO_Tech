@@ -1,0 +1,1183 @@
+BAO CAO CHIEN LUOC
+
+AGENTIC AI
+Co Hoi & Giai Phap Cho Doanh
+Nghiep Vua va Nho
+Ung Dung Trong: Ke Toan | San Xuat | Logistic | Phap Ly
+
+Nghien cuu va tong hop tu: McKinsey Global Institute | Gartner | World Economic Forum |
+Stanford HAI | a16z | WEF | OpenAI Research | Microsoft Research | Sequoia Capital
+
+Bien soan: AI Consulting Research Team | Phien ban: Thang 05/2026
+
+4
+
+20+
+
+30+
+
+10+
+
+Linh vuc nghien cuu
+
+Noi dau chinh duoc phan
+tich
+
+Giai phap AI cu the
+
+Ngach moi tiem nang
+
+Tai lieu nay duoc tong hop nham cung cap buc tranh toan canh ve nhung thach thuc ma cac
+doanh nghiep vua va nho dang doi mat trong ky nguyen Agentic AI. Dua tren nghien cuu cua cac
+to chuc hang dau the gioi, bao cao goi y nhung giai phap cu the ma mot startup cong nghe co the
+phat trien de phuc vu tung nganh doc.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 1
+
+MUC LUC
+I. TONG QUAN THI TRUONG & BOI CANH AGENTIC AI
+1.1 Agentic AI la gi va tai sao quan trong voi doanh nghiep
+1.2 Thong ke & xu huong toan cau 2025-2026
+
+II. KE TOAN & TAI CHINH
+2.1 Noi dau & quy trinh thu cong
+2.2 Nhu cau cua doanh nghiep
+2.3 Giai phap AI co the cung cap
+
+III. SAN XUAT (MANUFACTURING)
+3.1 Noi dau & quy trinh thu cong
+3.2 Nhu cau cua doanh nghiep
+3.3 Giai phap AI co the cung cap
+
+IV. LOGISTIC & CHUOI CUNG UNG
+4.1 Noi dau & quy trinh thu cong
+4.2 Nhu cau cua doanh nghiep
+4.3 Giai phap AI co the cung cap
+
+V. PHAP LY & TUAN THU (LEGAL & COMPLIANCE)
+5.1 Noi dau & quy trinh thu cong
+5.2 Nhu cau cua doanh nghiep
+5.3 Giai phap AI co the cung cap
+
+VI. NGANH NGHE MOI TIEM NANG CHO STARTUP
+6.1 Cac ngach cu the cho doanh nghiep vua va nho
+6.2 Mo ta sau: muc dich, doi tuong, ung dung
+
+VII. DANH MUC NGUON THAM KHAO
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 2
+
+I. TONG QUAN THI
+TRUONG
+
+Boi canh Agentic AI & Co hoi
+cho SME Viet Nam
+
+1.1 Agentic AI la gi va tai sao quan trong?
+Agentic AI la the he moi cua tri tue nhan tao, khong chi tra loi cau hoi ma con tu dong thuc hien ca
+mot quy trinh lam viec nhieu buoc voi kha nang lap ke hoach, ra quyet dinh va hanh dong doc lap.
+Khac voi chatbot hay RPA truyen thong theo quy tac co dinh, AI Agent co the: (1) Phan tich boi
+canh; (2) Phan ra nhiem vu con; (3) Tuong tac voi he thong ben ngoai; (4) Dieu chinh khi co tinh
+huong bat ngo; (5) Hoan thanh muc tieu cuoi cung ma khong can con nguoi can thiep lien tuc.
+Theo McKinsey (2025), Agentic AI la 'nuoc di chien luoc tiep theo trong tu dong hoa doanh nghiep'
+- tu cong cu ho tro workflow, nay AI co the so huu toan bo workflow. Do la nen tang de mot startup
+cong nghe co the tao ra san pham co gia tri cao cho SME.
+
+1.2 So lieu & xu huong toan cau 2025-2026
+
+88%
+
+62%
+
+72%
+
+$1.5T
+
+to chuc su dung AI
+thuong xuyen trong it
+nhat 1 chuc nang
+(McKinsey 2025)
+
+doanh nghiep dang thu
+nghiem AI Agent
+(McKinsey State of AI
+2025)
+
+tang truong su dung
+GenAI (tu 33% len 72%
+chi trong 1 nam)
+
+chi tieu AI toan cau du
+kien nam 2025 (Gartner)
+
+40%
+
+80%
+
+20%+
+
+44.6%
+
+ung dung doanh nghiep
+se tich hop AI Agent tu
+viec cu the den 2026
+(Gartner)
+
+CEO noi AI se buoc cac to
+chuc phai tai co cau
+nang luc hoat dong
+(Gartner 2026)
+
+giam chi phi logistics nho
+agentic AI (McKinsey
+Advanced Industries)
+
+CAGR thi truong AI ke
+toan, dat $10.87 ty vao
+2026 (Mordor
+Intelligence)
+
+Viet Nam & Dong Nam A: Bo Thong tin va Truyen thong (MIC) va Cuc Chuyen doi so Quoc gia xac
+dinh ke toan so, nha may thong minh, logistic thong minh va phap ly so la 4 trong 10 uu tien
+chuyen doi so quoc gia 2025-2030. Viet Nam co hon 800.000 SME, phan lon van dung quy trinh
+thu cong - day la thi truong tiem nang rong lon cho giai phap AI.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 3
+
+II. KE TOAN & TAI
+CHINH
+
+Accounting & Finance
+Automation
+
+Ke toan la mot trong nhung linh vuc co ti le ap dung AI cao nhat nhung cung la noi nhieu SME van
+bi ket o cong viec thu cong nhat. Thi truong AI ke toan toan cau dat $10.87 ty USD vao 2026 voi
+CAGR 44.6%, trong do SME chinh la dong luc tang truong chinh.
+
+2.1 NOI DAU DOANH NGHIEP (Pain Points)
+Nhom 1: Nhap lieu & Xu ly chung tu thu cong
+Dac diem quy trinh hien tai
+• 66% doi ngu ke toan AP van nhap thu cong du lieu hoa don vao he thong ERP (IFOL
+2025)
+• 63% doi ngu mat hon 10 gio/tuan chi xu ly hoa don; trung binh 15 gio nhap lieu + 12 gio
+doi soat
+• Ty le loi nhap lieu thu cong: 10-15%; moi loi mat trung binh $53 de sua + rui ro phat
+tuan thu
+• Quy trinh: Nhan hoa don (email/giay) -> In ra -> Nhap tay vao Excel/ERP -> Doi soat ->
+Gui duyet -> Thanh toan -> Luu tru
+• Thoi gian xu ly 1 hoa don thu cong: trung binh 19.5 ngay; chi phi $13.11/hoa don
+(PLANERGY 2025)
+
+Nhom 2: Doi soat tai khoan & Ket so sach
+Dac diem quy trinh hien tai
+• Doi soat ngan hang: Kiem tra thu cong tung dong tren bao cao ngan hang vs so sach noi
+bo; mat 2-4 ngay/thang
+• Ket so sach cuoi thang/quy: Doi ngu lam viec thu cong qua dem; sai so giua cac he
+thong (CRM, ERP, ngan hang) gay cham tre
+• Nhieu cong ty ghi nhan ty le sai sot 3-5% tren cac giao dich doi soat; chi phi sua sai leo
+thang theo quy mo
+• Khong co kha nang real-time: phat hien van de chi o ket thuc ky ke toan, khong phai luc
+phat sinh
+• 40-60% thoi gian nhan su ke toan di vao cong viec gia tri thap (nhap lieu, doi soat) thay
+vi phan tich chien luoc
+
+Nhom 3: Bao cao tai chinh & Tuan thu thue
+Dac diem quy trinh hien tai
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 4
+
+• Lap bao cao tai chinh: Xuat du lieu tu nhieu he thong (ke toan, ban hang, nhan su) ->
+Tong hop Excel -> Format bao cao; mat 2-5 ngay
+• Khai bao thue: Thu thap chung tu, kiem tra tu dong thoa man dieu kien, nop via portal
+HTKK/eTax; nhieu buoc thu cong
+• Theo doi thay doi phap luat thue: Nhan vien tu cap nhat Thong tu, Nghi dinh moi; rui ro
+ap dung sai chinh sach
+• Phan tich dong tien: Phu thuoc Excel, khong co du bao tu dong; CFO thieu cong cu de ra
+quyet dinh kip thoi
+• Audit trail: Kho truy vet lich su chinh sua; ton time khi kiem toan yeu cau giai trinh
+
+Nhom 4: Quan ly chi phi & Quyet toan
+Dac diem quy trinh hien tai
+• Nhan vien nop chung tu chi phi bang giay hoac email -> Ke toan kiem tra thu cong ->
+Gap truong phong duyet -> Thanh toan; mat 1-2 tuan/quy trinh
+• Khong co he thong canh bao tu dong khi vuot ngan sach theo tung phong ban
+• Kho phan tich xu huong chi phi theo thoi gian thuc; bao cao chi co sau khi ky ke toan
+dong lai
+• Gian lan chi phi: Kho phat hien hoa don trung lap, chi phi ao do kiem tra thu cong
+
+2.2 NHU CAU CUA DOANH NGHIEP
+Theo khao sat cua Gartner (2025) tren 183 CFO va lanh dao tai chinh cap cao: 59% su dung AI
+trong tai chinh; 67% trong nhom do lac quan hon ve AI so voi nam truoc. Nhung rui ro chinh cam
+chan toc do ap dung la: (1) Chat luong du lieu; (2) Ky nang ky thuat noi bo; (3) Chi phi tich hop he
+thong cu.
+Nhu cau cap thiet: Tu dong hoa chung tu OCR, tich hop thue tu dong, real-time cash flow forecast,
+doi soat thong minh, va bao cao tu sinh. SME dac biet can giai phap khong can IT noi bo, dang ky
+theo thang, tich hop nhanh vao ERP/phan mem ke toan dang dung.
+
+2.3 GIAI PHAP AI CO THE CUNG CAP
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Nhap lieu hoa don thu cong,
+ty le loi 10-15%
+
+OCR + NLP Agent: Tu dong trich
+xuat hoa don (so, ngay, nha
+cung cap, so tien, thue) tu
+PDF/anh; do chinh xac >99%
+
+Giam 80% thoi gian xu ly;
+chi phi giam tu $13.11
+xuong $2.75/hoa don
+
+PLANERGY 2025;
+SuperAGI;
+McKinsey Ops
+
+Doi soat ngan hang mat 2-4
+ngay/thang
+
+AI Reconciliation Agent: Tu dong
+khop giao dich ngan hang voi so
+sach, flagging bat thuong
+real-time
+
+Giam 90% thoi gian doi
+soat; thoi gian duyet tu
+19.5 ngay xuong 3.2 ngay
+
+Workday AI Blog;
+DualEntry 2026
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 5
+
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Lap bao cao tai chinh mat
+2-5 ngay
+
+Report Generation Agent: Tu
+dong keo du lieu tu ERP/CRM,
+tong hop, sinh bao cao dinh
+dang chuan
+
+Rut ngan ky ket so sach;
+25% giam journal entries
+(Blackbaud/Workday case
+study)
+
+Workday 2025;
+McKinsey Finance
+
+Khai thue thu cong, rui ro
+nham luat
+
+Tax Compliance Agent: Tu giam
+sat thay doi Thong tu/Nghi dinh,
+canh bao, dien form, kiem tra
+truoc khi nop
+
+Giam 70% thoi gian khai
+bao thue; zero rui ro nop
+sai ky han
+
+Gartner CFO
+Survey 2025
+
+Du bao dong tien khong
+chinh xac
+
+Cash Flow Forecasting AI: Mo
+hinh du bao 90 ngay dua tren du
+lieu lich su + AR/AP + xu huong
+nganh
+
+Canh bao thieu hut truoc
+30-90 ngay; ho tro quyet
+dinh vay von kip thoi
+
+Fiskl SME AI 2025
+
+Gian lan chi phi & trung lap
+hoa don
+
+Fraud Detection Agent: Quet bat
+thuong, phat hien hoa don trung,
+giao dich ngoai chinh sach
+
+Giam 40% rui ro gian lan;
+tu dong canh bao
+CFO/controller
+
+Numeric AI; Ramp
+AI
+
+Cac cong nghe nen tang: OCR/NLP (Azure Form Recognizer, Google Document AI), RPA (UiPath, Automation
+Anywhere), LLM Agent (GPT-4o, Claude 3.5), ERP Connectors (MISA, Fast, SAP B1, Xero).
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 6
+
+III. SAN XUAT
+(MANUFACTURING)
+
+Smart Factory & Industrial AI
+Automation
+
+Linh vuc san xuat dang trong cuoc cach mang Industry 4.0 lan 2 - tu tu dong hoa vat ly (robot,
+PLC) sang tu dong hoa tri tue (AI Agent dieu phoi toan bo qua trinh san xuat). McKinsey (2025)
+bao cao nha may ap dung Agentic AI dat giam >20% chi phi logistics & ton kho va cai thien dang
+ke ty le phat hien loi san pham.
+
+3.1 NOI DAU DOANH NGHIEP (Pain Points)
+Nhom 1: Ke hoach san xuat & Quan ly don hang
+Dac diem quy trinh hien tai
+• Lap ke hoach san xuat: Thu thap don hang tu nhieu kenh (email, ERP, Excel) -> Ket hop
+voi ton kho nguyen lieu -> Lap lich tay trong Excel; mat 1-2 ngay/tuan
+• Khi co thay doi don hang dot xuat (khach huy/them), lich san xuat phai sua tay toan bo;
+gay ton thoi gian va sai sot
+• Kho toi uu: Thieu cong cu tinh toan opt. combination giua cong suat may, nguon luc
+nhan su va deadline giao hang
+• Ton kho nguyen lieu khong dong bo voi ke hoach san xuat: Thuong xuyen thieu nguyen
+lieu hoac du thua gay dong von
+• Bao cao hieu suat san xuat (OEE, takt time) phu thuoc nhap lieu thu cong; so lieu tre 1-3
+ngay so voi thuc te
+
+Nhom 2: Kiem soat chat luong (QC)
+Dac diem quy trinh hien tai
+• Kiem tra chat luong bang mat thuong: 2-4 nhan vien QC kieu tra thu cong; ty le phat
+hien loi chi dat 70-80%; moi mat mot nhan vien co kinh nghiem mat 6-12 thang dao tao
+• Ghi nhan loi san pham: Dien form giay hoac Excel theo ca lam; kho truy vet nguon goc
+loi (may nao, ca nao, lo nguyen lieu nao)
+• Xu ly san pham loi: Phat hien tre (cuoi chuyen), luc do san pham loi da tich luy nhieu; chi
+phi tai che cao
+• Khong co he thong du bao loi: Thieu kha nang phan tich du lieu lich su de canh bao xu
+huong loi truoc khi xay ra
+
+Nhom 3: Bao tri thiet bi & Downtime
+Dac diem quy trinh hien tai
+• Bao tri theo lich co dinh (calendar-based): Thay the linh kien theo dinh ky du thiet bi van
+tot; lang phi chi phi bao tri
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 7
+
+• Bao tri su co (reactive): May hong roi moi sua; downtime khong co ke hoach gay dan
+doan san xuat, tre giao hang
+• Theo doi trinh trang thiet bi thu cong: Ky thuat vien di kiem tra dinh ky, ghi so tay; thieu
+canh bao tu dong
+• Chi phi downtime trung binh: $260,000/gio voi nha may trung binh (theo Aberdeen
+Research); SME thap hon nhung van la gao nang noi
+
+Nhom 4: Quan ly nguyen lieu & Chuoi cung ung noi bo
+Dac diem quy trinh hien tai
+• Kiem ke hang hoa: Dem hang tay dinh ky (tuan/thang); so lieu ton kho khong real-time;
+de xay ra le=inh, vuot, mat mat
+• Dat mua nguyen lieu: Du bao nhu cau dua tren 'cam nhan' va lich su don gian; thuong
+dat du thua (dong von) hoac thieu (dan doan sx)
+• Quan ly nha cung cap: Chua co he thong danh gia nha cung cap toa dieu; kho theo doi
+tien do giao hang, chat luong, gia ca
+• Xu ly tra hang: Quy trinh xac nhan, ghi nhan, hoan tra hang loi cho NCC phu thuoc email
+va goi dien; kho truy vet
+
+3.2 NHU CAU
+Gartner (2025) xac dinh Agentic AI, Polyfunctional Robots, va Augmented Connected Workforce la
+3 xu huong cong nghe hang dau cho chuoi cung ung san xuat. 83% to chuc van ap dung AI theo
+tung buoc don le (Gartner Supply Chain 2026); chi 17% dang thiet ke lai toan bo quy trinh. Day la
+khoang trong startup co the chen vao.
+Nhu cau cu the: He thong MES nhe (Manufacturing Execution System), cong cu du bao nhu cau
+nguyen lieu, kiem tra chat luong tu dong bang computer vision, bao tri du bao (predictive
+maintenance), dashboard OEE real-time. SME san xuat can giai phap khong doi hoi CAPEX lon,
+trien khai nhanh (4-8 tuan), tich hop duoc voi may moc hien co.
+
+3.3 GIAI PHAP AI CO THE CUNG CAP
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Ke hoach sx tay, kho toi uu
+khi don hang thay doi
+
+Production Scheduling AI Agent:
+Tu dong lap va tai toi uu lich sx
+khi co thay doi; can bang tai
+may & nhan luc
+
+Giam 30-40% thoi gian lap
+ke hoach; tang OEE
+10-15%
+
+McKinsey
+Advanced
+Industries 2025
+
+QC bang mat, ty le phat hien
+loi thap
+
+Computer Vision QC: Camera AI
+kiem tra san pham tren day
+chuyen; phat hien loi hinh dang,
+mau sac, kich thuoc real-time
+
+Tang ty le phat hien loi tu
+75% len 95%+; giam chi
+phi re-work 40%
+
+McKinsey Agentic
+AI Industries 2025
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 8
+
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Bao tri reactive, downtime
+bat ngo
+
+Predictive Maintenance Agent:
+Thu thap data cam bien (rung,
+nhiet, am), phan tich xu huong,
+du bao thoi diem hong hoc
+
+Giam downtime 20-30%;
+tiet kiem chi phi bao tri
+10-25%
+
+Gartner Supply
+Chain Tech 2025
+
+Ton kho khong chinh xac,
+mis-forecast NVL
+
+Inventory Intelligence Agent: Du
+bao nhu cau NVL dua tren ML,
+lich sx, don hang; tu dong de
+xuat mua hang va muc toi uu
+
+Giam ton kho du thua
+20-30%; giam thieu hang
+15%
+
+McKinsey Seizing
+Agentic AI 2025
+
+Bao cao OEE tre, thieu
+visibility
+
+Real-time MES Dashboard + AI
+Analyst: Thu thap du lieu tu
+PLC/sensor, tinh OEE, takt time,
+sinh canh bao tu dong
+
+Quyet dinh dieu chinh sx
+trong ngay thay vi sau 1-3
+ngay
+
+Gartner ACWF
+Trends 2025
+
+Danh gia & quan ly nha cung
+cap thu cong
+
+Supplier Intelligence Agent: Tu
+dong thu thap du lieu giao hang,
+chat luong, gia ca; score card
+NCC; canh bao rui ro
+
+Giam rui ro gian doan NVL;
+toi uu chi phi mua hang
+5-15%
+
+WEF AI in Action
+2025
+
+Cong nghe nen tang: IoT Sensors + Edge Computing, Computer Vision (YOLO, AWS Rekognition), Time-series
+ML (Prophet, LSTM), MES Integration API, Low-code no-code platform.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 9
+
+IV. LOGISTIC & CHUOI
+CUNG UNG
+
+Supply Chain & Last-Mile
+Delivery AI
+
+Logistic la linh vuc huong loi nhieu nhat tu Agentic AI trong ngan han. Gartner (2025) xep Agentic
+AI va Ambient Intelligent la 2 xu huong hang dau chuoi cung ung. McKinsey ghi nhan 20%+ giam
+chi phi ton kho & logistics nho AI tu dong. Tuy nhien, 83% to chuc van trien khai theo cach tang
+buoc, va chi 23% co chien luoc AI chinh thuc (Gartner 2026).
+
+4.1 NOI DAU DOANH NGHIEP (Pain Points)
+Nhom 1: Lap ke hoach van chuyen & Tuyen duong
+Dac diem quy trinh hien tai
+• Lap lich van chuyen hang ngay: Thu thap don hang -> Phan cong xe/tai xe thu cong ->
+In phieu -> Giao ca -> Theo doi bang dien thoai
+• Toi uu tuyen duong (Route Optimization): Chay bang kinh nghiem tai xe hoac Google
+Maps thu cong; khong co bai toan VRP (Vehicle Routing Problem) tu dong
+• Khi co thay doi don hang dot xuat (huy/them/doi dia chi), dieu phoi vien phai lien lac lai,
+chinh lich tay; gay delay
+• Khong theo doi real-time: Quan ly khong biet chinh xac xe dang o dau, ETA cho khach
+hang la 'uoc luong'
+• Bao cao hieu suat tai xe & xe: Tong hop thu cong cuoi tuan; kho phat hien van de som
+
+Nhom 2: Quan ly kho & Kiem ke
+Dac diem quy trinh hien tai
+• Nhap/xuat kho: Quet barcode thu cong hoac ghi so tay; sai sot nhap lieu dan den so lieu
+kho khong chinh xac
+• Kiem ke hang ton: Dem tay dinh ky (tuan/thang/quy); mat 1-3 ngay; dan doan xuat
+nhap; phat hien chenh lech tre
+• Slotting kho (bo tri hang): Sap xep theo cam nhan; hang ban chay dat o vi tri kho toi uu;
+tang thoi gian picking
+• Xu ly tra hang (reverse logistics): Nhap hang tra tay, kiem tra, phan loai, cap nhat he
+thong; quy trinh cham va mat nhieu nhan luc
+• Khong co visibility xuyen kho: Cong ty nhieu kho khong biet ton kho tong the theo
+real-time
+
+Nhom 3: Quan ly don hang & Khach hang
+Dac diem quy trinh hien tai
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 10
+
+• Tiep nhan don hang tu nhieu kenh (Zalo, email, Shopee, website, dien thoai): Nhan vien
+tong hop tay vao 1 he thong; cham, de sai sot
+• Xac nhan don hang & cap nhat trang thai: Nhan vien CS cap nhat tay; khach hang khong
+biet trang thai don theo real-time
+• Giao hang that bai (Failed Delivery): Xu ly tai giao thu cong, lien he khach hang lai, cap
+nhat lich; chi phi tang, customer experience giam
+• Hoa don & Chung tu van chuyen: In phieu, chinh sua, gui email thu cong; mat thoi gian
+va dung giay
+
+Nhom 4: Du bao nhu cau & Quan ly ton kho chien luoc
+Dac diem quy trinh hien tai
+• Du bao nhu cau: Dua tren du lieu lich su ban hang don gian + kinh nghiem quan ly;
+khong tinh den yeu to mua vu, su kien, thi truong
+• Safety stock: Dat qua nhieu (dong von) hoac qua it (mat hang, mat khach); khong co mo
+hinh toi uu hoa
+• Theo doi KPI logistics: Thu thap thu cong (on-time delivery, fill rate, damage rate); bao
+cao thang den chi lanh dao cap cao
+• Rui ro gian doan chuoi cung ung: Khong co he thong canh bao som khi NCC gap van de;
+phan ung thu dong sau khi su co xay ra
+
+4.2 NHU CAU
+Gartner (2025) du bao AI se xu ly 60% gian doan chuoi cung ung ma khong can con nguoi trong 5
+nam toi. 55% lanh dao chuoi cung ung tham gia khao sat cho rang Agentic AI la yeu to anh huong
+hieu suat lon nhat trong 2 nam toi. Nhu cau: real-time visibility, AI control tower, route
+optimization, demand forecasting, automated warehouse management.
+
+4.3 GIAI PHAP AI CO THE CUNG CAP
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Lap lich van chuyen & phan
+cong xe thu cong
+
+Route Optimization + Dispatch
+Agent: Tu dong giai bai VRP,
+phan cong tai xe/xe, cap nhat
+khi co thay doi don hang
+
+Giam 15-25% chi phi nhien
+lieu; tang so don
+giao/ngay len 20-30%
+
+McKinsey Seizing
+Agentic AI;
+Gartner SC Tech
+2025
+
+Kiem ke kho mat 1-3 ngay,
+sai sot
+
+Smart Inventory Agent: Tich hop
+RFID/barcode, cap nhat ton kho
+real-time, tu dong kiem ke theo
+chu ky
+
+Giam 90% thoi gian kiem
+ke; ton kho chinh xac
+>99%
+
+Gartner Top SC
+Trends 2025
+
+Khong co real-time tracking
+cho khach hang
+
+AI-powered Tracking + Proactive
+Notification: Theo doi lo hang
+GPS, du bao ETA bang ML, tu
+dong SMS/Zalo cho khach
+
+Tang Customer
+Satisfaction 25-35%; giam
+CS inbound call 40%
+
+WEF AI in Action
+2025
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 11
+
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Du bao nhu cau kem chinh
+xac
+
+Demand Forecasting Agent: ML
+phan tich lich su ban hang, mua
+vu, su kien, xu huong thi truong;
+tu dong canh bao tai dat hang
+
+Giam ton kho du thua
+20-30%; giam mat hang
+15-25%
+
+McKinsey Agentic
+AI Advantage
+
+AI Control Tower khong co,
+xu ly gian doan thu dong
+
+Supply Chain Control Tower AI:
+Tich hop du lieu xuyen chuoi
+(NCC-kho-van chuyen), phat
+hien bao dong som, de xuat
+hanh dong
+
+Phan ung su co trong gio
+thay vi ngay; giam EBITDA
+impact 10-20%
+
+Gartner SC
+Control Tower;
+BCG Agentic AI
+2025
+
+Reverse logistics cham, ton
+nhan luc
+
+Returns Management Agent: Tu
+dong phan loai hang tra, cap
+nhat he thong, tai sap xep ton
+kho, xu ly hoan tien
+
+Giam 50-70% thoi gian xu
+ly tra hang; tang tai su
+dung hang tra
+
+SCMR AI P&L;
+Impact 2026
+
+Cong nghe nen tang: GPS Tracking API, RFID/Barcode Systems, Google OR-Tools/OSRM, ML Forecasting (AWS
+Forecast, Azure ML), TMS Integration, Zalo/SMS Notification API.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 12
+
+V. PHAP LY & TUAN
+THU (LEGALTECH)
+
+Legal AI & Compliance
+Automation
+
+Linh vuc phap ly dang trong qua trinh chuyen doi so manh me. AI co the xu ly hop dong nhanh hon
+con nguoi 94% va dat do chinh xac 92-96% (Top.legal 2025). Thi truong LegalTech toan cau tang
+truong manh, voi cac startup nhu Harvey AI (duoc a16z dau tu) hay Clio chung to AI thay doi co
+ban cach luat su va phong phap che hoat dong.
+
+5.1 NOI DAU DOANH NGHIEP (Pain Points)
+Nhom 1: Soan thao & Kiem tra hop dong
+Dac diem quy trinh hien tai
+• Soan hop dong: Luat su/nhan vien tim mau cu -> Chinh sua tay -> Gui duyet -> Sua
+theo y kien -> Ky; trung binh 2-5 ngay/hop dong
+• Kiem tra hop dong doi tac: Doc tay toan bo, danh dau rui ro; 1 luat su doc 50-100
+trang/gio; chi phi cao, de bo sot
+• Quan ly phien ban: Nhieu ban Word/PDF gui qua email; kho biet ban nao moi nhat; rui ro
+ky sai phien ban
+• Theo doi nghia vu hop dong: Han gia han, thanh toan, bao hiem het han; ghi nho thu
+cong hoac lich Excel; thuong xuyen bo lo
+• Luu tru va tim kiem hop dong: File trong folder Google Drive/email; mat thoi gian tim lai
+khi can; khong co full-text search
+
+Nhom 2: Tuan thu phap luat & Quy dinh noi bo
+Dac diem quy trinh hien tai
+• Theo doi thay doi phap luat: Nhan vien/luat su doc Cong bao, website Bo, TW; ap dung
+thu cong; cham tre va bo sot quy dinh moi
+• Kien toan chinh sach noi bo: Cong tac vien bien soan, gui duyet nhieu cap; kho dam bao
+chinh sach dong bo voi luat hien hanh
+• Compliance checklist cho cac giao dich: Kiem tra thu cong moi giao dich voi danh sach
+rui ro (AML, KYC, GDPR, PDPD Vietnam)
+• Quan ly giay phep & chung chi: Theo doi han hieu luc, gia han thu cong; rui ro hoat dong
+het phep
+• Due diligence M&A;/dau tu: Kiem tra phap ly hoi tu tay hang tram/nghin tai lieu; ton
+nhieu nhan luc luat su cao cap
+
+Nhom 3: Tranh tung & Quan ly vu viec
+Dac diem quy trinh hien tai
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 13
+
+• Nghien cuu an le & luat: Tim kiem thu cong tren LVN Legal, Thu vien phap luat, cac
+CSDL; mat nhieu gio de tim an le lien quan
+• Quan ly lich xu ly vu viec: Excel hoac ghi nho; doa han nop don, phan hoi; gap nap cuoi
+ky han
+• Soan don tu phap ly: Tu xay dung tu dau; chua co mau AI-generated co the tinh chinh
+• Luu tru vu viec: File tat tan tat trong folder; kho biet tien do vu viec, cai gi can lam tiep
+
+Nhom 4: Phap ly cho SME (doanh nghiep vua va nho)
+Dac diem quy trinh hien tai
+• SME thieu bo phap che noi bo; thue luat su ben ngoai gia cao; thuong cham tre va bi
+dong voi van de phap ly
+• Khong biet phai tuan thu nhung luat gi khi mo them nganh nghe, mo rong sang tinh moi,
+tuyen dung nuoc ngoai
+• Ky hop dong ma khong hieu dieu khoan bat loi; dac biet hop dong voi doi tac lon hoac
+nuoc ngoai
+• Thu hoi cong no: Quy trinh gui thu, canh bao, kien tuy theo kinh nghiem; khong co chien
+luoc co cau truc
+
+5.2 NHU CAU
+Stanford HAI (2025) nhan dinh LegalTech dang chuyen bien nhanh: AI xu ly hop dong voi toc do
+nhanh hon 94% so voi con nguoi. American Bar Association da phat hanh huong dan dau tien ve
+su dung GenAI trong hoat dong luat su (2025). SME Viet Nam can: Nen tang quan ly hop dong
+thong minh, canh bao tuan thu tu dong, cong cu du phap che noi bo, ho tro ky dien tu.
+
+5.3 GIAI PHAP AI CO THE CUNG CAP
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Soan hop dong mat 2-5
+ngay, de bo sot dieu khoan
+bat loi
+
+Contract Drafting + Review
+Agent: AI sinh hop dong tu mau
+thong minh; quet rui ro, dieu
+khoan phi tieu chuan, goi y sua
+
+Giam 70-80% thoi gian
+soan/kiem tra hop dong;
+phat hien 90%+ rui ro
+phap ly
+
+Top.legal;
+Stanford CodeX
+2025; Harvey AI
+
+Theo doi nghia vu & han hop
+dong thu cong, bo lo
+
+Contract Lifecycle Management
+AI: Tu dong extract ngay gia
+han, nghia vu, thanh toan; canh
+bao 30-90 ngay truoc
+
+Zero bo lo han; giam rui ro
+vi pham hop dong; tiet
+kiem chi phi tu van 50%
+
+NetDocuments
+Legal Trends 2026
+
+Theo doi thay doi phap luat
+cham, bo sot
+
+Regulatory Watch Agent: Quet
+Cong bao, website Bo nganh
+hang ngay; phat hien thay doi
+lien quan; tom tat & canh bao
+
+Cap nhat phap luat <24
+gio; giam rui ro vi pham
+60-70%
+
+Lumenci AI Legal
+2026; Stanford
+HAI
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 14
+
+Noi dau / Quy trinh thu
+cong
+
+Giai phap AI / Cong nghe
+
+Ket qua ky vong
+
+Nguon
+
+Due diligence M&A; ton
+nhieu nhan luc
+
+Due Diligence AI Agent: Quet
+hang nghin tai lieu, trich xuat rui
+ro, tong hop bao cao; hoi tro voi
+cau hoi phap ly phuc tap
+
+Giam 80-90% thoi gian
+DD; cost 1/5 so voi luat su
+con nguoi
+
+Harvey AI
+Platform; a16z
+LegalTech Trends
+
+SME khong co bo phap che
+noi bo
+
+Virtual Legal Counsel Agent (AI
+Phap che ao): Tra loi cau hoi
+phap ly co ban, tao mau hop
+dong, check tuan thu theo
+nganh
+
+SME co phap che 24/7 voi
+chi phi $200-500/thang
+thay vi thue luat su
+fulltime
+
+Stanford CodeX
+2025; Law360 AI
+Survey
+
+Nghien cuu an le mat nhieu
+gio
+
+Legal Research Agent: Quet
+CSDL an le Viet Nam, thu vien
+phap luat, VIAC; tra loi co trich
+dan cu the
+
+Giam 60-70% thoi gian
+nghien cuu; nang cap chat
+luong lap luan
+
+Stanford HAI; Clio
+Legal Trends 2025
+
+Cong nghe nen tang: LLM (Claude, GPT-4o) voi RAG (Retrieval-Augmented Generation), Vector DB (Pinecone,
+Weaviate), OCR cho tai lieu phap ly, E-signature API (VNPT-CA, Viettel-CA), CLM Platforms.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 15
+
+VI. NGANH NGHE MOI
+& NGACH TIEM NANG
+
+Emerging AI-Native Business
+Niches for SME Startups
+
+Day la phan dac biet danh cho startup cong nghe muon xay dung doanh nghiep ben vung trong ky
+nguyen Agentic AI. Thay vi canh tranh voi cac giang son (SAP, Oracle, MISA), startup nen chon
+ngach cu the - mot van de dau don du de mot nganh rat can giai quyet, nhung qua hop de ong lon
+quan tam. Cac ngach duoi day deu dua tren su giao thoa giua AI Agent va nhu cau thuc te cua
+SME Viet Nam.
+
+1. AI Compliance-as-a-Service cho SME Xuat Nhap Khau
+Muc dich phuc vu: Tu dong kiem tra toan bo ho so xuat nhap khau (HS Code, C/O, Invoice,
+Packing List) theo quy dinh hai quan Viet Nam va nuoc nhap; canh bao rui ro khai bao sai; tu
+dong cap nhat thay doi chinh sach thue suat, FTA.
+Phuc vu loai doanh nghiep: SME xuat nhap khau (det may, nong san, dien tu, go), cong ty
+thuong mai quoc te. Dac biet huu ich voi cac doanh nghiep kim ngach XNK $1M-$50M/nam,
+chua du quy mo thue phong XNK chuyen nghiep.
+Ap dung cu the: Ap dung: Khi co lo hang moi, AI quet toan bo chung tu, doi chieu quy dinh,
+thong bao nhung diem co the bi ach tai cua khau. Agent tu dong theo doi thay doi bieu thue
+MFN, FTA ASEAN, CPTPP, EVFTA; cap nhat trong 24h.
+Nguon: Gartner SC Tech 2025; WEF AI in Action; Bo Cong Thuong Viet Nam XNK Report 2024
+
+2. AI-Powered Accounting-as-a-Service cho Chuoi F&B; / Retail Da Chi
+Nhanh
+Muc dich phuc vu: Ke toan tu dong cho chuoi nha hang, cafe, cua hang ban le nhieu chi
+nhanh: tu dong thu thap doanh thu tung ca lam tu POS, doi soat voi ngan hang, tinh lai cho tu
+vien, bao cao tai chinh theo tung chi nhanh va tong hop, quyet toan ca hang ngay.
+Phuc vu loai doanh nghiep: Chuoi F&B; (5-50 chi nhanh), chuoi tiem thuoc, chuoi nha thuoc,
+chuoi giat la, franchise co nhieu diem ban le. Day la phan khuc dang phuc tap ve ke toan
+nhung chua co giai phap verticalized phu hop.
+Ap dung cu the: Ap dung: Tich hop truc tiep vao POS (KiotViet, Sapo, POS365), ngan hang,
+nha cung cap; moi cuoi ngay sinh bao cao lai lo tung chi nhanh; flagging chi nhanh hieu qua
+kem. Chu chuoi biet so thuc tren dien thoai luc 23h ma khong can doi ke toan bao cao.
+Nguon: DualEntry AI 2026; Fiskl SME AI 2025; Mordor Intelligence AI Accounting
+
+3. Predictive Quality Agent cho nha may SME nganh thuc pham & dong goi
+Muc dich phuc vu: AI giam sat toan bo quy trinh san xuat thuc pham/dong goi, du bao batch
+loi truoc khi xuat xuong, tu dong sinh bao cao kiem soat chat luong theo tieu chuan HACCP,
+ISO 22000, FSSC 22000 va canh bao phan tich rui ro vi sinh.
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 16
+
+Phuc vu loai doanh nghiep: Nha may che bien thuc pham, do uong, duoc pham, my pham, san
+pham dong goi. Dac biet phu hop cho SME co xuat khau hoac cung cap cho he thong sieu thi
+(Central Retail, WinMart, Co.opMart) - nhung don vi yeu cau chung nhan chat luong chat che.
+Ap dung cu the: Ap dung: Cam bien do nhiet do/do am/pH + camera AI tren chuyen san xuat;
+agent xu ly real-time va so sanh voi gioi han HACCP; tu dong sinh phieu kiem tra batch, nhan
+chung nhan lot xuat khau, luu tru du lieu de audit ISO.
+Nguon: McKinsey Agentic AI Industries 2025; Gartner Polyfunctional Robots; WEF AI Beyond Experimentation
+
+4. Last-Mile Intelligence Platform cho cac don vi giao hang dia phuong
+Muc dich phuc vu: Nen tang AI quan ly giao hang chặng cuoi cho doi ngu shipper cua cong ty
+(khong phai on-demand nhu Grab/Now): toi uu tuyen duong theo khu vuc, du bao ty le giao
+thanh cong, tu dong xu ly failed delivery, bao cao KPI shipper theo ngay.
+Phuc vu loai doanh nghiep: Cong ty thuong mai dien tu tu vun hanh doi shipper rieng
+(100-500 nhan vien giao hang), nha phan phoi FMCG tu giao hang, cong ty duoc pham giao
+hang den nha thuoc, cong ty nong nghiep giao hang den dai ly. Khac voi Giao Hang
+Nhanh/GHTK (thi truong mass), day la B2B platform cho cac cong ty co doi shipper rieng.
+Ap dung cu the: Ap dung: Buoi sang, agent xu ly toan bo don hang, phan cum theo khu vuc,
+tinh tuyen toi uu cho tung shipper, day len app. Trong ngay, theo doi GPS, du bao don nao co
+nguy co failed delivery, tu dong go shipper lai. Cuoi ngay, bao cao OTD (on-time delivery)
+tung shipper, tung khu vuc; roi siet ke hoach ngay hom sau.
+Nguon: Gartner SC Tech 2025; McKinsey Seizing Agentic AI; SCMR AI P&L; 2026
+
+5. AI Legal Co-pilot cho Phong Phap Che SME (Virtual In-house Counsel)
+Muc dich phuc vu: SaaS cung cap 'phap che noi bo ao' cho SME: tra loi cau hoi phap ly hang
+ngay (lao dong, hop dong, thue, phap luat doanh nghiep), soan thao hop dong theo mau co
+tinh tuy chinh, kiem tra hop dong den, canh bao thay doi phap luat lien quan den nganh, quan
+ly ho so phap ly cua doanh nghiep.
+Phuc vu loai doanh nghiep: SME Viet Nam co quy mo 20-300 nhan vien khong co bo phap che
+rieng (chiem >90% doanh nghiep VN). Dac biet: cong ty khoi nghiep nhan duoc dau tu nuoc
+ngoai, cong ty FDI nho, cong ty co hop tac voi doi tac nuoc ngoai can hieu biet ve phap luat ca
+2 phia.
+Ap dung cu the: Ap dung: CEO/GD co the hoi 'Toi can bao nhieu von dieu le de nganh nay
+khong?', 'Hop dong nay co dieu khoan gi bat loi?', 'Khi nao toi can gia han giay phep kinh
+doanh?'. Agent tra loi dua tren CSDL phap luat Viet Nam, goi y hanh dong, tao draft hop dong
+san sang ky.
+Nguon: Stanford CodeX AI Legal 2025; a16z LegalTech Thesis; Harvey AI Platform; VCCI SME Survey Vietnam
+
+6. Supplier Risk Intelligence cho Cong Ty San Xuat / Thu Mua
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 17
+
+Muc dich phuc vu: Nen tang AI lien tuc giam sat suc khoe tai chinh, chat luong giao hang, va
+tin hieu rui ro (phap ly, dia chinh tri, thien tai) cua toan bo danh sach nha cung cap; canh bao
+som khi NCC co dau hieu kho khan; de xuat NCC thay the du phong.
+Phuc vu loai doanh nghiep: Cong ty san xuat co >50 NCC, cong ty thuong mai thu mua hang
+so luong lon, tong kho FMCG, cong ty xay dung co chuoi cung ung phuc tap. Dac biet phu hop
+voi doanh nghiep dang da dang hoa NCC ra khoi Trung Quoc sau COVID va cang thang thuong
+mai.
+Ap dung cu the: Ap dung: Moi tuan, agent quet co phieu NCC (neu niem yet), tin tuc, review
+tren cac nha xuat ban xuat khau, du lieu giao hang lich su noi bo; sinh diem rui ro 0-100; canh
+bao khi diem giam dot ngot. CEO co bang tinh trang NCC theo real-time thay vi cho den khi
+NCC thong bao ngung giao hang.
+Nguon: Gartner SC Control Tower 2025; McKinsey Supplier Collaboration; WEF Resilient Supply Chains
+
+7. AI-Powered CFO-as-a-Service cho Startup & SME Tang Truong Nhanh
+Muc dich phuc vu: Dich vu CFO phan phan bao gom AI lam phan cung viec: du bao dong tien
+hang ngay, mo phong kich ban tai chinh (what-if analysis), tu dong chuan bi bao cao cho nha
+dau tu (investor reporting), theo doi KPI tai chinh theo real-time, canh bao khi co chi tieu bat
+thuong. Con nguoi CFO phan (1 ngay/tuan) chi tap trung vao tu van chien luoc.
+Phuc vu loai doanh nghiep: Startup giai doan Series A-C, cong ty tang truong nhanh 50-500
+nhan vien chua du quy mo thue CFO fulltime, cong ty gia dinh dang chuyen doi sang quan tri
+hien dai. Dac biet huu ich cho cac startup co nha dau tu nuoc ngoai yeu cau bao cao tai chinh
+theo IFRS/US GAAP.
+Ap dung cu the: Ap dung: CEO mo dien thoai bao gio cung thay: runway con bao nhieu tuan,
+cac phong nao dang vuot budget, AR/AP den han tuan nay, 3 kich ban dong tien neu doanh
+thu tang/giam 20%. Hang thang, AI tu dong sinh bao cao cho investor board, CEO chi review
+va ky.
+Nguon: Gartner CFO AI Survey 2025; Fiskl AI Accounting 2025; Workday Finance AI; McKinsey Finance Function AI
+
+8. Manufacturing Intelligence Platform cho KCN / Cum Cong Nghiep
+Muc dich phuc vu: Nen tang B2B phuc vu nhom nha may trong cung khu cong nghiep: chia se
+du lieu on-chain ve don hang, nguyen lieu, xu huong gia ca; AI Agent hen doi, ket noi nha may
+thua cong suat voi don hang con du trong cung cum; bao cao tong the KCN cho Ban quan ly.
+Phuc vu loai doanh nghiep: Ban quan ly Khu cong nghiep (KCN Tan Thuan, Long Duc, My
+Phuoc...), cac to chuc xuc tien dau tu tinh/thanh, cong ty quan ly KCN tu nhan. Cac nha may
+vua & nho trong KCN la khach hang cuoi.
+Ap dung cu the: Ap dung: Khi nha may A thua 30% cong suat thang toi, platform ket noi voi
+nha may B dang can gia cong; AI tao match theo kha nang ky thuat, chung nhan chat luong,
+gia ca. Tao ra thi truong mini trong KCN, tang hieu suat su dung co so ha tang, giam chi phi
+cho tung doanh nghiep.
+Nguon: WEF Smart Manufacturing 2025; McKinsey Advanced Industries; Gartner Smart Factory Trends
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 18
+
+9. Automated Tax Compliance Agent cho Ke Toan Cong Ty Dich Vu
+(SaaS/Agency/Consulting)
+Muc dich phuc vu: Tu dong toan bo quy trinh khai bao thue cho cong ty dich vu (GTGT, TNDN,
+TNCN): doc hoa don dau vao/dau ra, tinh thue, kiem tra rui ro truoc khi nop, dien file XML cho
+phan mem HTKK/iTax, theo doi hoan thue, canh bao kiem tra thue. Tich hop API voi MISA,
+FAST, Bravo, 1C Vietnam.
+Phuc vu loai doanh nghiep: Cong ty dich vu vua & nho (agency quang cao, cong ty IT, tu van,
+startup SaaS, giao duc), phong ke toan thue tu 1-5 nguoi quan ly nhieu phap nhan. Dac biet
+phu hop cho cac don vi moi thanh lap chua co ke toan truong kinh nghiem nhung phai tuan
+thu day du nghia vu thue.
+Ap dung cu the: Ap dung: Cuoi thang, agent tu quet toan bo hoa don dau vao (email, portal
+NCC), doi chieu voi dau ra, tinh so thue phai nop, chen vao form HTKK/iTax, bao cao cho ke
+toan kiem tra va nop. Neu co bat thuong (hoa don khong hop le, so thue chenh lech), canh
+bao cu the de xu ly truoc khi nop.
+Nguon: Planergy AP 2025; DualEntry AI Accounting 2026; MIC Digital Tax Vietnam; IFOL AP Automation 2025
+
+10. AI-Powered Procurement Intelligence cho Benh Vien / Truong Hoc Tu
+Thuc
+Muc dich phuc vu: Nganh y te va giao duc tu thuc dang tang truong manh tai Viet Nam, co
+nhu cau mua sam phu tap voi nhieu loai vat tu/dich vu, tuan thu quy dinh cua Bo Y te/Bo
+GD&DT; va kha nang kiem toan cao. AI Agent quan ly toan bo quy trinh mua sam: de xuat nha
+cung cap, so sanh gia, tao lenh mua, theo doi giao hang, xu ly hoa don, dam bao tuan thu quy
+dinh.
+Phuc vu loai doanh nghiep: Benh vien tu nhan (100-500 giuong), he thong truong quoc te,
+trung tam y te chuyen khoa, chuoi phong kham, he thong truong tu thuc. Day la nganh co quy
+trinh mua sam PHUC TAP, gia tri lon, yeu cau tuan thu cao nhung nguon luc hanh chinh
+thuong thieu.
+Ap dung cu the: Ap dung: Khi bac si yeu cau mua thiet bi moi, agent kiem tra ngan sach, lay
+bao gia 3 nha cung cap, so sanh tieu chi ky thuat, tao to trinh trinh BGD voi day du thong tin
+quyet dinh. BGD duyet 1 click. Agent tao PO, theo doi giao hang, doi chieu hoa don voi PO, xu
+ly thanh toan. Tao audit trail day du cho kiem toan.
+Nguon: WEF Healthcare AI 2025; McKinsey Healthcare Procurement; Gartner Procurement AI Trends 2025
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 19
+
+VII. DANH MUC
+NGUON THAM KHAO
+
+References & Research
+Sources
+
+McKinsey Global Institute (MGI)
+• Seizing the Agentic AI Advantage (2025) - mckinsey.com
+• The State of AI: Agents, Innovation, and Transformation (November 2025)
+• Empowering Advanced Industries with Agentic AI (September 2025)
+• Why Agents Are the Next Frontier of Generative AI - McKinsey Quarterly (July 2024)
+• Agentic AI Advances - Week in Charts (January 2026)
+
+Gartner Research
+• Top Supply Chain Technology Trends for 2025 (March 2025)
+• Gartner Survey: 80% of CEOs Say AI Will Force Operational Capability Overhauls (April 2026)
+• CFOs' AI Adoption in Finance - Gartner CFO Survey (November 2025)
+• AI Not Driving Supply Chain Operating Model Transformation - Gartner SC Survey (May 2026)
+• Top Predictions for IT Organizations 2025 and Beyond (October 2024)
+• Five-Year Forecast: AI Will Resolve 60% of Supply Chain Disruptions (2026)
+
+World Economic Forum (WEF)
+• AI in Action: Beyond Experimentation to Transform Industry - Flagship White Paper 2025
+• Smart Manufacturing and Industry 4.0 Report 2025
+• Future of Jobs Report 2025
+
+Stanford HAI & Stanford Law School (CodeX)
+• AI Index Report 2025 - Stanford HAI
+• Navigating AI Vendor Contracts and the Future of Law (March 2025) - Stanford CodeX
+• Legal Tech and AI Governance Research 2025
+
+Industry Research & Market Data
+• Mordor Intelligence: AI in Accounting Market Report 2025 (CAGR 44.6%, $10.87B by 2026)
+• PLANERGY: Accounts Payable in 2025 - Automation & AI Trends
+• DualEntry: AI in Accounting - The Complete 2026 Guide
+• Fiskl: SME AI in Accounting Technology - Global Research 2025
+• IFOL: Accounts Payable Automation Trends 2025
+• BCG: Agentic AI Systems - 17% of AI Value in 2025, 29% by 2028
+• SCMR: AI in Supply Chain - From Pilot Programs to P&L; Impact (April 2026)
+• DC Velocity: Five-Year Forecast - AI Supply Chain Disruptions (March 2026)
+
+LegalTech Research
+• Top.legal: Legal Tech Applications 2025 (AI 94% faster contract review)
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 20
+
+• NetDocuments: AI-Driven Legal Tech Trends for 2025 (January 2026)
+• Lumenci: AI Transformations in Legal Tech 2026 (March 2026)
+• Harvey AI Platform (a16z-backed LegalTech) - harvey.ai
+• Law360: Legal Tech Survey & Trends 2025
+• American Bar Association - First Formal Opinion on GenAI in Law Practice (2025)
+
+Vietnam & Southeast Asia
+• Bo Thong tin va Truyen thong (MIC) - Ke hoach Chuyen doi so Quoc gia 2025-2030
+• Cuc Chuyen doi so Quoc gia - Bao cao Kinh te so Viet Nam 2024
+• VCCI: Khao sat SME Viet Nam 2024 - Hien trang cong nghe & so hoa
+• Bo Cong Thuong: Bao cao Xuat Nhap Khau Viet Nam 2024
+• Cong thong tin dien tu Tong cuc Hai quan - Quy dinh xuat nhap khau 2025
+
+Venture Capital & Thought Leadership
+• a16z (Andreessen Horowitz): LegalTech Investment Thesis 2025
+• Sequoia Capital: AI Market Map 2025
+• OpenAI Research Blog: Agentic Systems and Enterprise Automation (2025)
+• Microsoft Research: Copilot for Business Functions - Manufacturing, Finance, Legal
+
+Luu y quan trong: Bao cao nay tong hop tu cac nguon cong khai va nghien cuu uy tin den thang 05/2026. Cac
+con so thong ke phan anh xu huong toan cau; SME Viet Nam co the co do lech do dac diem thi truong dia
+phuong. Khuyen nghi nen ket hop voi nghien cuu thi truong thuc te truoc khi dua ra quyet dinh kinh doanh.
+
+AI CONSULTING RESEARCH
+TEAM
+
+Chuyen tu van & giai phap cong nghe AI cho doanh nghiep | Thang
+05/2026
+
+Agentic AI - Bao Cao Chien Luoc Doanh Nghiep 2025-2026 | AI Consulting Research Team
+
+Trang 21
+
+

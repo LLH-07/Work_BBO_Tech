@@ -1,0 +1,540 @@
+
+
+--- PAGE 1 ---
+Bản đồ ngành Agentic AI và triển vọng thị trường cho thế
+giới và Việt Nam
+Bản dịch tiếng Việt từ báo cáo tiếng Anh do người dùng cung cấp
+Chủ đề: Agentic AI, bản đồ ngành, triển vọng thị trường toàn cầu và Việt Nam.
+Lưu ý biên tập: Bản dịch này giữ nguyên cấu trúc, luận điểm, bảng phân tích và tên các nguồn chính. Các mã trích dẫn kỹ thuật trong bản gốc được chuyển
+thành cách diễn đạt nguồn tham chiếu dễ đọc để PDF gọn và rõ.
+Trang 1 / 8
+
+
+--- PAGE 2 ---
+Tóm tắt điều hành
+Agentic AI nên được hiểu là điểm mà AI không còn chủ yếu là một hệ thống trả lời câu hỏi, mà bắt đầu trở thành một hệ thống có thể lập kế hoạch, sử dụng công cụ,
+truy cập phần mềm, quản lý trạng thái và hoàn thành công việc nhiều bước với mức tự chủ có giới hạn. Theo nghĩa đó, agentic AI không chỉ là “AI tạo sinh tốt hơn”.
+Nó gần với một lớp thực thi mới cho công việc số. OECD phân biệt agentic AI với các AI agent thông thường bằng cách nhấn mạnh khả năng vận hành liên tục, phối hợp,
+phân rã nhiệm vụ và chỉ cần con người giám sát ở mức hạn chế; OpenAI và IBM cũng mô tả theo hướng tương tự: đây là các hệ thống biết suy luận, gọi công cụ và hành
+động bên trong quy trình công việc, thay vì chỉ tạo ra văn bản.
+Cơ hội vĩ mô là rất lớn, nhưng không nên xem nó như một con số quy mô thị trường duy nhất. McKinsey ước tính AI tạo sinh có thể tạo ra 2,6 nghìn tỷ đến 4,4 nghìn tỷ
+USD giá trị hằng năm trên 63 trường hợp sử dụng, và 6,1 nghìn tỷ đến 7,9 nghìn tỷ USD nếu tính cả các hiệu ứng năng suất rộng hơn; khoảng 75% giá trị theo trường
+hợp sử dụng nằm ở vận hành khách hàng, marketing và bán hàng, kỹ thuật phần mềm, và R&D. Đồng thời, Gartner dự báo hơn 40% dự án agentic AI có thể bị hủy vào
+cuối năm 2027 do giá trị không rõ, chi phí cao hoặc kiểm soát chưa đầy đủ. Hàm ý rất đơn giản: thị trường là có thật, nhưng chỉ những phần có ROI quy trình đo lường
+được và quản trị mạnh mới sống sót qua chu kỳ thổi phồng kỳ vọng.
+Vì vậy, các thị trường toàn cầu quan trọng nhất có thể chia thành ba nhóm. Thị trường hiện hữu là các lĩnh vực đã có thể thương mại hóa ngay: dịch vụ khách hàng,
+phần mềm và vận hành CNTT, tài chính và mua sắm, xử lý ngoại lệ trong sản xuất và chuỗi cung ứng, và hành chính y tế. Thị trường đang hình thành là lớp “cuốc xẻng”:
+đánh giá, quan sát vận hành, browser agents, tác nhân ở biên và trong thiết bị nhúng, và bảo mật agent. Thị trường tương lai có tiềm năng cao hơn nhưng còn kém
+trưởng thành hơn: tác nhân thương mại web tự chủ và tác nhân hiện thân trong ô tô và IoT. a16z và Sequoia Capital đều hữu ích trong cách nhìn này vì cả hai, theo những
+cách khác nhau, cho rằng AI đang dịch chuyển giá trị từ “công cụ phần mềm” sang “công việc được thực hiện” và thay thế lao động trong các quy trình hẹp, lặp lại.
+Đối với Việt Nam, mức độ sẵn sàng mạnh hơn vẻ ngoài ban đầu. Chiến lược AI quốc gia đặt mục tiêu đưa Việt Nam vào nhóm dẫn đầu ASEAN vào năm 2030; chương trình
+chính phủ số hiện đặt AI vào lõi của nền hành chính công tương lai; báo cáo chính thức cho biết kinh tế số vượt 18% GDP năm 2024 và mục tiêu là 30-35% vào năm 2030;
+báo cáo e-Conomy SEA 2025 cho biết kinh tế số Việt Nam được dự phóng đạt 39 tỷ USD GMV năm 2025 và 81% người dùng tương tác với AI hằng ngày; còn các thông tin
+xung quanh Vietnam AI Economy 2025 tại Trung tâm Đổi mới sáng tạo Quốc gia dự phóng AI có thể đóng góp 120-130 tỷ USD cho nền kinh tế vào năm 2040.
+Các “mũi nhọn” gia nhập tốt nhất cho Việt Nam trong ngắn hạn gồm sáu nhóm: agent dịch vụ khách hàng; agent tri thức và đào tạo nhân viên; agent kỹ thuật phần mềm
+và vận hành CNTT; agent tài chính, mua sắm và tuân thủ; agent xử lý ngoại lệ trong sản xuất và chuỗi cung ứng; và agent dịch vụ công hoặc hành chính y tế. Các nhóm
+này có sự kết hợp tốt nhất giữa công việc lặp lại, người nắm ngân sách rõ ràng, KPI đo được và rủi ro pháp lý có thể quản lý. Agent ở biên, ô tô và IoT quan trọng về mặt
+chiến lược, nhưng phù hợp hơn như một hướng đặt cược trung hạn song song, thay vì là mũi nhọn doanh thu đầu tiên cho phần lớn doanh nghiệp địa phương.
+Agentic AI là gì và vì sao xuất hiện vào lúc này
+Cách đơn giản để phân biệt agentic AI với các khái niệm lân cận là như sau. Chatbot chủ yếu trả lời. Copilot hỗ trợ con người bên trong một nhiệm vụ. RPA tự động hóa
+các quy tắc được định nghĩa sẵn. Agentic AI cố gắng sở hữu một phần quy trình công việc: nó có thể nhận mục tiêu, quyết định bước tiếp theo, gọi công cụ phần mềm,
+ghi nhớ bối cảnh và tiếp tục cho đến khi đạt được đầu ra hoặc đến một cổng phê duyệt. MIT Sloan mô tả agent là các hệ thống bán tự chủ hoặc tự chủ hoàn toàn, có thể
+cảm nhận, suy luận và hành động với mức giám sát tối thiểu; DeepLearning.AI giảng dạy các quy trình agentic như các hệ thống nhiều bước, lặp lại, được xây dựng quanh
+lập kế hoạch, phản tư và sử dụng công cụ.
+Trang 2 / 8
+
+
+--- PAGE 3 ---
+Làn sóng này xuất hiện sau AI tạo sinh vì ba lý do. Thứ nhất, mô hình đã đủ tốt để làm nhiều việc hơn là tóm tắt hoặc soạn thảo. Thứ hai, kinh tế triển khai thay đổi rất
+nhanh: Stanford HAI báo cáo chi phí suy luận cho mức hiệu năng tương đương GPT-3.5 đã giảm hơn 280 lần từ cuối năm 2022 đến cuối năm 2024, trong khi đầu tư tư
+nhân vào AI tạo sinh đạt 33,9 tỷ USD năm 2024 và tỷ lệ sử dụng AI tăng lên 78% tổ chức. Thứ ba, doanh nghiệp hiện muốn “lao động số”, không chỉ trợ lý: Microsoft cho
+biết 81% lãnh đạo kỳ vọng agent sẽ được tích hợp ở mức vừa phải hoặc sâu rộng vào chiến lược AI trong 12-18 tháng, và 46% cho biết công ty của họ đã sử dụng agent
+để tự động hóa hoàn toàn một số workflow hoặc quy trình.
+Dịch chuyển này cũng diễn ra trong bối cảnh thị trường lao động ủng hộ tự động hóa có giới hạn và tái đào tạo nhanh. World Economic Forum báo cáo rằng đến năm
+2030, 39% bộ kỹ năng hiện có của người lao động dự kiến sẽ bị chuyển đổi hoặc lỗi thời, AI và dữ liệu lớn là nhóm kỹ năng tăng trưởng nhanh nhất, và 85% nhà tuyển
+dụng dự định ưu tiên nâng cao kỹ năng cho lực lượng lao động. Sự kết hợp đó giúp giải thích vì sao agentic AI xuất hiện lúc này: nó được kéo bởi cả áp lực quy trình trong
+doanh nghiệp lẫn áp lực chuyển đổi lực lượng lao động.
+Mô hình phân tích 5 lớp
+1. Hạ tầng và mô hình
+Compute, trung tâm dữ
+liệu, foundation models,
+suy luận ở biên
+→
+2. Điều phối và công cụ
+Bộ nhớ, workflow,
+connector , eval,
+observability, danh tính
+→
+3. Agent ngang cho
+doanh nghiệp
+CSKH, IT, coding, HR, tài
+chính, tri thức
+→
+4. Agent dọc
+Ngân hàng, sản xuất, hành
+chính y tế, dịch vụ công,
+logistics
+↘
+5. Dịch vụ và quản trị
+Tích hợp, vận hành quản
+lý, bảo mật, kiểm toán, AI
+RMF, ISO 42001
+Lớp Bao gồm Nơi giá trị thường tích lũy
+Hạ tầng và mô hình Compute, cloud, GPU, mô hình nền tảng, mô hình đa phương
+thức, suy luận trên thiết bị
+Kinh tế quy mô, khóa chặt nền tảng, năng lực AI quốc gia
+Điều phối và công cụ Sử dụng công cụ, bộ nhớ, connector , workflow, đánh giá,
+observability
+Biến demo thành hệ thống sản xuất đáng tin cậy
+Agent ngang cho doanh nghiệp Agent tái sử dụng cho hỗ trợ khách hàng, IT, coding, HR, tài
+chính
+Con đường nhanh nhất vào ngân sách phần mềm doanh
+nghiệp hiện hữu
+Agent dọc Agent chuyên biệt cho ngân hàng, sản xuất, hành chính y tế,
+khu vực công
+Moat mạnh hơn nhờ workflow, chính sách và dữ liệu độc
+quyền theo ngành
+Dịch vụ và quản trị Tích hợp, quản trị thay đổi, bảo mật, kiểm toán, quản lý rủi roThiết yếu cho triển khai có quản lý và làn sóng chấp nhận đầu
+tiên
+Mô hình stack này là bản tổng hợp từ cách OpenAI, IBM, Microsoft, NIST và OECD mô tả vòng đời agent: mô hình ngày càng rẻ và mạnh hơn, nhưng giá trị sản xuất đến
+từ điều phối, đánh giá, tích hợp và quản trị.
+Trang 3 / 8
+
+
+--- PAGE 4 ---
+Tín hiệu tập trung giá trị của McKinsey: khoảng 75% giá trị doanh nghiệp gần hạn của genAI tập trung ở vận hành khách hàng, marketing/bán hàng, kỹ thuật
+phần mềm và R&D; 25% còn lại nằm ở các chức năng khác. Đây không phải thị phần nhà cung cấp, mà là tín hiệu về nơi giá trị theo trường hợp sử dụng có xu
+hướng tập trung.
+Bản đồ ngành toàn cầu và các vùng giá trị
+Insight vĩ mô quan trọng nhất là agentic AI tạo ra nhiều giá trị nhất ở nơi AI có thể đóng vòng lặp: đọc dữ liệu, quyết định hành động tiếp theo, cập nhật một hệ thống và
+trả lại kết quả đo được. Vì vậy, các vùng giá trị gần hạn tập trung ở những chức năng có thể quan sát số hóa, lặp lại và quản lý ngoại lệ, thay vì ở tự chủ không giới hạn.
+Thị trường hiện hữu
+Ngách Trường hợp sử dụng
+agentic cốt lõi
+Động lực giá trị Rào cản chấp nhậnVai trò cần có Nhu cầu quản trị GTM và định giá điển
+hình
+Quy tắc nhanh về ROI
+Dịch vụ khách hàng Giải quyết ticket, cuộc
+gọi thoại, đặt lịch hoặc
+xử lý yêu cầu bồi
+thường, hỗ trợ đa ngôn
+ngữ
+Đòn bẩy lao động, phục
+vụ 24/7, tốc độ phản hồi
+tốt hơn
+Tích hợp CRM, thiết kế
+leo thang, kiểm soát
+chất lượng
+Conversation designer ,
+kỹ sư tích hợp, chủ quy
+trình hỗ trợ
+Kiểm soát PII, ghi log
+cuộc gọi, công bố minh
+bạch, xử lý khiếu nại
+Theo seat, theo case xử
+lý, theo phút, managed
+service
+Mạnh khi trên 20-30%
+khối lượng là lặp lại và
+có kịch bản
+Phần mềm và vận hành
+IT
+Lập trình, sinh test,
+phân loại ticket, thực thi
+runbook, hỗ trợ sự cố
+Rút ngắn cycle time,
+giảm toil, giảm MTTR
+Chất lượng repository,
+phân quyền, thiết kế
+phê duyệt
+Agent architect,
+platform engineer , SRE,
+security reviewer
+Kiểm soát truy cập, khả
+năng truy vết, phê
+duyệt thay đổi
+Seat cộng usage,
+outcome-based theo
+cycle time hoặc ticket
+deflection
+Mạnh khi backlog, tải
+trực on-call hoặc hàng
+đợi ticket rõ ràng
+Tài chính và mua sắmAP/AR, rà soát hợp
+đồng, onboarding nhà
+cung cấp, workflow
+tuân thủ
+Đóng sổ nhanh hơn,
+giảm thất thoát, ít ngoại
+lệ thủ công hơn
+ERP phức tạp, phân tách
+nhiệm vụ, khác biệt
+chính sách
+Chủ quy trình, ERP
+integrator , compliance
+lead, data engineer
+Audit trail, lưu trữ,
+quyền phê duyệt, kiểm
+tra chính sách
+Theo workflow, theo tài
+liệu, share-of-savings
+Mạnh khi khối lượng
+hóa đơn hoặc hợp đồng
+cao
+Sản xuất và chuỗi cung
+ứng
+Hỗ trợ lập kế hoạch,
+giám sát nhà cung cấp,
+xử lý ngoại lệ, điều phối
+bảo trì
+OTIF tốt hơn, giảm
+downtime, phản ứng
+nhanh hơn với gián
+đoạn
+Dữ liệu phân mảnh, tích
+hợp OT, rủi ro an ninh
+mạng
+Operations data
+engineer , planner SME,
+chuyên gia AI công
+nghiệp
+Quyền ghi đè của con
+người, an toàn công
+nghiệp, chống chịu an
+ninh mạng
+Nền tảng + dịch vụ +
+tích hợp, đôi khi gain-
+share
+Mạnh ở vận hành nhiều
+nhà máy, xuất khẩu
+hoặc biến động cao
+Hành chính y tế Đặt lịch, mã hóa, prior
+authorization, giấy tờ
+xuất viện, điều hướng
+bệnh nhân
+Giảm gánh nặng hành
+chính, tăng thông
+lượng, dịch vụ nhất
+quán hơn
+Quyền riêng tư, chất
+lượng dữ liệu, rủi ro
+workflow
+Health informatics, QA,
+clinical ops, integration
+Đồng ý, bảo vệ PHI,
+audit, giải thích được
+Theo hành trình bệnh
+nhân, theo workflow,
+managed service
+Mạnh khi chi phí hành
+chính cao và quy trình
+được chuẩn hóa
+Đây là các thị trường “hiện hữu” vì chúng khớp với vùng giá trị của McKinsey, tín hiệu tự động hóa workflow từ Microsoft và các trường hợp sử dụng doanh nghiệp được
+IBM ghi nhận. Có một sắc thái quan trọng: McKinsey nhìn thấy ít giá trị genAI trực tiếp hơn trong sản xuất và chuỗi cung ứng so với vận hành khách hàng hoặc phần
+mềm, nhưng xử lý ngoại lệ theo kiểu agentic vẫn khiến các chức năng này quan trọng về mặt thương mại, đặc biệt ở các nền kinh tế xuất khẩu.
+Trang 4 / 8
+
+
+--- PAGE 5 ---
+Thị trường đang hình thành và thị trường tương lai
+Ngách Mô tả và trường hợp
+sử dụng
+Động lực giá trị Rào cản chính Vai trò cần có Nhu cầu quản trị GTM và định giá Quy tắc ROI
+Đánh giá và
+observability cho agent
+Kiểm thử chuỗi nhiều
+bước, benchmark thành
+công/thất bại, giải thích
+nguyên nhân agent sai
+Độ tin cậy, khả năng
+bảo trì, niềm tin của
+người mua
+Ít benchmark chung,
+công cụ còn non trẻ
+Eval engineer , ML QA,
+telemetry engineer
+Bằng chứng kiểm thử,
+log sự cố, workflow rà
+soát
+Subscription doanh
+nghiệp + dịch vụ
+Đáng tiền khi agent
+chạm vào hệ thống thật
+Browser và web agentsĐiền form, nghiên cứu
+web, bước mua sắm,
+hoàn thành workflow
+trên website bên thứ ba
+Thay thế lao động số
+tốn thời gian
+Prompt injection, tương
+thích website, rủi ro xác
+thực và thanh toán
+Browser automation,
+containment, AppSec
+Cổng phê duyệt, danh
+tính, sandboxing
+Theo nhiệm vụ hoặc
+seat
+Tốt nhất cho nhiệm vụ
+lặp lại, có ranh giới rõ
+Agent ở biên và trong
+thiết bị nhúng
+Agent trên điện thoại,
+PC, XR, hệ thống công
+nghiệp, phương tiện
+Độ trễ thấp, riêng tư,
+hoạt động offline
+Ràng buộc thiết bị, tối
+ưu hóa phức tạp
+Edge ML, systems,
+embedded software
+An toàn, quyền riêng tư,
+quản trị vòng đời thiết
+bị
+SDK, cấp phép OEM,
+royalty theo thiết bị
+Tốt khi suy luận cục bộ
+thắng phụ thuộc cloud
+Bảo mật và danh tính
+cho agent
+Phân quyền, xử lý
+secrets, kiểm soát
+runtime, chính sách phê
+duyệt
+Mở khóa triển khai
+trong môi trường có
+quản lý
+Công cụ phân mảnh,
+tiêu chuẩn chưa rõ
+IAM, security
+engineering,
+governance
+Yêu cầu cốt lõi, không
+tùy chọn
+Theo agent, theo policy,
+nền tảng doanh nghiệp
+Bắt buộc khi agent
+hành động xuyên hệ
+thống
+Agent thương mại web
+tự chủ
+Agent so sánh, đàm
+phán, mua, chuyển đổi,
+gia hạn hoặc đặt dịch vụ
+thay người dùng/doanh
+nghiệp
+Giảm chi phí giao dịch,
+tăng chuyển đổi
+Niềm tin, trách nhiệm
+pháp lý, tương thích
+merchant, thanh toán
+Thiết kế marketplace,
+payment ops,
+compliance
+Luật người tiêu dùng,
+công bố, phê duyệt
+Phí giao dịch, chia sẻ
+doanh thu, CPA
+Hấp dẫn chỉ khi chi phí
+lỗi được khoanh chặt
+Agent hiện thân trong ô
+tô và IoT
+Trợ lý trong xe, agent
+công nghiệp, hệ thống
+hành động dựa trên
+cảm biến
+Đòn bẩy lao động, an
+toàn, tiện nghi, tự động
+hóa dự đoán
+Chứng nhận phần cứng,
+trách nhiệm pháp lý,
+chu kỳ dài
+Robotics, perception,
+edge AI, safety
+engineering
+Khung an toàn sản
+phẩm và trách nhiệm
+Cấp phép OEM, phần
+mềm nhúng, dịch vụ đi
+kèm
+Mang tính chiến lược
+hơn là gần hạn với đa
+số người gia nhập
+Lớp này quan trọng vì thị trường không chỉ là “copilot doanh nghiệp”. MIT AI Agent Index nhận thấy browser agents vận hành với mức tự chủ cao nhất, nhưng an toàn và
+minh bạch vẫn yếu: 25 trên 30 agent không công bố kết quả an toàn nội bộ, 23 trên 30 không có thông tin kiểm thử bên thứ ba, và browser agents có rủi ro prompt
+injection tập trung. Trong khi đó, Microsoft Research đã xem đánh giá agent là một lĩnh vực kỹ thuật riêng thông qua Agent-Pex.
+Mức độ sẵn sàng của Việt Nam và các điểm vào ưu tiên
+Môi trường chính sách vĩ mô của Việt Nam thuận lợi một cách đáng chú ý. Chiến lược AI quốc gia đặt mục tiêu rõ ràng về nghiên cứu AI, dữ liệu mở, trung tâm quốc gia và
+vị thế dẫn đầu khu vực vào năm 2030. Đề án chính phủ số cho rằng AI cần trở thành xương sống của hành chính công, hoạch định chính sách và cung cấp dịch vụ; giai
+đoạn 2025-2027 đặt mục tiêu dịch vụ trực tuyến toàn trình cho mọi thủ tục đủ điều kiện và 95% mức hài lòng của người dân và doanh nghiệp với dịch vụ trực tuyến.
+Khung chuyển đổi số quốc gia rộng hơn tiếp tục xoay quanh ba trụ cột: chính phủ số, kinh tế số và xã hội số. Bộ Thông tin và Truyền thông cùng các báo cáo chính thức
+của Chính phủ cho thấy AI không còn được xem như chủ đề phụ, mà đã trở thành một phần trong thiết kế năng lực nhà nước.
+Trang 5 / 8
+
+
+--- PAGE 6 ---
+Phía cầu cũng thuận lợi. Báo cáo chính thức cho biết kinh tế số chiếm hơn 18% GDP năm 2024 và hướng tới 30-35% vào năm 2030. Báo cáo e-Conomy SEA 2025 của
+Google, Temasek và Bain & Company đặt kinh tế số Việt Nam ở mức 39 tỷ USD GMV năm 2025, với 81% người dùng tương tác AI hằng ngày và 96% sẵn sàng cấp quyền
+truy cập dữ liệu cho AI agents. Đây là tín hiệu về người tiêu dùng và lực lượng lao động hơn là con số ROI doanh nghiệp, nhưng vẫn rất quan trọng: chúng cho thấy mức
+sẵn sàng xã hội cao bất thường đối với dịch vụ được trung gian bởi AI.
+Bức tranh sẵn sàng nội tại thì không đồng đều. Đại học Quốc gia Hà Nội cho biết Báo cáo thường niên AI Việt Nam 2025 được tổng hợp từ dữ liệu khảo sát bao phủ 50
+doanh nghiệp, 127 viện nghiên cứu và cơ sở giáo dục đại học, và 142 tổ chức ứng dụng AI, đồng thời kết luận rằng AI đã là động lực đáng kể trong công nghiệp, y tế,
+giao thông, tài chính và giáo dục. Nhưng báo cáo cũng cho biết mức sẵn sàng về hạ tầng dữ liệu, năng lực tính toán và nhân lực chất lượng cao còn không đồng
+đều, và khoảng cách giữa chính sách với triển khai thực tế vẫn là một thách thức lớn.
+Ở phía cung, bức tranh hiện đã hữu hình thay vì chỉ là lý thuyết. FPT đang thương mại hóa sản phẩm AI agent đa ngôn ngữ và đầu tư vào năng lực AI factory, trung tâm AI
+với sự hỗ trợ của NVIDIA; Viettel AI định vị tự động hóa agentic như “nhân sự số”; Qualcomm mở trung tâm R&D AI tại Việt Nam tập trung vào AI tạo sinh và agentic AI
+trên smartphone, PC, XR, ô tô và IoT; còn VinAI tiếp tục tập trung vào AI ô tô cho các OEM toàn cầu. Con số “tăng năng suất tới 67%” của FPT là chỉ số do nhà cung cấp
+công bố, nên nên xem như tín hiệu định hướng hơn là benchmark độc lập.
+Điểm vào ưu tiên Vì sao nên đi trước ở Việt NamNgười mua đầu tiên tốt nhấtPilot đầu tiên mạnh Mỏ neo định giá khả dĩ KPI đầu tiên cần chứng minh
+Agent dịch vụ khách hàng Lặp lại cao, chỉ số dịch vụ rõ, nhu
+cầu đa ngôn ngữ
+Ngân hàng, viễn thông, thương
+mại điện tử, tiện ích
+FAQ + phân loại + hoàn thành
+giao dịch đơn giản
+Theo tương tác hoặc deflectionChi phí mỗi case, containment
+rate
+Agent tri thức và đào tạo nhân
+viên
+Rủi ro bên ngoài thấp hơn, dữ
+liệu nội bộ phong phú, hoàn vốn
+nhanh
+Doanh nghiệp lớn, đại học, cơ
+quan nhà nước
+Tra cứu chính sách, onboarding,
+trợ lý học tập
+Seat hoặc license doanh nghiệpThời gian có câu trả lời, thời gian
+onboarding
+Agent kỹ thuật phần mềm và IT
+ops
+Nền tảng phần mềm nội địa và
+văn hóa dịch vụ xuất khẩu mạnh
+Công ty IT, ngân hàng số, doanh
+nghiệp xuất khẩu
+Phân loại ticket, review code,
+sinh test
+Seat + usage hoặc hỗ trợ theo
+SLA
+Cycle time, backlog ticket
+Agent tài chính, mua sắm, tuân
+thủ
+Tiết kiệm dễ nhìn thấy và có
+audit trail
+Tập đoàn, ngân hàng, bảo hiểm,
+nhà sản xuất
+Tự động hóa AP , phân loại hợp
+đồng, onboarding nhà cung cấp
+Theo workflow hoặc chia sẻ tiết
+kiệm
+Thời gian xử lý, giảm thất thoát
+Agent sản xuất và chuỗi cung
+ứng
+Phù hợp với nền kinh tế thực và
+cấu trúc xuất khẩu của Việt Nam
+Nhà sản xuất xuất khẩu, doanh
+nghiệp logistics
+Xử lý ngoại lệ và planner copilotsNền tảng + tích hợp + gain-shareOTIF, năng suất planner
+Agent dịch vụ công và hành
+chính y tế
+ROI xã hội cao và được chính
+sách hỗ trợ
+Bộ ngành, tỉnh/thành, nhóm
+bệnh viện
+Hỏi đáp công dân, đặt lịch hoặc
+hỗ trợ giấy tờ
+Dự án + managed service Mức hài lòng, thời gian giải
+quyết
+Thứ tự ưu tiên này là tổng hợp của chương trình chính sách Việt Nam, mức trưởng thành quy trình doanh nghiệp và năng lực cung trong hệ sinh thái địa phương. Nó ưu
+tiên các workflow hẹp, đo được và thân thiện với tích hợp hơn là các tuyên bố tự chủ rộng.
+GTM, ROI, nhân tài và quản trị
+Có ba mô hình kinh doanh đáng tin cậy. Định giá subscription và usage phù hợp với công cụ ngang và agent hướng đến nhân viên. Định giá theo kết quả hiệu quả khi
+người mua đã có ngân sách quanh một kết quả đo được, chẳng hạn ticket được xử lý, hóa đơn được xử lý hoặc khoản tiết kiệm đạt được. Đi vào bằng dịch vụ phù hợp
+khi người mua muốn cải thiện workflow hơn là mua thêm một công cụ. Đây là nơi luận điểm “services as new software” của Sequoia có liên quan nhất: ở nhiều thị trường,
+Trang 6 / 8
+
+
+--- PAGE 7 ---
+giá trị bền vững không nằm ở việc cấp phép trí tuệ, mà ở việc bán chính phần công việc được thực hiện. Phân tích của a16z về voice agents cũng chỉ ra hướng tương tự
+đối với vận hành khách hàng.
+Một quy tắc ROI thực dụng là: đừng bắt đầu bằng câu hỏi “agent có thể tự chủ đến mức nào?” Hãy bắt đầu bằng “chúng ta có thể loại bỏ bao nhiêu công việc lặp lại, có
+thể quan sát số hóa, mà không tạo ra chi phí lỗi không thể chấp nhận?” Vì vậy, cảnh báo của Gartner rất quan trọng. Nếu một tổ chức không thể định nghĩa quy trình nền
+hiện tại, người chịu trách nhiệm, tỷ lệ ngoại lệ và ranh giới phê duyệt, tổ chức đó thường chưa sẵn sàng cho agent cấp sản xuất. Trên thực tế, các thành công ban đầu
+thường xuất hiện khi một chỉ số kinh doanh được ghép với một chỉ số kiểm soát: ví dụ chi phí xử lý case giảm cùng với độ chính xác leo thang ổn định; hoặc thời gian xử lý
+hóa đơn ngắn hơn nhưng không tăng vi phạm chính sách.
+Dịch chuyển nhân tài sẽ rộng hơn nhiều so với “prompt engineering”. Microsoft báo cáo rằng lãnh đạo doanh nghiệp đã cân nhắc các vai trò như AI trainer , data specialist,
+AI agent specialist, AI security specialist và AI ROI analyst; World Economic Forum nhấn mạnh AI và dữ liệu lớn, an ninh mạng và literacy công nghệ là các kỹ năng tăng
+trưởng nhanh nhất; còn báo cáo thường niên của VNU nhấn mạnh phát triển nhân lực AI tại Việt Nam cần dài hạn, thực tiễn và gắn chặt với doanh nghiệp. Với Việt Nam,
+một đội triển khai tối thiểu thường gồm chủ sở hữu nghiệp vụ, kỹ sư tích hợp, agent architect, trưởng đánh giá, chủ bảo mật/tuân thủ và quản lý thay đổi. Công việc văn
+thư, hành chính thường quy dễ bị ảnh hưởng hơn các vai trò xoay quanh phán đoán, đồng cảm hoặc xử lý ngoại lệ phức tạp, nhưng mô hình mạnh hơn là tái thiết kế
+nhiệm vụ chứ không phải biến mất việc làm đơn giản.
+Quản trị không phải chủ đề phụ. Nó là điều kiện gia nhập thị trường đối với người mua lớn. AI RMF của NIST được thiết kế để giúp tổ chức quản lý rủi ro AI đối với cá
+nhân, tổ chức và xã hội; ISO/IEC 42001 là tiêu chuẩn hệ thống quản lý AI đầu tiên trên thế giới; Nguyên tắc AI của OECD được cập nhật năm 2024 để phản ánh các rủi ro AI
+mới hơn; và Đạo luật AI của Liên minh châu Âu có hiệu lực từ tháng 8/2024, với quy tắc minh bạch áp dụng từ tháng 8/2026, nghĩa vụ GPAI đã có hiệu lực từ tháng 8/2025,
+và nghĩa vụ đối với hệ thống rủi ro cao kéo dài sang 2027-2028. Ngay cả doanh nghiệp Việt Nam chủ yếu bán trong nước cũng nên thiết kế theo các khung này, vì mua
+sắm doanh nghiệp và chuỗi xuất khẩu ngày càng kế thừa kỳ vọng quản trị quốc tế.
+Cảnh báo quản trị cụ thể mạnh nhất đến từ AI Agent Index: browser agents thuộc nhóm hệ thống tự chủ nhất nhưng cũng kém minh bạch nhất và dễ bị prompt injection
+nhất. Điều này có nghĩa là bảo mật agent, đánh giá, phân quyền và khả năng kiểm toán tự thân đã là các ngành, không chỉ là chi tiết triển khai.
+Lộ trình, cột mốc và câu hỏi mở
+Lộ trình đúng cho đa số bên liên quan tại Việt Nam không phải là “tự chủ hoàn toàn ngay bây giờ”, mà là chuyển theo pha từ pilot hẹp sang workflow xuyên hệ thống, rồi
+đến các đặt cược chiến lược trong môi trường nhúng và vật lý.
+2026-2028
+Pilot hẹp, ROI cao
+CSKH, IT, tài chính, đào tạo, hỗ trợ công dân→
+2029-2032
+Mở rộng workflow đa agent
+Điều phối xuyên hệ thống, eval dùng chung, quản trị
+mạnh hơn
+→
+2033 trở đi
+Đặt cược chiến lược
+Thương mại tự chủ, ô tô/IoT, embodied agents
+Trang 7 / 8
+
+
+--- PAGE 8 ---
+Bên liên quan Cột mốc gần hạn KPI Dự án pilot đề xuất
+Chính phủ Tạo mẫu chung về mua sắm, logging, đánh
+giá và red-team cho agent khu vực công
+Thời gian giải quyết cho công dân, chi phí
+phục vụ, hài lòng, tỷ lệ sự cố
+Hỏi đáp hành chính, định tuyến hồ sơ, agent
+đặt lịch và trạng thái hồ sơ
+Doanh nghiệp Không chạy quá ba pilot cùng lúc; mỗi pilot
+có chủ ngân sách và metric nền rõ
+Thời gian hoàn vốn, tỷ lệ thành công
+workflow, tỷ lệ override, mức nghiêm trọng
+lỗi
+Contact center , IT helpdesk, AP/mua sắm
+Startup Đi vào qua một workflow thuê ngoài hoặc lặp
+lại hẹp, sau đó mở rộng
+Tài khoản lighthouse, thời gian tích hợp,
+retention, gross margin
+AI BPO, QA/bảo mật agent, back office tuân
+thủ, vertical copilots
+Nhà đầu tư Rót vốn vào picks-and-shovels hoặc ngách
+dọc hẹp, không phải “agent cho mọi thứ”
+Bằng chứng ROI, độ sâu triển khai, retention,
+đường đến margin
+Evals, identity, browser tooling, hạ tầng edge-
+agent
+Học thuật Tạo chương trình ứng dụng, benchmark tiếng
+Việt và phòng lab đánh giá dùng chung
+Việc làm của sinh viên tốt nghiệp, đối tác
+doanh nghiệp, mức dùng benchmark
+Đánh giá agent, bộ dữ liệu workflow tiếng
+Việt, nguyên mẫu dịch vụ công
+Lộ trình này là tổng hợp của các mục tiêu chính sách, tín hiệu chấp nhận và khoảng trống sẵn sàng. Mục tiêu ngắn hạn không phải chứng minh Việt Nam có thể xây dựng
+mọi lớp của stack. Mục tiêu là chứng minh doanh nghiệp và thể chế Việt Nam có thể thắng ở nơi workflow địa phương, ngôn ngữ, sự ăn khớp chính sách và độ sâu tích
+hợp quan trọng hơn quyền sở hữu mô hình frontier thô.
+Kết luận chiến lược rõ nhất là Việt Nam nên hướng tới xuất sắc trong các agent có ranh giới, ROI cao và được định hình theo ngành trước khi cố cạnh tranh ở nền tảng
+agent tổng quát. Điều đó nghĩa là đi trước trong vận hành khách hàng, workflow nội bộ doanh nghiệp, tăng cường dịch vụ công và xử lý ngoại lệ sản xuất/logistics, đồng
+thời xây năng lực song song về đánh giá agent, quản trị và triển khai ở biên. Nếu làm được như vậy, Việt Nam có thể tham gia không chỉ vào lớp ứng dụng của agentic AI,
+mà cả các phần có ý nghĩa của hạ tầng và stack nhúng.
+Các câu hỏi mở vẫn còn. Bảng dữ liệu đầy đủ của NIC Vietnam AI Economy 2025 không hoàn toàn truy cập được ở dạng máy đọc trong phiên làm việc gốc, nên một số số
+liệu riêng về Việt Nam phải được dẫn qua tóm tắt chính thức và báo cáo chính phủ thay vì báo cáo dữ liệu gốc đầy đủ. Các tuyên bố của nhà cung cấp trong nước hữu ích
+để nhận biết hướng thương mại, nhưng không nên xem là benchmark độc lập. Và các dự báo sau năm 2028 vẫn rất bất định vì quy định, năng lực mô hình và niềm tin của
+người mua đều đang thay đổi nhanh. Các nguồn gốc chính của báo cáo gồm McKinsey, Microsoft Work Trend Index, Stanford HAI, OECD, NIST, cổng chính thức của EU AI
+Act, cổng thông tin chính thức của Chính phủ và bộ ngành Việt Nam, cùng các trang chính thức của FPT, Viettel AI, Qualcomm, NVIDIA và VinAI.
+Ghi chú nguồn: Đây là bản dịch tiếng Việt của tài liệu “Agentic AI Industry Map and Market Outlook for the World and Vietnam” do người dùng tải lên. Các tên tổ chức, số liệu và luận điểm được
+giữ theo nội dung báo cáo gốc; bản dịch chỉ biên tập lại định dạng trích dẫn để thuận tiện khi đọc PDF.
+Trang 8 / 8

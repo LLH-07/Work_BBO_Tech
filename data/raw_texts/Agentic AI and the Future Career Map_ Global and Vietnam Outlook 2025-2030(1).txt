@@ -1,0 +1,750 @@
+
+
+--- PAGE 1 ---
+Agentic AI và B ả n đồ Nghề nghiệp T ươ ng lai: Báo cáo Chuyên sâu
+Toàn cầu và Việt Nam (2025–2030)
+TL;DR
+Agentic AI là làn sóng kế tiếp c ủ a Generative AI — chuy ể n t ừ  "tr ả  l ờ i prompt" sang "t ự  lập
+kế hoạch, gọi công cụ, hành động lặp lại đ ể  đạt mục tiêu". Thị tr ườ ng AI agents toàn cầu
+đ ượ c d ự  báo tăng t ừ  ~5–8 t ỷ  USD (2024–2025) lên 42–52 t ỷ  USD vào 2030 v ớ i CAGR 43–46%
+(MarketsandMarkets, Grand View Research, BCC Research); kịch b ả n cao c ủ a Grand View
+Research là 183 t ỷ  USD vào 2033. Đây là c ơ  hội thật, nh ư ng đi kèm v ớ i "kho ả ng trống doanh
+thu 600 t ỷ  USD" mà Sequoia Capital c ả nh báo và r ủ i ro b ả o mật m ớ i (prompt injection cấp
+CVE).
+Toàn cầu sẽ ch ứ ng kiến s ự  dịch chuy ể n 22% việc làm vào 2030: WEF Future of Jobs
+Report 2025 d ự  báo 170 triệu việc làm m ớ i và 92 triệu việc làm biến mất (net +78 triệu); 86%
+ch ủ  s ử  dụng lao động kỳ vọng AI biến đ ổ i doanh nghiệp; 39% kỹ năng hiện tại sẽ lỗi th ờ i;
+85% kế hoạch tái đào tạo. Các nghề m ớ i rõ nét: Agentic Workﬂow Architect, AgentOps
+Specialist, AI Agent Evaluator, AI Governance Specialist. 
+Việt Nam có c ử a s ổ  vàng nh ư ng ph ả i chạy đua: kinh tế số đạt 36 t ỷ  USD (2024, +16% YoY
+theo e-Conomy SEA 2024); FPT–NVIDIA đầu t ư  200 triệu USD vào AI Factory; NVIDIA
+mua VinBrain và cam kết 4–4,5 t ỷ  USD trong 4 năm; nh ư ng c ả  n ướ c ch ỉ  có ~700 kỹ s ư  AI,
+~300 chuyên gia th ự c thụ, và ch ỉ  ~12% SME đã th ử  nghiệm AI. Ngách giá trị cao nhất 6–24
+tháng t ớ i: Vertical AI Agent Builder cho tài chính/y tế/logistics/giáo dục, AgentOps, AI
+Governance, và mô hình "công ty một ng ườ i + đội agents" cho thị tr ườ ng tiếng Việt.
+Key Findings
+1. Agentic AI = LLM + Memory + Tools + Planner + Action Loop. Andrew Ng
+(DeepLearning.AI, 2024–2025) đúc kết bốn pattern thiết kế cốt lõi: Reﬂection (t ự  phê
+bình), Tool Use (gọi API), Planning (chia mục tiêu), Multi-Agent (phối h ợ p). Đây là s ự  khác
+biệt căn b ả n v ớ i chatbot ph ả n ứ ng. 
+2. Quy mô kinh tế kh ổ ng lồ nh ư ng còn tranh cãi. McKinsey ướ c tính Generative AI có th ể  b ổ
+sung 2,6–4,4 nghìn t ỷ  USD/năm cho kinh tế toàn cầu (63 use cases, 16 ch ứ c năng kinh
+doanh), t ự  động hóa 60–70% th ờ i gian làm việc c ủ a nhân viên tri th ứ c. Sequoia Capital
+(David Cahn) c ả nh báo cần 600 t ỷ  USD doanh thu/năm đ ể  biện minh cho CapEx hiện tại.
+3. Các "ông l ớ n" đã chuy ể n h ẳ n sang agentic. Salesforce ra Agentforce (Atlas Reasoning
+Engine, Agentforce 360 tháng 10/2025); Microsoft có Copilot Studio + Agent 365 +
+Computer Use; 70% Fortune 500 đã dùng Copilot, h ơ n 400.000 agents tùy biến đ ượ c tạo
+World Economic Forum
+DeepLearning.AI
+CFTE + 2
+
+
+--- PAGE 2 ---
+riêng trong Q4/2024. AWS Bedrock Agents, Google Gemini Agents, IBM watsonx
+Orchestrate, UiPath AI Agents tham gia đầy đ ủ . 
+4. Việt Nam: c ơ  hội th ự c, hạ tầng đang hình thành. Quyết định 127/QĐ-TTg (26/01/2021) đặt
+mục tiêu top 4 ASEAN và top 50 toàn cầu về AI vào 2030. FPT AI Factory (200 triệu USD,
+H100/H200) đã vận hành t ừ  1/2025; NVIDIA tăng vốn pháp định công ty Việt Nam gấp 11
+lần, mua VinBrain. Thị tr ườ ng AI Việt Nam ~750 triệu USD (2024) tăng lên 2,81 t ỷ  USD
+(2033) v ớ i CAGR 14,96%.
+5. Kho ả ng trống l ớ n nhất là nhân l ự c. Báo cáo Vietnam AI Annual Report 2025 (Viện CNTT,
+ĐHQGHN): 45% nhà cung cấp AI Việt Nam coi thiếu nhân tài chất l ượ ng cao là thách th ứ c
+số 1; ch ỉ  23% gặp vấn đề hạ tầng. Bộ KH&CN: ~60.000 sinh viên IT/năm nh ư ng ch ỉ  ~1.000 có
+chuyên môn AI sâu, d ướ i 300 là chuyên gia th ự c thụ.
+6. Ba l ớ p nghề nghiệp m ớ i đang hình thành (xem Phần 6 chi tiết): nghề biến đ ổ i (BA → AI
+Workﬂow Analyst, PM → AI Agent PM), nghề đang sinh ra 2024–2026 (AgentOps, AI
+Agent Evaluator, Governance Specialist), nghề tầm xa 2027–2030+ (Personal AI
+Workforce Designer, Agent Liability Consultant, Synthetic Workforce Strategist).
+7. R ủ i ro pháp lý và b ả o mật đã th ự c s ự  x ả y ra. CVE-2025-32711 (EchoLeak — prompt
+injection trong M365 Copilot, CVSS 9.3); CVE m ớ i cho Copilot Studio đầu 2026; lỗ h ổ ng
+"PipeLeak" trên Salesforce Agentforce. EU AI Act (Regulation 2024/1689) có hiệu l ự c
+1/8/2024, áp dụng đầy đ ủ  2/8/2026, phạt tối đa 35 triệu EUR hoặc 7% doanh thu toàn cầu.
+Details
+PHẦN 1: Nền t ả ng — Agentic AI là gì
+1.1. Định nghĩa và kiến trúc
+Agentic AI là hệ thống phần mềm "Software 3.0" lấy Large Language Model (LLM) làm bộ não
+suy luận trung tâm, có kh ả  năng t ự  ch ủ  theo đu ổ i mục tiêu ph ứ c tạp thông qua vòng lặp: nhận
+th ứ c môi tr ườ ng → suy luận đ ể  lập kế hoạch → th ự c thi hành động qua các tool → ghi nh ớ  và c ả i
+thiện. Theo IBM Think (2025), agent khác phần mềm truyền thống ở  chỗ "dynamically and
+iteratively generate and follow their own plans" — t ự  sinh và s ử a kế hoạch d ự a trên kết qu ả  th ự c
+tế. 
+Bốn thành phần kiến trúc bắt buộc (đồng thuận t ừ  Unstructured.io, MDPI Futures 2025, arXiv
+2025):
+Ken Yeung
+VentureBeat + 2
+Unstructured Unstructured
+
+
+--- PAGE 3 ---
+Thành phần Vai trò Công nghệ đi ể n hình
+LLM Core
+(Brain)
+Lý luận, ra quyết định, phân rã mục tiêu GPT-4o, Claude 3.5/4, Gemini 2.x, Llama
+3
+Memory Ghi nh ớ  ngắn hạn (context window) + dài
+hạn (vector DB)
+Pinecone, Weaviate, Redis, KV cache
+Tools Gọi API, web search, code execution, DB
+query
+Function calling, MCP (Model Context
+Protocol), A2A
+Planner Sắp xếp b ướ c, phân rã sub-task, s ử a khi lỗi ReAct, Plan-Execute, Hierarchical
+planning
+Ba pattern lập kế hoạch chính trong production 2025–2026 (theo nhiều nguồn industry): ReAct
+(Reason + Act, luân phiên — phù h ợ p tác vụ bất định), Plan-Execute (lập kế hoạch tr ướ c, gi ả m
+token t ớ i 30%, phù h ợ p tác vụ ổ n định), Hierarchical planning (chia cây sub-task, ủ y quyền cho
+sub-agents). 
+1.2. So sánh rõ ràng các phạm trù
+Tiêu chí Chatbot Generative AI RPA AI Copilot Agentic AI
+T ự  ch ủ Không Ph ả n hồi
+prompt
+Theo kịch b ả n Đề xuất, ng ườ i
+duyệt
+T ự  lập kế hoạch + hành
+động
+Trạng
+thái
+Stateless Stateless Stateful đ ơ n gi ả nStateful Stateful + Memory dài
+hạn
+Đa b ướ c Không Một l ượ t Tuyến tính c ứ ng Một vài b ướ c Lặp, s ử a, phân nhánh
+Gọi tool Hiếm Hiếm Cố định Có Động, t ự  chọn tool
+Ví dụ Bot FAQChatGPT tr ả
+lờ i
+UiPath bot nhập
+liệu
+GitHub Copilot Agentforce, Operator,
+Devin
+1.3. Vì sao Agentic AI xuất hiện sau GenAI?
+Ba động l ự c: (a) LLM đ ủ  "thông minh" đ ể  reasoning đa b ướ c (GPT-4 tr ở  lên, đặc biệt o1/o3
+reasoning models 2024–2025); (b) chu ẩ n kết nối tool đã chín — OpenAI Function Calling
+(6/2023), Anthropic MCP (Model Context Protocol, 11/2024), A2A; (c) thị tr ườ ng doanh nghiệp đã
+chán "chatbot tr ả  l ờ i" và đòi h ỏ i ROI rõ — Microsoft Copilot Studio chuy ể n t ừ  Power Virtual
+Agents thành nền t ả ng agentic vào 2024. 
+Today News
+Smartbridge
+
+
+--- PAGE 4 ---
+1.4. Công nghệ nền và hệ sinh thái
+LLM frontier: GPT-4o/o3 (OpenAI), Claude 3.5/4 Sonnet/Opus (Anthropic), Gemini
+2.0/2.5 (Google DeepMind), Llama 3.1 (Meta), Qwen, DeepSeek (Trung Quốc).
+Multimodal: ả nh, audio, video, document understanding đã thành chu ẩ n.
+Hạ tầng cloud: AWS Bedrock Agents, Azure AI Foundry, Google Vertex AI Agent Builder.
+Framework mã nguồn m ở : LangChain, LangGraph, Microsoft AutoGen, CrewAI,
+LlamaIndex, MetaGPT, BabyAGI.
+D ữ  liệu doanh nghiệp: Data Cloud (Salesforce), Microsoft Graph, Snowﬂake/Databricks
+Cortex.
+1.5. Có ph ả i giai đoạn tiếp theo c ủ a phần mềm doanh nghiệp?
+Có. Bằng ch ứ ng: Microsoft đặt Agent 365 làm "central control plane" cho mọi agent (Ignite 2025).
+Salesforce CEO Marc Benioﬀ công khai gọi Agentforce là "digital labor". Theo Smartbridge
+(2026), "the shift from assistant to autonomous worker is where the real ROI of AI automation
+lies". McKinsey ướ c tính 99% lãnh đạo đã biết về GenAI, 92% kế hoạch tăng đầu t ư , nh ư ng ch ỉ  1%
+t ổ  ch ứ c đạt m ứ c tri ể n khai tr ưở ng thành — cho thấy còn c ả  thập k ỷ  chuy ể n dịch. 
+PHẦN 2: Tác động toàn cầu
+2.1. Tác động kinh tế (McKinsey 2023/2024, cập nhật 2025)
+GenAI tạo thêm 2,6–4,4 nghìn t ỷ  USD/năm (l ớ n h ơ n GDP UK 2021 là 3,1 nghìn t ỷ ). 
+Nếu nhúng vào phần mềm hiện h ữ u: lên t ớ i 6,1–7,9 nghìn t ỷ  USD/năm. 
+Tăng năng suất lao động 0,1–0,6%/năm t ớ i 2040; cộng h ưở ng tất c ả  công nghệ t ự  động hóa:
+0,2–3,3 đi ể m phần trăm/năm. 
+75% giá trị tập trung 4 lĩnh v ự c: Customer Operations, Marketing & Sales, Software
+Engineering, R&D. 
+Banking: 200–340 t ỷ  USD/năm; Retail/CPG: 400–660 t ỷ  USD/năm; Tech-Media-Telecom:
+380–690 t ỷ  USD/năm. 
+2.2. WEF Future of Jobs Report 2025 (kh ả o sát 1.000+ doanh nghiệp, 14 triệu lao động, 22
+ngành, 55 nền kinh tế)
+170 triệu việc làm m ớ i đ ượ c tạo (14% việc làm hiện tại); 92 triệu bị thay thế (8%); net +78
+triệu (+7%); t ổ ng "labour-market churn" 22%. 
+86% ch ủ  doanh nghiệp kỳ vọng AI/IT biến đ ổ i business; 60% mong "broadening digital
+access"; 58% nhắc đến robotics & automation.
+39% kỹ năng hiện tại sẽ lỗi th ờ i 2025–2030 (gi ả m t ừ  44% năm 2023, 57% năm 2020).
+Cloud Wars + 2
+CFTE
+Makebot
+Threeoaksadvisory
+World Economic ForumWorld Economic Forum
+Marketing AI Institute
+CFTE McKinsey & Company
+World Economic Forum
+
+
+--- PAGE 5 ---
+85% doanh nghiệp ư u tiên upskilling; 70% sẽ tuy ể n nhân l ự c có kỹ năng m ớ i; 40–41% sẽ
+gi ả m nhân s ự  ở  vị trí AI t ự  động hóa đ ượ c; 50% sẽ chuy ể n nhân viên sang vị trí khác trong t ổ
+ch ứ c.
+Kỹ năng tăng tr ưở ng nhanh nhất: AI & Big Data, Networks & Cybersecurity,
+Technological Literacy, Creative Thinking, Resilience/Flexibility, Curiosity & Lifelong
+Learning, Leadership & Social Inﬂuence.
+AI & information processing riêng nó: tạo 11 triệu, mất 9 triệu việc làm.
+Coursera (báo cáo kèm WEF): 7,4 triệu l ượ t đăng ký AI năm 2024, riêng GenAI 3,2 triệu (6
+lượ t/phút).
+2.3. L ợ i ích cụ th ể
+SME: dân ch ủ  hóa năng l ự c doanh nghiệp l ớ n; chi phí xây "AI nhân viên" ch ỉ  vài gi ờ  (theo
+FPT AI Factory). 
+Năng suất: developer productivity +20–45%; marketing 5–15% chi phí; sales 3–5%;
+customer service +30–45% năng suất; lập trình LLM-assisted có th ể  tăng output 14% theo
+case study McKinsey. 
+Solopreneur: cá nhân vận hành business nh ư  "công ty 1 ng ườ i + đội agents" — Sam Altman
+đề cập kh ả  năng "ﬁrst one-person billion-dollar company".
+2.4. R ủ i ro l ớ n
+Hallucination + autonomous action: agent có th ể  th ự c thi sai hành động không th ể  hoàn
+tác (g ử i email, chuy ể n tiền, xóa d ữ  liệu).
+Prompt injection đã thành l ớ p lỗ h ổ ng riêng: CVE-2025-32711 (EchoLeak, M365 Copilot,
+CVSS 9.3, vá 6/2025); CVE m ớ i cho Copilot Studio (Capsule Security phát hiện 11/2025, vá
+1/2026); "PipeLeak" trên Agentforce. Đây là l ớ p lỗ h ổ ng không th ể  vá hoàn toàn bằng patch
+— đòi h ỏ i runtime monitoring, least-privilege, human-in-the-loop. 
+Data exﬁltration qua tool use không ki ể m soát.
+"Agent washing": nhiều "agent" th ự c ra ch ỉ  là chatbot tô vẽ — Gartner c ả nh báo trong Hype
+Cycle 2024–2025.
+ROI ả o: BCG 10/2024 — 74% doanh nghiệp ch ư a ch ứ ng minh giá trị th ự c; Sequoia "600B
+Question" — gap doanh thu trị giá 500–600 t ỷ  USD/năm so v ớ i CapEx; Goldman Sachs d ự
+báo ~1 nghìn t ỷ  USD CapEx trong 5 năm. 
+2.5. Nhóm lao động bị ả nh h ưở ng tr ự c tiếp (t ổ ng h ợ p WEF, McKinsey, IBM)
+Kh ả  năng t ự  động hóa cao: Customer service (~50% t ươ ng tác đã automated trong
+banking/telecom; IBM ghi nhận gi ả m 23,5% chi phí); data entry; basic accounting; junior
+developers (code gen tăng 20–45%); junior analysts; content writers/copywriters; SDR
+(Sales Development Reps); back-oﬃce paralegals. 
+FPT
+McKinsey & Company + 2
+VentureBeat + 2
+Preben Ormen Preben Ormen
+VentureBeat VentureBeat
+
+
+--- PAGE 6 ---
+Frontline tăng tr ưở ng (vẫn cần con ng ườ i): Farmworkers, Delivery Drivers, Construction
+Workers, Nursing Professionals, Personal Care Aides, Education roles. 
+Healthcare adoption chậm do d ữ  liệu phân m ả nh và HIPAA (<10% dataset phẫu thuật
+public).
+2.6. Quốc gia dẫn đầu
+Mỹ: chiếm ~40% revenue share AI Agents toàn cầu (Grand View Research 2025).
+Trung Quốc: Baidu, Alibaba, DeepSeek, Qwen — đi đầu mã nguồn m ở .
+EU: dẫn đầu governance (AI Act), tụt hậu hạ tầng/model.
+Singapore: trung tâm AI ASEAN, 1,31 t ỷ  USD tài tr ợ  private AI (cao nhất SEA-6).
+Hàn Quốc: Samsung, Naver, Kakao AI; mật độ robot công nghiệp top 5 toàn cầu.
+PHẦN 3: Xu h ướ ng toàn cầu và đầu t ư
+3.1. Các "ông l ớ n" đang làm gì
+World Economic Forum
+Bain & Company
+
+
+--- PAGE 7 ---
+Công ty S ả n ph ẩ m/nền t ả ng agent Đi ể m mạnh
+OpenAI Operator, Assistants API, GPT-
+4o/o3
+Browser-use agent, foundation model dẫn đầu
+Anthropic Claude v ớ i Computer Use, MCP An toàn, reasoning, chu ẩ n MCP m ở
+Google
+DeepMind
+Gemini 2.0 Agents, Vertex AI
+Agent Builder, Project Mariner
+Multimodal, search-grounded
+Microsoft Copilot Studio, AutoGen, Agent
+365, Sales Agents
+Tích h ợ p M365/Dynamics/Azure; 70% Fortune 500;
+>400k agents trong Q4/2024 
+Salesforce Agentforce 360, Atlas
+Reasoning Engine, Einstein
+Trust Layer
+CRM-native, low-code Agent Builder 
+ServiceNow Now Assist Agents ITSM, employee experience
+AWS Bedrock Agents, Q Cloud-native, multi-model
+IBM watsonx Orchestrate Enterprise governance, hybrid cloud
+UiPath UiPath AI Agents RPA + LLM synergy 
+Sana
+(Workday)
+Sana Agents HR, learning
+3.2. Quan đi ể m Sequoia & a16z
+Sequoia "AI's $600B Question" (David Cahn, 6/2024): Nvidia run-rate × 2 (chi phí data
+center) × 2 (margin) = 600 t ỷ  USD doanh thu cần đ ượ c tạo ra đ ể  biện minh CapEx; Sequoia
+(1/2025) tin "AI in 2025: Building Blocks Firmly in Place" — 5 ﬁnalist model (OpenAI/MS,
+Anthropic/AWS, Google, Meta, xAI); 2025 là năm "lọc" use case nào th ự c s ự  work.
+a16z liên tục cập nhật "Top 100 Gen AI Consumer Apps"; nhấn mạnh "AI native apps" vs
+incumbent retroﬁt; xu h ướ ng AI search (Perplexity đạt 10M MAU), AI companions, AI
+productivity. 
+3.3. Thị tr ườ ng AI Agents — số liệu đối chiếu (l ư u ý: chênh lệch l ớ n gi ữ a các hãng nghiên c ứ u,
+ng ườ i dùng cần thận trọng)
+Ken Yeung
+Salesforce
+Sana
+Sequoia Capital + 2
+Sequoia Capital
+
+
+--- PAGE 8 ---
+Nguồn 2024/2025 2030/2033 CAGR
+MarketsandMarkets 5,25→7,84 t ỷ  USD
+(2025) 
+52,62 t ỷ  USD (2030) 46,3% 
+Grand View
+Research
+5,40 t ỷ  USD (2024)
+ / 7,63 (2025)
+50,31 t ỷ  USD (2030); 182,97 t ỷ
+USD (2033)
+45,8% / 49,6%
+BCC Research 8 t ỷ  USD (2025) 48,3 t ỷ  USD (2030) 43,3% 
+Capgemini/Statista 5,1 t ỷ  USD (2024) 47 t ỷ  USD (2030) 44%
+MarkNtel 5,32 t ỷ  USD (2025) 42,7 t ỷ  USD (2030) 41,5% 
+T ỷ  phận: Vertical AI agents CAGR 62,7% (cao nhất); coding & software development CAGR
+52,4%; BFSI là end-user l ớ n nhất 2025; ready-to-deploy agents chiếm thị phần l ớ n; Bắc Mỹ ~40%
+doanh thu; Châu Á-Thái Bình D ươ ng tăng nhanh nhất. 
+3.4. Solopreneur economy Mô hình "công ty 1 ng ườ i + đội AI agents" đang n ổ i: Stripe Atlas, indie
+hackers, s ả n ph ẩ m nh ư  Lindy, Cognition's Devin (coding agent), Manus (general-purpose agent
+t ừ  TQ). Theo phân tích Foundation Capital (8/2024), gen AI có th ể  tăng năng suất Mỹ 9% và GDP
+6,1% trong thập k ỷ  (Goldman Sachs). 
+PHẦN 4: Việt Nam — bối c ả nh, chiến l ượ c và c ơ  hội
+4.1. Chiến l ượ c quốc gia về AI đến 2030 — Quyết định 127/QĐ-TTg (26/01/2021, Th ủ  t ướ ng Chính
+ph ủ ) 
+Mục tiêu:
+2025: top 5 ASEAN, top 60 toàn cầu về AI; 2030: top 4 ASEAN, top 50 toàn cầu.
+Xây d ự ng 10 th ươ ng hiệu AI uy tín khu v ự c.
+3 trung tâm quốc gia về d ữ  liệu l ớ n và HPC; 50 bộ d ữ  liệu m ở  liên thông. 
+3 trung tâm đ ổ i m ớ i sáng tạo quốc gia về AI.
+≥1 đại diện trong top 20 c ơ  s ở  R&D AI ASEAN.
+10 c ơ  s ở  nghiên c ứ u/đào tạo AI trọng đi ể m đ ượ c nâng cấp/lập m ớ i.
+Áp dụng AI rộng trong: hành chính công, dịch vụ công tr ự c tuyến, tài chính-ngân hàng,
+công nghiệp, văn hóa-du lịch, an ninh-quốc phòng.
+Jploft
+Jploft Jploft
+Jploft
+Grand View Research
+Grand View Research
+BCC Research BCC Research
+BCC Research
+Statista
+Statista
+Marknteladvisors Marknteladvisors
+Marknteladvisors
+MarketsandMarkets
+Foundation Capital
+Vietnamhoinhap
+Vietnam Law Magazine
+
+
+--- PAGE 9 ---
+Văn b ả n kèm: Resolution 50/NQ-CP (4/2020), Resolution 52-NQ/TW (9/2019), Luật Công nghệ
+cao (2008), gần đây Resolution 57-NQ/TW về đột phá KHCN, ĐMST và chuy ể n đ ổ i số quốc gia.
+4.2. Ba trụ cột chuy ể n đ ổ i số và vai trò AI agents
+Chính ph ủ  số: agents t ự  x ử  lý hồ s ơ , tra c ứ u pháp luật, tr ả  l ờ i công dân 24/7; phân tích d ữ  liệu
+công dân theo chính sách (>55% dịch vụ công đã online theo Bộ KH&CN 2024).
+Kinh tế số: agents cho SME (sales, accounting, marketing); banking/ﬁntech; e-commerce.
+Kinh tế số Việt Nam đạt 36 t ỷ  USD năm 2024, +16% YoY (e-Conomy SEA 2024, Google–
+Temasek–Bain), th ươ ng mại điện t ử  22 t ỷ  USD (chiếm 61%). 
+Xã hội số: AI tutor, telehealth, nông nghiệp thông minh.
+4.3. Vietnam AI Annual Report 2025 (Viện CNTT, Đại học Quốc gia Hà Nội, kh ả o sát ~500
+doanh nghiệp 7/2025)
+Thách th ứ c số 1: thiếu nhân tài chất l ượ ng cao — 45%.
+Th ứ  hai: hạ tầng d ữ  liệu & tính toán — 23%.
+Phân khúc rõ rệt: tập đoàn l ớ n (FPT, Viettel, VNPT, Vingroup) có nguồn l ự c nh ư ng hạn chế
+trong hệ sinh thái nội bộ; startup focus ứ ng dụng chuyên biệt.
+4.4. Quy mô thị tr ườ ng AI Việt Nam
+2024: ~750 triệu USD (Báo cáo Nền kinh tế AI 2025); 2033: 2,81 t ỷ  USD; CAGR 14,96% (cao
+h ơ n trung bình toàn cầu ~12%).
+AI chiếm ~8% kinh tế (2024) theo Nexdigm.
+Oxford Insights Government AI Readiness Index 2024: Việt Nam xếp th ứ  59/193, top 5
+ASEAN, trên trung bình toàn cầu 3 năm liên tiếp.
+World AI Index 2025 (WIN): Việt Nam th ứ  6/40, hạng 3 toàn cầu về AI trust, hạng 5 về AI
+acceptance.
+765 startup AI/ML (PitchBook); th ứ  2 ASEAN sau Singapore (1.100).
+4.5. Hạ tầng AI — đầu t ư  l ớ n 2024–2025
+FPT × NVIDIA: 200 triệu USD AI Factory, vận hành 1/2025, dùng hàng nghìn H100/H200,
+hạ tầng nội địa đ ả m b ả o data sovereignty; cam kết đào tạo 30.000 sinh viên/5 năm; FPT–
+NVIDIA Partner Network. Tr ươ ng Gia Bình: "biến Việt Nam thành AI hub thế gi ớ i".
+NVIDIA tại Việt Nam: đầu t ư  >250 triệu USD; mua VinBrain t ừ  Vingroup (12/2024); ký v ớ i
+Chính ph ủ  thiết lập AI R&D Center + data hub; cam kết 4–4,5 t ỷ  USD trong 4 năm t ớ i; tăng
+vốn pháp định công ty Việt Nam gấp 11 lần (2026); tạo ~4.000 việc làm tr ự c tiếp + 40.000–
+50.000 gián tiếp. 
+VietnamPlus VietnamPlus
+TNGlobal + 3
+Investing.com + 3
+
+
+--- PAGE 10 ---
+Viettel AI: chatbot, computer vision, smart city, an ninh mạng; cam kết 100 triệu USD R&D
+AI/5 năm.
+VinAI Research (~200 nhà khoa học): VinaGPT (95% accuracy text gen tiếng Việt), Smart
+Mobility; nhiều paper top conference.
+Qualcomm: R&D Center tại Việt Nam; h ợ p tác Viettel IDC + VinAI (2023).
+Google "Build for the AI Future" (7/2024 v ớ i NIC): 350.000 USD/AI startup × 20 công ty;
+đào tạo 200 doanh nghiệp; 40.000 học b ổ ng.
+Intel "AI for All": 10.000 chuyên gia AI/bán dẫn.
+Meta: h ợ p tác AI4VN, Vietnam Innovation Challenge.
+2014–2023: 4,6 t ỷ  USD đầu t ư  vào startup công nghệ Việt Nam (NIC + Do Ventures).
+4.6. S ả n ph ẩ m "Made by FPT/Viettel/VinAI"
+FPT AI Agents: Conversation, Speech (TTS/STT tiếng Việt), Virtual Agent for Call Center;
+FPT.AI đ ượ c Software Reviews bình chọn "Outstanding Virtual Assistant 2023".
+Viettel AI Agent: customer service 2 triệu interactions/tháng, facial recognition, digital city.
+VinAI: VinaGPT, in-cabin AI, ADAS.
+Zalo AI / VNG: NLP tiếng Việt, KiKi voice assistant.
+4.7. Kho ả ng trống thị tr ườ ng Việt Nam
+Talent gap kh ổ ng lồ: 700 kỹ s ư  AI / 300 chuyên gia th ự c thụ (WIPO + MoST); ch ỉ  30% sinh
+viên IT làm đ ượ c AI; 60.000 IT grads/năm nh ư ng ch ỉ  ~1.000 có chuyên môn AI sâu.
+Hạ tầng tính toán: ch ư a có supercomputer cạnh tranh toàn cầu; phụ thuộc
+AWS/Azure/GCP cho GPU rental.
+D ữ  liệu m ở: phân m ả nh, thiếu bộ d ữ  liệu tiếng Việt chất l ượ ng cho ﬁne-tuning.
+Late-stage funding: VC nội ch ủ  yếu seed/Series A, ít deal Series B+.
+Governance & pháp lý AI: ch ư a có luật AI chuyên biệt; ch ỉ  có Nghị định b ả o vệ d ữ  liệu cá
+nhân 13/2023/NĐ-CP và Luật D ữ  liệu (2024). Cần học EU AI Act + Singapore AI Verify đ ể
+xây d ự ng.
+SME adoption rất thấp: ch ỉ  ~12% SME đã th ử  AI (Bộ KH&CN, 2024).
+PHẦN 5: Ứ ng dụng theo ngành tại Việt Nam
+5.1. Giáo dục (EdTech)
+Hiện trạng: Việt Nam top tăng tr ưở ng EdTech ASEAN; Prep.vn (Tú Phạm dạy 50 triệu học
+viên tiếng Anh — VnExpress); MindX, Topica, FUNiX, Marathon, Educa.
+Use case: AI tutor cá nhân hóa (math, English, IELTS, Toán THPT QG), Learning Agent
+Designer, hỗ tr ợ  giáo viên chấm bài/sinh đề.
+
+
+--- PAGE 11 ---
+Nghề m ớ i: AI Tutor Designer, Curriculum Agent Engineer, Vietnamese-language
+Learning Agent Builder.
+5.2. Y tế
+Hiện trạng: VinBrain (DrAid® — 21 disease markers — đã h ợ p tác Microsoft 2023, nay thuộc
+NVIDIA); telehealth Doctor Anywhere/eDoctor.
+Use case: Hospital coordination agent, patient triage agent, medical records summarization,
+ả nh y khoa CT/X-ray, d ượ c dịch tễ.
+R ủ i ro: d ữ  liệu phân tán, ch ư a có chu ẩ n HL7/FHIR đầy đ ủ ; ch ư a có hành lang pháp lý medical
+AI riêng.
+Nghề m ớ i: Medical AI Validator, Clinical Workﬂow Agent Designer, Healthcare AI
+Governance Oﬃcer.
+5.3. Tài chính – Ngân hàng
+Hiện trạng: 94% t ổ  ch ứ c tài chính Việt Nam quan tâm AI; TPBank VoicePay; Techcombank
+data engineering mạnh; VPBank, MB Bank, MSB, VIB tri ể n khai chatbot. Techcombank đặt
+CIO/CDO ngang Board level.
+Use case: Credit scoring agent (đặc biệt cho unbanked), fraud detection real-time,
+AML/KYC agent, personal ﬁnance agent, compliance reporting agent. McKinsey: banking
+là ngành thụ h ưở ng giá trị GenAI cao nhất (200–340 t ỷ  USD/năm toàn cầu). 
+R ủ i ro: NHNN có thông t ư  về ﬁntech sandbox; cần đ ợ i Luật các TCTD 2024 h ướ ng dẫn AI.
+Nghề m ớ i: Credit Agent Designer, AML Agent Engineer, Regulatory Compliance Agent
+Specialist (theo dõi BIS, Basel, NHNN).
+5.4. SME (chiếm 97% doanh nghiệp Việt Nam)
+Hiện trạng: ch ỉ  12% th ử  AI; ch ủ  yếu dùng ChatGPT/Gemini consumer.
+Use case nhanh: Sales agent (lead qualiﬁcation, đặt lịch), Accounting agent (x ử  lý hóa đ ơ n,
+MISA/Bravo integration), Customer service tiếng Việt 24/7, Marketing agent (content +
+Meta/Google Ads), Operations agent (Zalo/Telegram bot).
+Chi phí th ự c tế: Copilot Studio ~30–200 USD/ng ườ i/tháng; n8n self-host gần nh ư  free; FPT
+AI Agents t ừ  vài triệu VND/tháng cho gói SME.
+Nghề m ớ i: SME AI Agent Implementer, No-code Agent Builder (n8n/Make/Zapier),
+Vertical AI Consultant.
+5.5. Logistics
+Hiện trạng: chi phí logistics Việt Nam 16–20% GDP (cao gấp đôi trung bình thế gi ớ i ~8–9%,
+Bộ Công Th ươ ng); ngành tăng 14–16%/năm.
+CFTE
+
+
+--- PAGE 12 ---
+Use case: Route optimization agent, warehouse agent (đếm tồn kho, picking), port
+management (C ả ng Sài Gòn, Cát Lái), last-mile (Giao Hàng Nhanh, J&T, Ahamove, BEST),
+cold chain monitoring.
+Nghề m ớ i: Logistics Agent Designer, Port AI Operator, Supply Chain Resilience Agent
+Builder.
+5.6. S ả n xuất
+Hiện trạng: Việt Nam là công x ưở ng ASEAN; Samsung, Foxconn, LG, Intel có nhà máy l ớ n;
+FDI cao.
+Use case: Predictive maintenance agent (vibration sensors), quality control vision agent,
+production planning agent, IoT integration (MES/SCADA).
+Khu CN: Bắc Ninh, Bình D ươ ng, Đồng Nai, H ả i Phòng → c ơ  hội tri ể n khai pilot.
+Nghề m ớ i: Industrial AI Agent Engineer, Predictive Maintenance Specialist, Vision QC
+Agent Builder.
+5.7. Nông nghiệp
+Hiện trạng: 30% l ự c l ượ ng lao động, ~12% GDP; xuất kh ẩ u nông s ả n 53 t ỷ  USD/năm.
+Use case: Crop forecasting (lúa, cà phê, sầu riêng), pest detection (camera + edge AI), price
+prediction agent (giá thị tr ườ ng), supply chain agent t ừ  nông dân đến nhà xuất kh ẩ u.
+Nghề m ớ i: AgriTech AI Designer, Crop Yield Agent Engineer.
+5.8. Chính ph ủ  số
+Use case: c ổ ng dịch vụ công agent (DVCQG), citizen support chatbot tiếng Việt + tiếng dân
+tộc, document classiﬁcation, public data analytics agent (mic.gov.vn, dbi.gov.vn,
+nic.gov.vn).
+Nghề m ớ i: Public Sector AI Architect, Citizen Service Agent Designer, Govt Data Privacy
+Oﬃcer.
+5.9. Truyền thông – Marketing
+Use case: Campaign planning agent, content creation tiếng Việt (Zalo, TikTok, Facebook),
+performance optimization across Meta/Google/TikTok Ads, inﬂuencer agent.
+Nghề m ớ i: MarTech Agent Designer, Creative AI Director, Multi-channel Performance
+Agent Specialist.
+5.10. An ninh mạng
+Hiện trạng: Viettel Cyber Security, VNPT-CMC; tấn công mạng Việt Nam tăng nhanh
+(BKAV, VNCERT).
+
+
+--- PAGE 13 ---
+Use case: Autonomous threat detection (SIEM + LLM), incident response agent, phishing-
+email agent classiﬁer, vuln scanning agent.
+Nghề m ớ i: AgentSecOps Engineer, Threat Intelligence Agent Builder.
+PHẦN 6: B ả n đồ nghề nghiệp t ươ ng lai
+6.1. Nghề BIẾN Đ Ổ I (đã tồn tại → hình th ứ c m ớ i)
+Nghề cũ Nghề m ớ i Kỹ năng cần thêm L ươ ng ref toàn cầu
+(USD/năm)
+Business Analyst AI Workﬂow Analyst T ư  duy workﬂow, LLM evals,
+process mining
+90k–150k
+Product Manager AI Agent Product
+Manager
+LLM evals, RAG, model selection,
+AgentOps
+140k–250k
+Data Engineer Context/Data
+Engineer for Agents
+Vector DB, embeddings, MCP, data
+labeling for agents
+120k–200k
+Automation
+Engineer (RPA)
+Agentic Automation
+Engineer
+LangGraph/AutoGen, hybrid
+RPA+LLM
+110k–180k
+Customer Service
+Manager
+Human-Agent
+Service Manager
+Bot orchestration, escalation
+routing
+80k–130k
+HR/L&D
+Specialist
+AI Reskilling
+Designer
+Skills mapping, AI literacy
+programs
+80k–140k
+L ươ ng Việt Nam t ươ ng đ ươ ng: 30–60% m ứ c toàn cầu cho remote, 40–80 triệu VND/tháng cho
+mid-senior trong n ướ c (theo TopCV/ITviec 2024–2025).
+6.2. Nghề ĐANG HÌNH THÀNH (2024–2026)
+Agentic Workﬂow Architect: thiết kế end-to-end agentic system cho doanh nghiệp; cần
+kiến th ứ c enterprise architecture + LLM + integration; l ươ ng 150–280k USD ở  Mỹ.
+AgentOps Specialist (so v ớ i MLOps/DevOps): vận hành agents trong production —
+observability, eval, rollback, prompt versioning, cost monitoring; l ươ ng 130–220k USD.
+AI Agent Evaluator: thiết kế benchmark, đánh giá hallucination, accuracy, safety; làm việc
+v ớ i LLM-as-judge, golden datasets.
+AI Governance Specialist: ISO/IEC 42001 (AI Management System), NIST AI RMF, EU AI
+Act compliance; cần legal + tech background; l ươ ng 120–200k USD.
+Human-Agent Team Designer: UX/Org Design cho con ng ườ i-agent cộng tác.
+
+
+--- PAGE 14 ---
+Vertical AI Agent Builder: chuyên ngành (legal AI — Harvey-style; medical — DrAid-style;
+ﬁnance — Hebbia-style).
+6.3. Nghề T ƯƠ NG LAI (2027–2030+)
+AI Agent Supervisor: giám sát đội agents t ự  ch ủ  ở  quy mô l ớ n (1 ng ườ i qu ả n 50–100 agents).
+Personal AI Workforce Designer: thiết kế "đội ngũ AI cá nhân" cho solopreneur/SME
+owner.
+Agent Rights & Liability Consultant: t ư  vấn pháp lý khi agent gây thiệt hại (CVE-level
+events đã xuất hiện 2025–2026).
+Synthetic Workforce Strategist: hoạch định chiến l ượ c l ự c l ượ ng lao động lai (human +
+agent + robotics).
+AI Agent Insurance/Risk Assessor: b ả o hi ể m cho lỗi agent — Munich Re, Lloyd's đã bắt
+đầu s ả n ph ẩ m "AI liability" 2024–2025.
+Digital Twin Workforce Manager: qu ả n trị digital twin c ủ a t ổ  ch ứ c + agents thay thế/b ổ
+sung con ng ườ i.
+PHẦN 7: Khung đánh giá ngách (scoring 1–5, do tác gi ả  t ổ ng h ợ p)
+Ngách Việt
+Nam
+Xu
+h ướ ng
+TC
+Mục
+tiêu
+VN
+Nhu
+cầu
+DN
+Ít
+cạnh
+tranh
+Học
+6–
+12
+th
+S ả n
+ph ẩ m
+hóa
+Th ươ ng
+mại
+hóa
+R ủ i
+ro
+pháp
+lý
+Thị
+tr ườ ng
+chấp
+nhận
+Tiên
+phong
+T Ổ NG
+/50
+Vertical
+Agent cho
+SME
+(sales/CSKH
+tiếng Việt)
+5 5 5 4 5 5 5 2 5 5 46
+AgentOps
+Specialist
+5 4 4 5 4 4 4 1 3 5 39
+Medical AI
+Agent
+(radiology,
+triage)
+5 4 4 4 3 4 4 5 3 4 40
+AI Tutor
+tiếng Việt
+5 5 5 3 4 5 5 2 5 4 43
+Banking
+Compliance
+5 5 5 4 3 4 5 4 4 4 43
+
+
+--- PAGE 15 ---
+Ngách Việt
+Nam
+Xu
+h ướ ng
+TC
+Mục
+tiêu
+VN
+Nhu
+cầu
+DN
+Ít
+cạnh
+tranh
+Học
+6–
+12
+th
+S ả n
+ph ẩ m
+hóa
+Th ươ ng
+mại
+hóa
+R ủ i
+ro
+pháp
+lý
+Thị
+tr ườ ng
+chấp
+nhận
+Tiên
+phong
+T Ổ NG
+/50
+Agent
+Logistics
+Route Agent
+5 5 5 4 4 5 5 1 4 5 43
+Agri
+Pest/Yield
+Agent
+4 5 4 5 4 4 3 1 3 5 38
+Government
+Service
+Agent
+4 5 5 4 3 3 3 3 4 4 38
+Cybersec
+Autonomous
+Response
+5 4 5 4 2 4 5 3 4 4 40
+AI
+Governance
+Consulting
+(ISO 42001 /
+NĐ 13)
+5 4 4 5 4 3 4 1 3 5 38
+L ư u ý chấm đi ể m: "R ủ i ro pháp lý" — đi ể m thấp = r ủ i ro cao; SME ngách dễ nhất vì regulatory
+light. Y tế và ngân hàng đi ể m cao về nhu cầu nh ư ng r ủ i ro tuân th ủ  cao.
+Recommendations
+Cho ng ườ i m ớ i (sinh viên, ng ườ i chuy ể n ngành) — hành động 0–6 tháng
+1. Học ngay khóa Agentic AI c ủ a Andrew Ng (DeepLearning.AI): nắm 4 pattern Reﬂection,
+Tool Use, Planning, Multi-Agent. 
+2. Làm 3 project portfolio th ự c tế: (a) personal productivity agent dùng LangGraph +
+Claude/GPT; (b) RAG vertical (luật/y tế Việt Nam); (c) multi-agent automation cho 1 SME
+thật.
+3. Chuyên môn hóa 1 ngách trong b ả ng scoring trên — chọn ngách ≥40 đi ể m.
+DeepLearning.AI
+
+
+--- PAGE 16 ---
+4. Benchmark: 6 tháng = portfolio + 1 ch ứ ng ch ỉ  (AWS AI Practitioner / Microsoft AI Engineer
+/ DeepLearning.AI Specialization).
+5. Trigger thay đ ổ i: nếu sau 12 tháng không kiếm đ ượ c job/contract liên quan agentic, chuy ể n
+sang AgentOps hoặc AI Governance (cung-cầu mất cân đối cao h ơ n).
+Cho nhà qu ả n lý SME — 90 ngày
+1. Tháng 1: chọn 1 vertical pilot (lead qualiﬁcation HOẶC customer service tiếng Việt) + 1
+horizontal pilot (IT helpdesk). 
+2. Tháng 2: tri ể n khai trên Copilot Studio (nếu đã M365) hoặc Agentforce (nếu Salesforce)
+hoặc n8n/LangGraph self-host (nếu cost-sensitive). Ngân sách pilot 5.000–30.000 USD.
+3. Tháng 3: đo Resolution Rate (không ph ả i Chat Volume); KPI: agent hoàn thành ≥40% task
+không cần con ng ườ i; cost gi ả m ≥20%. 
+4. Benchmark đ ổ i quyết định: nếu Resolution Rate <25% sau 90 ngày → đ ổ i vendor hoặc gi ả m
+scope. Nếu ≥50% → scale ra 3 phòng ban tiếp theo.
+Cho doanh nghiệp l ớ n / ngân hàng / bệnh viện
+1. Lập AI Governance Council ngay (CRO + CTO + DPO + Legal); ban hành chính sách AI nội
+bộ tham chiếu NIST AI RMF + ISO/IEC 42001.
+2. Pilot trong 2 quý ở  ch ứ c năng r ủ i ro thấp (internal knowledge agent, draft email, code
+assistance) tr ướ c khi chạm d ữ  liệu khách hàng.
+3. Đầu t ư  data infrastructure tr ướ c model: vector DB, data quality, MDM. Không t ổ  ch ứ c nào
+đạt agentic ROI mà data còn rối.
+4. Mua b ả o hi ể m AI liability (Munich Re, Chubb đã có s ả n ph ẩ m).
+Cho nhà đầu t ư  / startup founder Việt Nam
+1. Tránh foundation model: Việt Nam không cạnh tranh đ ượ c — capex hàng trăm triệu USD.
+2. Đầu t ư  vertical AI agents tiếng Việt: legal (nh ư  Harvey VN), medical (DrAid kế tiếp),
+tax/accounting (MISA add-on), real-estate.
+3. Distribution > tech: ai s ở  h ữ u kênh t ớ i SME Việt (Zalo OA, Telegram, agent reseller) sẽ
+thắng.
+4. Series A target: doanh thu ARR ≥500.000 USD, gross margin ≥60%, NRR ≥110%.
+5. Trigger thay đ ổ i: nếu Singapore/Indonesia VC vào mạnh trong ngách c ủ a bạn, hoặc
+Salesforce/Microsoft ra agent vertical local-language, cần raise gấp hoặc bán.
+Cho nhà hoạch định chính sách (Bộ KH&CN, NIC, Bộ TT&TT cũ)
+1. Ban hành Luật AI riêng đến 2026 — học EU AI Act risk-based, nh ư ng SME-light (sandbox
+nh ư  Singapore AI Verify, UK AISI).
+ModelGate AI
+ModelGate AI
+
+
+--- PAGE 17 ---
+2. M ở  quỹ scholarship 5.000 kỹ s ư  AI/năm (mục tiêu MoST hiện tại 5.000 t ổ ng ch ứ  không
+ph ả i/năm — cần nâng).
+3. M ở  50 dataset quốc gia theo cam kết QĐ 127, ư u tiên y tế ẩ n danh, giáo dục, giao thông,
+nông nghiệp.
+4. Ư u đãi thuế cho AI Factory & nội địa hóa GPU rental (gi ả m phụ thuộc AWS/Azure).
+5. Benchmark đ ổ i quyết định: nếu 2027 vẫn xếp hạng >50 toàn cầu (Government AI
+Readiness Index), kh ẩ n cấp tăng đầu t ư  R&D AI lên 1% GDP (hiện <0,2%).
+Caveats
+1. D ự  báo thị tr ườ ng AI agents chênh nhau l ớ n (42–183 t ỷ  USD vào 2030–2033). Đây là dấu
+hiệu thị tr ườ ng m ớ i, các hãng nghiên c ứ u (MarketsandMarkets, Grand View, BCC,
+Capgemini, MarkNtel) dùng định nghĩa "agent" khác nhau. Đọc nên lấy trung bình và xem
+CAGR (đồng thuận 41–50%).
+2. "Agent washing" và speculation: Nhiều nhận định "AI sẽ tạo X triệu việc làm" mang tính
+d ự  báo có điều kiện (subjunctive: could, may, expected to). WEF d ự a trên kh ả o sát ý kiến ch ủ
+doanh nghiệp (subjective), McKinsey d ự a trên technical potential (ch ư a = adoption th ự c).
+Hãy xem các con số là phạm vi kịch b ả n, không ph ả i s ự  thật đã x ả y ra.
+3. Sequoia "$600B Question" vs lạc quan AGI — ch ư a gi ả i quyết. Foundation Capital ph ả n
+biện ng ượ c ($4,6T+ opportunity); th ự c tế ROI sẽ rõ trong 18–36 tháng t ớ i khi enterprise
+scale beyond pilot.
+4. R ủ i ro b ả o mật m ớ i ch ư a định hình hoàn toàn: prompt injection không th ể  vá hoàn toàn
+bằng patch; CVE đang đ ượ c gán m ớ i cho l ớ p lỗ h ổ ng này. Doanh nghiệp ÁP DỤNG agentic
+cần coi đây là r ủ i ro tier-1 ngang v ớ i data breach. 
+5. Số liệu Việt Nam có độ vênh: ví dụ thị tr ườ ng AI VN ướ c 750 triệu USD (2024) có nguồn nói
+0,75 t ỷ  USD/CAGR 14,96%, có nguồn nói tăng 15–18%. Nên thận trọng và dùng làm ch ỉ  báo
+h ướ ng, không ph ả i con số chính xác.
+6. Quyết định 127/QĐ-TTg ban hành 1/2021 — ch ư a cập nhật cho làn sóng GenAI 2022–2025
+và agentic 2024–2026. Việt Nam cần chiến l ượ c m ớ i chuyên về Generative + Agentic AI, có
+th ể  trong khuôn kh ổ  Resolution 57-NQ/TW.
+7. Báo cáo này không thay thế due diligence: các con số ROI, l ươ ng, market size cần đ ượ c
+ki ể m ch ứ ng lại tại th ờ i đi ể m ra quyết định đầu t ư /tri ể n khai cụ th ể . Bối c ả nh AI thay đ ổ i quá
+nhanh (mỗi quý có th ể  đ ả o c ờ  một số yếu tố).
+8. Web research budget c ủ a báo cáo này đ ượ c s ử  dụng triệt đ ể v ớ i các nguồn cấp 1 (WEF,
+McKinsey, Sequoia, Salesforce, Microsoft, IBM, FPT, NVIDIA, EU AI Act, QĐ 127/QĐ-TTg,
+Vietnam AI Annual Report 2025 c ủ a ĐHQGHN), nh ư ng vẫn còn ngách ch ư a đ ượ c tra c ứ u
+sâu (ví dụ Vietnam Report cụ th ể , dbi.gov.vn cập nhật 2025, MICA, IMF AI Preparedness
+Index chi tiết). Ng ườ i dùng nên b ổ  sung khi viết b ả n dài 50–80 trang.
+VentureBeat
+
+
+--- PAGE 18 ---

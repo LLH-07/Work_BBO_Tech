@@ -1,0 +1,356 @@
+--- PAGE 1 ---
+Phân tích nỗi đau và nhu cầu trong kỷ nguyên
+Agentic AI theo lĩnh vực
+1. Kế toán
+Nỗi đau & quy trình thủ công: Kế toán thường phải thực hiện nhiều công việc lặp đi lặp lại như
+nhập liệu sổ sách, đối chiếu giao dịch, xử lý hóa đơn, báo cáo thuế và tuân thủ quy định. Quy trình
+này chủ yếu thủ công, dễ sai sót và tiêu tốn nhiều thời gian. Theo báo cáo của Stanford và MIT Sloan,
+“nhiều công việc kế toán vốn là các công việc thường xuyên như nhập liệu và đối chiếu – chính xác là
+những thứ AI có thể làm tốt”
+. Việc phải kiểm tra thủ công hàng nghìn giao dịch cũng khiến các kế
+toán gặp khó trong việc phát hiện sai sót và gian lận kịp thời. Kết quả là vòng quay sổ sách lâu hơn,
+nhân sự căng thẳng và tỷ lệ sai sót cao.
+Nhu cầu trong kỷ nguyên Agentic AI: Đầu tiên, doanh nghiệp cần tự động hóa các tác vụ lặp thủ
+công để giải phóng nhân sự cho các công việc giá trị cao hơn. Ứng dụng AI thế hệ mới (ChatGPT
+agent) có thể tự động tổng hợp báo cáo tài chính, dự báo dòng tiền và hỗ trợ phân tích định kỳ. Ví
+dụ, việc triển khai AI hỗ trợ kế toán giúp rút ngắn thời gian lập báo cáo, giảm lỗi và tăng khả năng
+phân tích dữ liệu theo thời gian thực. Nghiên cứu cho thấy kế toán dùng AI có thể hoàn thành báo
+cáo tháng sớm hơn 7,5 ngày so với cách truyền thống, đồng thời giảm 8,5% thời gian xử lý nghiệp vụ
+thường xuyên
+. Điều này cho phép kế toán viên phục vụ nhiều khách hàng hơn và tập trung vào
+tư vấn chiến lược.
+Giải pháp và dịch vụ đề xuất: Các giải pháp có thể cung cấp bao gồm:
+Tự động hóa quy trình bằng RPA: Áp dụng công cụ tự động xử lý hóa đơn, đối chiếu sổ sách và
+tổng hợp số liệu. Ví dụ, phần mềm kế toán thông minh sẽ tự động phân loại giao dịch, cảnh báo bất
+thường và cập nhật báo cáo.
+Trợ lý ảo/Lập báo cáo AI: Xây dựng chatbot hoặc trợ lý ảo chuyên ngành tài chính kế toán, có khả
+năng tổng hợp báo cáo định kỳ, trả lời nhanh các câu hỏi liên quan đến số liệu tài chính. Ví dụ, một 
+ChatGPT agent có thể cập nhật và soạn sẵn bảng cân đối kế toán theo yêu cầu, giúp giảm thiểu sai
+sót do nhập liệu.
+Dịch vụ phân tích dữ liệu: Tư vấn và triển khai các công cụ phân tích dữ liệu tài chính (Business
+Intelligence) dùng AI, giúp dự báo dòng tiền, xác định xu hướng chi phí – doanh thu, từ đó cung cấp
+tư vấn tài chính cho lãnh đạo. 
+Nền tảng Vertical SaaS chuyên ngành: Phát triển phần mềm quản lý tài chính kế toán tích hợp AI,
+nhắm tới doanh nghiệp nhỏ – vừa. Theo Andreessen Horowitz, AI đang giúp các nền tảng chuyên
+ngành (vertical SaaS) đảm nhiệm những công việc phức tạp trước đây chỉ con người làm được, giảm
+đáng kể chi phí lao động trong tài chính và vận hành
+. Ví dụ, một startup có thể chuyên cung cấp
+giải pháp AI CFO-as-a-Service cho SMEs, tự động hóa tất cả nghiệp vụ chi tiêu, ngân sách, lập báo
+cáo và tư vấn chiến lược.
+• 
+1
+• 
+2
+• 
+• 
+• 
+• 
+• 
+3
+1
+3
+1
+
+
+--- PAGE 2 ---
+2. Sản xuất
+Nỗi đau & quy trình thủ công: Ngành sản xuất hiện đối mặt với nhiều điểm đau như gián đoạn sản
+xuất, tần suất máy móc hỏng hóc, tỷ lệ lỗi/phế phẩm cao và chu kỳ bảo trì kéo dài. Các quy trình bảo
+trì và điều phối sản xuất thường dựa trên sổ sách giấy, quản lý thủ công khiến chậm trễ trong xử lý
+sự cố. McKinsey nhận định nhiều doanh nghiệp vẫn dùng “quy trình bảo trì theo giấy tờ và thủ công,
+với nhiều bước trung gian gây thất thoát thông tin”
+. Ngoài ra, hầu hết thao tác điều phối nhân
+sự, giải quyết sự cố gốc rễ vẫn yêu cầu con người tìm kiếm chuyên gia, lên lịch họp và trao đổi bằng
+tay, kéo dài thời gian giải quyết có thể lên đến hàng tuần
+.
+Nhu cầu trong kỷ nguyên Agentic AI: Doanh nghiệp sản xuất rất cần các giải pháp AI/IoT để giám
+sát và tự động hóa. Bảo trì dự đoán (predictive maintenance) là một ví dụ điển hình: dùng AI phân
+tích dữ liệu cảm biến để dự đoán hỏng hóc trước khi xảy ra. Một nghiên cứu của WEF cho thấy một
+nhà máy sử dụng bảo trì dự đoán đã “giảm 42% thời gian ngừng máy, giảm 20% chi phí sản xuất chỉ
+trong 6 tháng”
+. Thêm nữa, AI giúp tối ưu hóa kế hoạch sản xuất; ví dụ, một nhà lắp ráp điện tử
+kết nối dữ liệu tồn kho qua AI đã “giảm 28% biến động nhập hàng, tăng tỷ lệ sử dụng dây chuyền từ
+68% lên 84% và cải thiện giao hàng đúng hạn 22%”
+. Cuối cùng, tầm quan trọng của đào tạo và
+cộng tác kỹ thuật số cũng rất lớn: 75% nhà máy đầu tư vào phát triển kỹ năng công nhân đạt hiệu
+suất trên trung bình
+. Trong bối cảnh đó, các công cụ AI như thực tế tăng cường (AR) hướng dẫn
+vận hành, chatbot trợ giúp kỹ sư cũng giúp rút ngắn thời gian đào tạo và giảm lỗi vận hành.
+Giải pháp và dịch vụ đề xuất:
+Hệ thống IoT và phân tích dữ liệu: Lắp đặt cảm biến IoT và phần mềm AI để giám sát máy móc, dự
+đoán bảo trì, cảnh báo lỗi. Ví dụ, dịch vụ chuyển đổi nhà máy thành “nhà máy thông minh”, thu thập
+dữ liệu vận hành thời gian thực, cảnh báo hỏng hóc. Theo WEF, khi sử dụng công cụ số và cộng tác
+kỹ thuật số, các nhà máy có thể giảm tới 25% tỷ lệ phế phẩm
+ và cải thiện năng suất.
+Kiểm soát chất lượng bằng thị giác máy (Computer Vision): Áp dụng camera và AI phân tích hình
+ảnh để tự động phát hiện lỗi sản phẩm, thay thế việc kiểm tra thủ công. Giúp giảm tỷ lệ phế phẩm,
+cải thiện ổn định chất lượng.
+Hệ thống lập lịch động và tối ưu hóa chuỗi cung ứng: Phát triển công cụ AI tối ưu hóa kế hoạch
+sản xuất và chuỗi cung ứng (ví dụ: hệ thống ERP/MES tích hợp AI), đảm bảo nguyên liệu kịp thời và
+cân bằng tải nhà máy.
+Cổng thông tin cộng tác kỹ thuật số (Digital Workplace): Xây dựng nền tảng giúp các bộ phận
+(sản xuất, bảo trì, quản lý chất lượng) trao đổi nhanh chóng qua chat/video, chia sẻ dữ liệu công việc
+trực tuyến. Việc này rút ngắn thời gian điều tra nguyên nhân sự cố và tăng năng suất
+.
+Đào tạo & hỗ trợ kỹ thuật AR/VR: Dịch vụ phát triển ứng dụng thực tế ảo tăng cường cho đào tạo
+công nhân vận hành và bảo trì, giúp họ làm việc chính xác hơn. 
+3. Logistics
+Nỗi đau & quy trình thủ công: Chuỗi cung ứng và logistics thường chịu nhiều thủ tục giấy tờ, lỗi do
+nhập sai thông tin và thiếu dữ liệu tổng thể. Ví dụ, việc tạo lập và kiểm tra giấy tờ vận chuyển (vận
+đơn, hóa đơn hải quan) hoàn toàn thủ công, tốn thời gian và dễ sai sót. Điều phối giao hàng và lộ
+trình vẫn chủ yếu do con người lập, dẫn đến không linh hoạt khi có biến động giao thông hoặc đơn
+• 
+4
+5
+• 
+6
+7
+8
+• 
+• 
+9
+• 
+• 
+• 
+10
+• 
+4
+6
+• 
+2
+
+
+--- PAGE 3 ---
+hàng gấp. Thêm vào đó, khâu bảo trì xe cộ và an toàn lái xe phần lớn dựa vào đào tạo truyền
+thống. McKinsey dẫn chứng rằng nhiều tài xế từng gặp sự cố do thiếu dữ liệu phản hồi vận hành
+theo thời gian thực
+.
+Nhu cầu trong kỷ nguyên Agentic AI: Logistics cần ứng dụng mạnh các hệ thống tự động và AI để
+số hóa. Tạo tài liệu vận chuyển tự động: AI thế hệ mới có thể tự động tổng hợp và kiểm tra hồ sơ
+vận chuyển. McKinsey cho thấy genAI có thể “giảm đến 60% thời gian tạo lập tài liệu, tự động chuẩn
+hóa và phát hiện lỗi, đồng thời giảm 10–20% khối lượng công việc của điều phối viên”
+. Hỗ trợ
+điều phối ảo: Đại lý ảo (virtual dispatcher) dùng AI có thể trợ giúp tài xế khắc phục sự cố, cung cấp
+chỉ dẫn đường, giảm tải nhân sự hỗ trợ. Một ví dụ lớn cho thấy một đơn vị vận chuyển với 10.000 xe
+đã tiết kiệm 30–35 triệu USD so với chi phí đầu tư chỉ 2 triệu nhờ triển khai đại lý ảo
+. An toàn và
+giám sát lái xe: Các hệ thống giám sát thông minh (ví dụ camera AI, cảm biến hành trình) giúp giảm
+tai nạn. DHL đã ghi nhận “giảm 26% tai nạn, giảm 49% chi phí liên quan” khi áp dụng công nghệ
+giám sát và phân tích vận hành xe
+. Dự báo và tối ưu lộ trình: AI cung cấp các kế hoạch vận tải
+linh hoạt tự điều chỉnh theo điều kiện thực tế (giao thông, thời tiết), đáp ứng nhu cầu giao hàng
+nhanh, giảm chi phí nhiên liệu.
+Giải pháp và dịch vụ đề xuất:
+Hệ thống quản lý vận tải (TMS) AI: Cung cấp giải pháp phần mềm quản lý vận tải tích hợp AI cho
+việc lập lộ trình, dự báo nhu cầu và quản lý kho. Ví dụ, chatbot nội bộ giúp điều phối giao nhận cập
+nhật tức thời tình hình xe hàng, tự động điều chỉnh lộ trình.
+Tự động hóa kho hàng (Warehouse Automation): Thiết kế và triển khai robot, hệ thống băng
+chuyền thông minh, cùng AI quản lý tồn kho. Giải pháp này giúp giảm nhân công thủ công và lỗi
+kiểm kê.
+Đại lý ảo và chatbot cho khách hàng: Triển khai chatbot hỗ trợ khách hàng/trung tâm điều hành,
+phản hồi truy vấn vận chuyển tự động (tracking, xử lý sự cố). Điều này đồng bộ thông tin giữa tài xế,
+điều phối và khách hàng trong một nền tảng giao tiếp.
+An toàn lái xe bằng AI: Phát triển dịch vụ lắp đặt camera thông minh, phân tích lái xe (hút thuốc,
+dùng điện thoại, mệt mỏi) và cảnh báo tự động. Dịch vụ giám sát như của Samsara, kết hợp AI, đã
+giúp giảm tai nạn và chi phí an toàn
+.
+Tư vấn chuyển đổi số logistics: Dịch vụ này tập trung rà soát quy trình hiện tại, tư vấn tích hợp hệ
+thống IoT, phân tích dữ liệu lớn (big data), giúp doanh nghiệp thu thập dữ liệu end-to-end và ra
+quyết định nhanh hơn. Ví dụ, xây dựng kho dữ liệu tập trung cho chuỗi cung ứng, áp dụng AI trong
+dự báo nhu cầu.
+4. Pháp lý
+Nỗi đau & quy trình thủ công: Đối với các công ty luật và phòng pháp chế, công việc thường gắn
+liền với xử lý văn bản và nghiên cứu pháp lý thủ công. Họ phải xem xét hàng nghìn hợp đồng, hồ sơ
+và điều tra vụ việc – công việc rất tốn thời gian. Theo Spellbook, “nhiều nhóm pháp lý hiện vẫn duy trì
+quy trình xem xét hợp đồng hoàn toàn thủ công, tăng nguy cơ bỏ sót điều khoản và sai sót”
+.
+Thực tế, đọc từng dòng hợp đồng, đối chiếu pháp luật và tạo bản ghi chú pháp lý gần như chưa
+được tự động hóa phổ biến. Ngoài ra, quy trình nghiên cứu án lệ, soạn thảo giấy tờ tố tụng cũng rất
+thủ công và phụ thuộc kiến thức chuyên môn của luật sư.
+11
+• 
+12
+13
+14
+• 
+• 
+• 
+• 
+• 
+14
+• 
+12
+13
+• 
+15
+3
+
+
+--- PAGE 4 ---
+Nhu cầu trong kỷ nguyên Agentic AI: Ngành pháp lý cần các công cụ AI để tự động hóa xử lý hợp
+đồng và tài liệu. Ví dụ, AI có thể phân tích và gắn thẻ các điều khoản rủi ro trong hợp đồng, so sánh
+văn bản với chuẩn mực và gợi ý sửa đổi. Theo phân tích, AI có thể “được tăng tốc nhanh gấp ~10 lần
+so với rà soát thủ công, bảo đảm nhất quán hơn, giảm sai sót do mệt mỏi”
+. Cũng theo BVP, các
+startup AI chuyên ngành đang tập trung vào “các quy trình cốt lõi như soạn thảo hợp đồng cho luật
+sư”
+. Bên cạnh đó, AI hỗ trợ nghiên cứu pháp lý (như trả lời câu hỏi pháp lý hoặc tóm tắt văn bản
+án) giúp luật sư tiết kiệm thời gian và nâng cao chất lượng tư vấn. Thậm chí các đại lý ảo (giống
+ChatGPT agent) có thể tích hợp với hệ thống nội bộ để giải đáp các thắc mắc về quy định hoặc hợp
+đồng, tự động cập nhật nghiệp vụ cho phòng pháp chế.
+Giải pháp và dịch vụ đề xuất:
+Tự động hóa hợp đồng (Contract Automation): Cung cấp giải pháp phần mềm tích hợp AI để soạn
+thảo và rà soát hợp đồng nhanh. Ví dụ, một startup có thể chuyên phát triển công cụ AI nhập liệu
+nhanh hợp đồng, gợi ý chuẩn hóa điều khoản theo quy định mới. Như ví dụ EvenUp (Mỹ) tự động tạo
+thư yêu cầu bồi thường đã chứng minh khả năng mở rộng công việc pháp lý nhỏ lẻ
+, doanh
+nghiệp Việt có thể phát triển tương tự cho các loại hợp đồng phổ biến.
+Hệ thống quản lý pháp lý (LegalTech SaaS): Cung cấp nền tảng trực tuyến dành cho phòng pháp
+chế doanh nghiệp, với các chức năng tra cứu luật, quản lý vụ việc và nhắc nhở tuân thủ pháp lý. Tích
+hợp khả năng AI Agent giúp tự động tìm kiếm tiền lệ, đối chiếu quy định khi soạn thảo văn bản
+pháp lý.
+Dịch vụ e-Discovery và phân tích bằng chứng: Xây dựng giải pháp AI trích xuất và phân tích tự
+động hồ sơ, bằng chứng từ các nguồn điện tử phục vụ điều tra hoặc tranh tụng.
+Tư vấn chuyển đổi số ngành Luật: Dịch vụ này hướng dẫn các công ty luật và tổ chức pháp lý áp
+dụng công nghệ mới (AI, RPA) để tối ưu quy trình làm việc. Ví dụ: số hóa hồ sơ vụ án, tích hợp cơ sở
+dữ liệu án lệ với công cụ tìm kiếm ngôn ngữ tự nhiên.
+Hỗ trợ chấp thuận tự động với cơ quan: Hệ thống tự động hóa thủ tục pháp lý (đăng ký kinh
+doanh, bản quyền) bằng AI để hướng dẫn và nộp hồ sơ mà hạn chế tương tác thủ công với chính
+quyền.
+5. Các ngành nghề tương lai và ngách cho startups Việt Nam
+Theo các báo cáo và chuyên gia, xu hướng Vertical AI (AI chuyên ngành) sẽ mở ra nhiều cơ hội nghề mới
+cho doanh nghiệp vừa và nhỏ. Vertical AI tập trung vào giải quyết các “ngách” nghiệp vụ cụ thể – những thị
+trường từng bị coi quá nhỏ hoặc quá phức tạp cho phần mềm truyền thống
+. Ví dụ, Bessemer nhận định
+AI chuyên ngành đang giúp mở rộng thị trường mới bằng cách tự động hóa “các quy trình nghiệp vụ cốt
+lõi” (như soạn thảo hợp đồng cho luật sư, mô hình tài chính cho kế toán) hoặc quy trình hỗ trợ (như
+marketing cho nha sĩ, mua sắm cho doanh nghiệp logistics)
+. Dưới đây là một số ngách và nghề mới
+tiềm năng, cùng mục đích phục vụ:
+Tư vấn & triển khai AI/Chuyển đổi số chuyên ngành: Là những startup chuyên về tư vấn ứng
+dụng AI trong từng lĩnh vực cụ thể (kế toán, sản xuất, logistics, pháp lý). Họ phân tích quy trình hoạt
+động của doanh nghiệp, xác định điểm nghẽn và đề xuất giải pháp AI, RPA phù hợp. Ví dụ: công ty tư
+vấn AI cho ngành dệt may, giúp tự động hóa thiết kế và cắt vải như công ty Faslink đã làm ở Việt
+Nam
+. 
+• 
+16
+17
+• 
+• 
+18
+• 
+• 
+• 
+• 
+15
+17
+19
+17
+• 
+20
+4
+
+
+--- PAGE 5 ---
+Phát triển Vertical SaaS tích hợp AI: Xây dựng phần mềm hướng ngành nhỏ (ngách) nhưng tích
+hợp AI để tự động hóa công việc. Chẳng hạn: ứng dụng kế toán tự động cho tiệm dịch vụ, phần
+mềm ERP thông minh cho nhà máy quy mô nhỏ, hoặc nền tảng quản lý kho vận tích hợp tự động.
+Theo Andreessen Horowitz, “AI đang bổ trợ cho SaaS ngành, giúp doanh nghiệp giảm đáng kể chi
+phí lao động trong marketing, bán hàng, dịch vụ khách hàng, tài chính”
+. Một startup Việt Nam có
+thể làm phần mềm quản lý vận tải vừa và nhỏ với chức năng đàm phán lộ trình tự động, tính phí tối
+ưu nhờ AI.
+Chuyên gia Data & ML Ops: Dịch vụ xây dựng và quản trị hạ tầng dữ liệu cho doanh nghiệp. Bao
+gồm xử lý, làm sạch, gán nhãn dữ liệu nghiệp vụ, triển khai mô hình học máy và giám sát hiệu suất.
+Mục đích giúp doanh nghiệp có dữ liệu chất lượng phục vụ AI. Ví dụ: dịch vụ thu thập và tiền xử lý dữ
+liệu giao dịch tài chính cho công ty tín dụng, để mô hình dự báo tín dụng hoặc phát hiện gian lận
+hoạt động hiệu quả.
+Chuyên gia bảo mật và đạo đức AI: Đảm bảo các giải pháp AI tuân thủ luật pháp và tiêu chuẩn an
+toàn. Với quy định về dữ liệu cá nhân, doanh nghiệp cần chuyên gia đánh giá rủi ro và thiết kế hệ
+thống AI an toàn. Đây là ngách mới khi mà yêu cầu tuân thủ pháp lý về AI ngày càng nghiêm ngặt
+(gồm GDPR, ISO, tiêu chuẩn ngành…)
+. Dịch vụ này phù hợp với ngân hàng, bảo hiểm, công ty
+cung cấp dịch vụ đám mây.
+Đào tạo và nội dung số tích hợp AI: Cung cấp các khóa học đào tạo cho doanh nghiệp về sử dụng
+AI và chuyển đổi số, hoặc phát triển nội dung (video, slide, tài liệu) bằng công cụ tạo nội dung AI. Ví
+dụ, dùng ChatGPT để soạn giáo trình, bài thuyết trình chuyên ngành tự động cho nhân viên. Mục
+đích để nâng cao năng lực nội bộ cho doanh nghiệp.
+Tư vấn AI trong chuỗi cung ứng thông minh: Chuyên nghiệp phân tích và thiết kế chuỗi cung ứng
+linh hoạt với AI, phục vụ các doanh nghiệp muốn tự động hóa logistics. Chẳng hạn, lập trình AI quản
+lý tồn kho, điều phối vận chuyển tự động cho công ty 3PL (dịch vụ hậu cần bên thứ ba).
+Nền tảng pháp lý AI (LegalTech startup): Xây dựng startup cung cấp nền tảng dịch vụ pháp lý trực
+tuyến cho SMEs (tra cứu luật, soạn thảo hợp đồng), tích hợp chatbot tư vấn cơ bản. Mục tiêu giúp
+doanh nghiệp vừa và nhỏ tiếp cận dịch vụ pháp lý dễ dàng, với chi phí thấp hơn.
+Trong bối cảnh AI ngày càng lan tỏa, các cơ hội nghề nghiệp mới sẽ tập trung vào tích hợp AI chuyên sâu
+cho từng ngành (vertical AI)
+. Các startup làm về Vertical AI không cạnh tranh trực tiếp với phần
+mềm cũ mà bổ sung thêm khả năng tự động hóa cho quy trình cụ thể, từ đó mở ra thị trường mới cho các
+nhiệm vụ vốn do con người đảm nhận trước đây.
+Nguồn tham khảo: Các số liệu và thông tin ở trên được trích dẫn từ các báo cáo, nghiên cứu và bài viết của
+McKinsey, WEF, Stanford GSB, Andreessen Horowitz (a16z), OpenAI, và các nguồn uy tín khác
+, nhằm phản ánh đầy đủ các xu hướng thực tiễn và ứng dụng trong kỷ nguyên AI agentic.
+AI Is Reshaping Accounting Jobs by Doing the “Boring” Stuff – CEO NA Magazine
+https://ceo-na.com/technology/ai-is-reshaping-accounting-jobs-by-doing-the-boring-stuff/
+Vertical SaaS: Now with AI Inside | Andreessen Horowitz
+https://a16z.com/vertical-saas-now-with-ai-inside/
+• 
+21
+• 
+• 
+22
+• 
+• 
+• 
+19
+21
+17
+21
+23
+1
+24
+4
+17
+1
+2
+3
+21
+5
+
+
+--- PAGE 6 ---
+Digital collaboration for manufacturing workforce | McKinsey
+https://www.mckinsey.com/capabilities/operations/our-insights/digital-collaboration-for-a-connected-manufacturing-workforce
+Why some industrial transformations succeed and scale? | World Economic Forum
+https://www.weforum.org/stories/2025/10/takeaways-from-the-world-largest-dataset-industrial-transformation/
+How gen AI is reshaping supply chains | McKinsey
+https://www.mckinsey.com/capabilities/operations/our-insights/beyond-automation-how-gen-ai-is-reshaping-supply-chains
+AI vs. Manual Legal Contract Review: A Comparison Guide for Modern Legal Teams - Spellbook
+https://spellbook.com/learn/ai-vs-manual-legal-contract-review
+Part I: The future of AI is vertical - Bessemer Venture Partners
+https://www.bvp.com/atlas/part-i-the-future-of-ai-is-vertical
+Doanh nghiệp Việt 'mở khóa' AI - Tuổi Trẻ Online
+https://tuoitre.vn/doanh-nghiep-viet-mo-khoa-ai-20260422080417143.htm
+Solutions for agentic workflows | OpenAI
+https://openai.com/solutions/use-case/agents/
+4
+5
+9
+10
+6
+7
+8
+23
+11
+12
+13
+14
+24
+15
+16
+17
+18
+19
+20
+22
+6

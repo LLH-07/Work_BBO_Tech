@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Bản đồ nghề Tác nhân AIic AI">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8de3ff"/><stop offset="1" stop-color="#c6ff8d"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".32"/></filter>
+</defs>
+<rect width="900" height="520" rx="36" fill="#0b1020"/>
+<circle cx="130" cy="96" r="82" fill="#8de3ff" opacity=".16"/>
+<circle cx="760" cy="420" r="120" fill="#c6ff8d" opacity=".12"/>
+
+<g filter="url(#shadow)" font-family="Arial">
+  <rect x="100" y="80" width="700" height="360" rx="36" fill="#111832" stroke="#263151"/>
+  <text x="450" y="142" text-anchor="middle" fill="#edf2ff" font-size="34" font-weight="900">Nghề mới = quy trình + AI + quản trị</text>
+  <g transform="translate(180 230)"><rect x="-90" y="-45" width="180" height="90" rx="22" fill="#17203d" stroke="#263151"/><text y="8" text-anchor="middle" fill="#edf2ff" font-size="22" font-weight="800">Người xây dựng</text></g>
+  <g transform="translate(450 230)"><rect x="-90" y="-45" width="180" height="90" rx="22" fill="#17203d" stroke="#263151"/><text y="8" text-anchor="middle" fill="#edf2ff" font-size="22" font-weight="800">Người vận hành</text></g>
+  <g transform="translate(720 230)"><rect x="-90" y="-45" width="180" height="90" rx="22" fill="#17203d" stroke="#263151"/><text y="8" text-anchor="middle" fill="#edf2ff" font-size="22" font-weight="800">Người kiểm toán</text></g>
+  <path d="M270 230 H360 M540 230 H630" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/>
+  <text x="450" y="345" text-anchor="middle" fill="#a9b4d0" font-size="21">Thiết kế tác nhân → vận hành tác nhân → kiểm soát rủi ro</text>
+</g>
+
+</svg>

@@ -1,0 +1,492 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Báo cáo Insight Quản lý Khách sạn Vũng Tàu</title>
+<meta name="description" content="Báo cáo trực quan về insight khách hàng trong quản lý khách sạn vừa - nhỏ, nhà nghỉ, homestay tại Vũng Tàu." />
+<style>
+:root {
+  --navy:#0f345e; --navy-2:#092744; --blue:#1a5296; --gold:#d4a440; --gold-2:#eac05c;
+  --bg:#f6f8fb; --card:#ffffff; --text:#172033; --muted:#687386; --line:#e5eaf2;
+  --green:#16a34a; --orange:#d97706; --red:#dc2626; --cyan:#0891b2; --shadow:0 20px 45px rgba(15,52,94,.10);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;background:linear-gradient(180deg,#f9fbff 0%, var(--bg) 42%, #eef4fb 100%);color:var(--text);line-height:1.65}
+a{color:var(--blue);text-decoration:none}
+a:hover{text-decoration:underline}
+.container{width:min(1180px,92vw);margin:auto}
+.hero{position:relative;overflow:hidden;background:radial-gradient(circle at 15% 15%, rgba(212,164,64,.28), transparent 28%), radial-gradient(circle at 90% 20%, rgba(26,82,150,.28), transparent 30%), linear-gradient(135deg,var(--navy-2),var(--navy));color:white;padding:70px 0 42px}
+.hero:after{content:"";position:absolute;inset:auto -80px -160px auto;width:420px;height:420px;background:rgba(212,164,64,.18);border-radius:50%;filter:blur(2px)}
+.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.25fr .75fr;gap:28px;align-items:center}
+.eyebrow{display:inline-flex;gap:10px;align-items:center;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);padding:8px 13px;border-radius:999px;font-size:13px;color:#dbeafe}
+h1{font-size:clamp(34px,5vw,62px);line-height:1.04;margin:18px 0 18px;letter-spacing:-.04em}
+.hero p{font-size:18px;color:#e6eef8;max-width:850px}
+.hero strong{color:#fff}
+.hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:26px}
+.btn{display:inline-flex;align-items:center;gap:9px;border-radius:14px;padding:12px 16px;font-weight:800;border:1px solid transparent;cursor:pointer}
+.btn.primary{background:linear-gradient(135deg,var(--gold),var(--gold-2));color:#111827;box-shadow:0 10px 25px rgba(212,164,64,.25)}
+.btn.ghost{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.22);color:white}
+.hero-panel{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.16);backdrop-filter:blur(16px);border-radius:28px;padding:24px;box-shadow:0 30px 80px rgba(0,0,0,.18)}
+.kpi-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.kpi{background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.14);border-radius:20px;padding:18px}
+.kpi b{display:block;font-size:27px;letter-spacing:-.03em;color:#fff}
+.kpi span{display:block;color:#d8e3f0;font-size:13px;margin-top:3px}
+.nav-wrap{position:sticky;top:0;z-index:50;background:rgba(246,248,251,.88);backdrop-filter:blur(16px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0}
+.nav-title{font-weight:900;color:var(--navy)}
+.nav-links{display:flex;gap:6px;overflow:auto;padding-bottom:2px}
+.nav-links a{white-space:nowrap;font-size:13px;color:#384152;padding:8px 10px;border-radius:999px}
+.nav-links a:hover{background:white;text-decoration:none;box-shadow:0 4px 14px rgba(15,52,94,.08)}
+section{padding:54px 0}
+.section-head{display:flex;justify-content:space-between;gap:24px;align-items:flex-end;margin-bottom:22px}
+.section-head h2{font-size:clamp(26px,3vw,40px);line-height:1.1;margin:0;letter-spacing:-.035em;color:#0b2340}
+.section-head p{margin:8px 0 0;color:var(--muted);max-width:780px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:26px;padding:24px;box-shadow:var(--shadow)}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.insight-card{position:relative;overflow:hidden;background:white;border:1px solid var(--line);border-radius:24px;padding:24px;box-shadow:var(--shadow)}
+.insight-card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:linear-gradient(var(--gold),var(--blue))}
+.insight-card h3{margin:0 0 10px;color:var(--navy);font-size:21px}
+.insight-card p{margin:0;color:#364152}
+.quote{border-left:5px solid var(--gold);background:#fff8e7;border-radius:18px;padding:22px;color:#352b16;font-size:20px;font-weight:800}
+.table-wrap{background:white;border:1px solid var(--line);border-radius:24px;overflow:auto;box-shadow:var(--shadow)}
+table{width:100%;border-collapse:collapse;min-width:860px}
+th,td{padding:14px 16px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}
+th{background:#f1f5fb;color:#0f345e;font-size:13px;text-transform:uppercase;letter-spacing:.04em}
+td{font-size:14.5px}
+.badge{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;padding:6px 10px;font-size:12px;font-weight:900;white-space:nowrap}
+.badge.very-high{background:#fee2e2;color:#991b1b}
+.badge.high{background:#ffedd5;color:#9a3412}
+.badge.mid-high{background:#cffafe;color:#155e75}
+.badge.mid{background:#ecfdf5;color:#166534}
+.op-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}
+.op-card{background:white;border:1px solid var(--line);border-radius:22px;padding:18px;box-shadow:0 10px 25px rgba(15,52,94,.06)}
+.op-no{width:38px;height:38px;display:grid;place-items:center;border-radius:13px;background:linear-gradient(135deg,var(--navy),var(--blue));color:white;font-weight:900;margin-bottom:12px}
+.op-card h3{font-size:17px;line-height:1.25;margin:0 0 8px;color:#0f345e}
+.op-card p{font-size:14px;color:#536071;margin:0}
+.priority-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:12px}
+.priority-card{background:white;border:1px solid var(--line);border-radius:22px;padding:18px;box-shadow:0 12px 28px rgba(15,52,94,.07)}
+.priority-card span{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:12px;background:#fff3cf;color:#7c4a03;font-weight:900;margin-bottom:10px}
+.priority-card h3{font-size:16px;line-height:1.25;margin:0 0 8px;color:#0f345e}
+.priority-card p{font-size:13.5px;color:#5f6c7c;margin:0}
+.filter-bar{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}
+.filter-bar button{border:1px solid var(--line);background:white;border-radius:999px;padding:9px 12px;cursor:pointer;font-weight:800;color:#465365}
+.filter-bar button.active{background:var(--navy);color:white;border-color:var(--navy)}
+.score-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:15px}
+.score-card{background:white;border:1px solid var(--line);border-radius:22px;padding:18px;box-shadow:0 12px 28px rgba(15,52,94,.07)}
+.score-card h3{font-size:16px;line-height:1.25;margin:0 0 8px;color:#0f345e}
+.score-card p{font-size:13.5px;color:#5f6c7c;min-height:68px}
+.bar-label{display:flex;justify-content:space-between;font-size:13px;margin:10px 0 5px;color:#4b5563}
+.bar-label strong{color:#0f345e}
+.bar{height:10px;background:#e8eef6;border-radius:999px;overflow:hidden}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--gold));border-radius:999px}
+.bar.future i{background:linear-gradient(90deg,var(--navy),var(--green))}
+.check-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.check-list{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.check-list li{display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start;background:#f8fafc;border:1px solid var(--line);border-radius:16px;padding:13px}
+.check-list li:before{content:"✓";display:grid;place-items:center;width:25px;height:25px;border-radius:999px;background:#dcfce7;color:#166534;font-weight:900}
+.check-list.avoid li:before{content:"–";background:#f1f5f9;color:#64748b}
+.check-list span{display:block;color:#5f6c7c;font-size:14px}
+.solution-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.solution-card{background:white;border:1px solid var(--line);border-radius:24px;padding:20px;box-shadow:0 12px 28px rgba(15,52,94,.07)}
+.solution-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:12px}
+.solution-top h3{margin:0;color:#0f345e;font-size:19px;line-height:1.2}
+.solution-top span{background:#fff3cf;color:#7c4a03;border-radius:999px;font-size:12px;font-weight:900;padding:6px 9px;white-space:nowrap}
+.solution-card p{font-size:14px;color:#4b5563}
+.roi-box{display:grid;grid-template-columns:.8fr 1.2fr;gap:20px;align-items:stretch}
+.calc{background:linear-gradient(135deg,#ffffff,#f8fbff);border:1px solid var(--line);border-radius:24px;padding:22px;box-shadow:var(--shadow)}
+.calc label{display:block;font-weight:800;margin:10px 0 6px;color:#263449}
+.calc input{width:100%;padding:13px 14px;border:1px solid var(--line);border-radius:14px;font-size:16px}
+.calc-result{margin-top:16px;background:linear-gradient(135deg,var(--navy),var(--blue));color:white;border-radius:20px;padding:20px}
+.calc-result b{display:block;font-size:32px;letter-spacing:-.03em}
+.steps{counter-reset:step;display:grid;gap:13px}
+.step{position:relative;padding:16px 18px 16px 58px;background:white;border:1px solid var(--line);border-radius:18px;box-shadow:0 8px 20px rgba(15,52,94,.05)}
+.step:before{counter-increment:step;content:counter(step);position:absolute;left:16px;top:16px;width:28px;height:28px;border-radius:10px;background:var(--navy);color:white;display:grid;place-items:center;font-weight:900}
+.step h3{margin:0 0 5px;color:#0f345e;font-size:17px}
+.step p{margin:0;color:#5f6c7c}
+.note{background:#eef6ff;border:1px solid #bfdbfe;color:#173b66;border-radius:20px;padding:18px}
+.footer{background:#0b2340;color:#dbeafe;padding:34px 0;margin-top:30px}
+.footer p{margin:0;color:#dbeafe}
+.print-only{display:none}
+@media(max-width:1100px){.hero-grid,.grid-2,.roi-box,.check-grid{grid-template-columns:1fr}.op-grid{grid-template-columns:repeat(2,1fr)}.priority-grid,.score-grid,.solution-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:700px){section{padding:38px 0}.hero{padding:46px 0 32px}.kpi-grid,.grid-3,.op-grid,.priority-grid,.score-grid,.solution-grid{grid-template-columns:1fr}.section-head{display:block}.nav-title{display:none}.hero-actions .btn{width:100%;justify-content:center}}
+@media print{.nav-wrap,.hero-actions,.filter-bar,.calc,.footer{display:none!important}body{background:white}.card,.table-wrap,.insight-card,.op-card,.priority-card,.score-card,.solution-card{box-shadow:none}section{page-break-inside:avoid}}
+</style>
+</head>
+<body>
+<header class="hero" id="top">
+  <div class="container hero-grid">
+    <div>
+      <span class="eyebrow">Báo cáo trực quan • Market Research • Tháng 05/2026</span>
+      <h1>Insight khách hàng trong quản lý khách sạn vừa - nhỏ tại Vũng Tàu</h1>
+      <p>Bản HTML này được tinh chỉnh lại từ báo cáo gốc, giữ đầy đủ cấu trúc nội dung nhưng trình bày dễ đọc hơn: nỗi đau vận hành, khả năng chi trả, mức độ cần công nghệ và lộ trình giải pháp phù hợp.</p>
+      <div class="quote">Insight chốt: Chủ cơ sở không mua công nghệ vì muốn “hiện đại”. Họ mua khi công nghệ giúp bớt rối, giảm mất tiền, giảm lỗi cao điểm và biết cuối tháng mình thật sự lời hay lỗ.</div>
+      <div class="hero-actions">
+        <a class="btn primary" href="#summary">Xem kết luận</a>
+        <a class="btn ghost" href="#painmap">Xem 14 nghiệp vụ</a>
+        <button class="btn ghost" onclick="window.print()">In / lưu PDF</button>
+      </div>
+    </div>
+    <aside class="hero-panel" aria-label="Chỉ số nổi bật">
+      <div class="kpi-grid">
+        <div class="kpi"><b>14</b><span>Nghiệp vụ vận hành đã gộp</span></div>
+        <div class="kpi"><b>7</b><span>Cụm nỗi đau ưu tiên</span></div>
+        <div class="kpi"><b>200K–20M+</b><span>Mức chi trả tham khảo/tháng</span></div>
+        <div class="kpi"><b>2–5 năm</b><span>Nhu cầu công nghệ tiếp tục tăng</span></div>
+      </div>
+    </aside>
+  </div>
+</header>
+
+<div class="nav-wrap">
+  <div class="container nav">
+    <div class="nav-title">Hotel Insight Report</div>
+    <nav class="nav-links" aria-label="Điều hướng báo cáo">
+      <a href="#scope">Phạm vi</a><a href="#summary">Kết luận</a><a href="#market">Bối cảnh</a><a href="#ops">14 nghiệp vụ</a><a href="#insights">Insight</a><a href="#painmap">Nỗi đau</a><a href="#cost">Chi phí</a><a href="#criteria">Tiêu chí</a><a href="#roadmap">Lộ trình</a><a href="#roi">ROI</a><a href="#github">GitHub Pages</a>
+    </nav>
+  </div>
+</div>
+
+<main>
+<section id="scope">
+  <div class="container">
+    <div class="section-head"><div><h2>1. Mục tiêu và phạm vi nghiên cứu</h2><p>Báo cáo dùng cho nghiên cứu thị trường và định hướng sản phẩm/giải pháp công nghệ cho cơ sở lưu trú vừa và nhỏ tại Vũng Tàu.</p></div></div>
+    <div class="grid-2">
+      <div class="card"><h3>Trọng tâm nghiên cứu</h3><p>Đối tượng không phải khách sạn cao cấp quy mô lớn, mà là nhóm cơ sở có nguồn lực hạn chế, ít nhân sự, vận hành nhiều bằng kinh nghiệm, Excel, sổ tay, Zalo/Facebook và OTA.</p><p>Báo cáo tập trung vào nỗi đau vận hành, khả năng chi trả, khả năng tiếp nhận công nghệ và cách đóng gói giải pháp dễ mua hơn cho chủ cơ sở.</p></div>
+      <div class="card"><h3>Phương pháp</h3><p>Đây là desk research kết hợp phân tích logic vận hành, chưa phải khảo sát định lượng trực tiếp với chủ cơ sở. Các ước tính về khả năng chi trả là mức suy luận hợp lý từ quy mô cơ sở, giá phần mềm tham khảo và mức ROI kỳ vọng.</p><p>Vì vậy, khi dùng để bán hàng hoặc ra quyết định đầu tư, nên xem đây là bản định hướng ban đầu và có thể kiểm chứng thêm bằng phỏng vấn chủ cơ sở thực tế.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="summary">
+  <div class="container">
+    <div class="section-head"><div><h2>2. Kết luận điều hành</h2><p>Nhu cầu công nghệ có thật, nhưng phải nhỏ, rõ, dễ dùng và chứng minh được hiệu quả nhanh.</p></div></div>
+    <div class="grid-3">
+      <article class="insight-card"><h3>Không cần “chuyển đổi số lớn” ngay</h3><p>Nhóm khách sạn vừa/nhỏ, nhà nghỉ, homestay/villa cần giải pháp thực dụng: không trùng phòng, không quên cọc, không phản hồi khách chậm, không dọn phòng sót và cuối tháng biết lời/lỗ.</p></article>
+      <article class="insight-card"><h3>Cao điểm là điểm dễ vỡ</h3><p>Vũng Tàu có nhu cầu dồn vào cuối tuần/lễ, khách lưu trú ngắn ngày, cạnh tranh giá/review cao và nhiều kênh bán. Thủ công có thể ổn ngày thường nhưng dễ vỡ trận vào cao điểm.</p></article>
+      <article class="insight-card"><h3>Ít nhân viên càng cần chuẩn hóa</h3><p>Ít người không làm giảm nhu cầu công nghệ. Ngược lại, vì một người phải kiêm nhiều việc, quy trình dễ nằm trong đầu cá nhân và gây khó bàn giao khi đổi ca, đổi người hoặc khi chủ không có mặt.</p></article>
+    </div>
+    <div class="card" style="margin-top:20px">
+      <h3>Nghiệp vụ nên ưu tiên công nghệ ngay</h3>
+      <p><strong>Booking/lịch phòng, tin nhắn khách, cọc/phụ thu, dọn phòng/checklist, nội quy số hóa, báo cáo doanh thu/công suất, bàn giao ca.</strong></p>
+      <h3>Nghiệp vụ chưa cần quá phức tạp với cơ sở nhỏ</h3>
+      <p>CRM nâng cao, revenue management nâng cao, app riêng, POS nhà hàng nếu không có F&B, ERP/kế toán phức tạp, smart lock toàn bộ nếu chưa có nhu cầu self check-in mạnh.</p>
+    </div>
+  </div>
+</section>
+
+<section id="market">
+  <div class="container">
+    <div class="section-head"><div><h2>3. Bối cảnh thị trường Vũng Tàu</h2><p>Thị trường lưu trú có tính mùa vụ, cuối tuần và lễ rất rõ; nguồn cung lớn, phân mảnh và cạnh tranh mạnh.</p></div></div>
+    <div class="grid-2">
+      <div class="card"><h3>Điểm nổi bật về nhu cầu</h3><p>Trong quý I/2026, phường Vũng Tàu được ghi nhận đón khoảng <strong>1,5 triệu lượt khách</strong>, doanh thu lưu trú và ăn uống khoảng <strong>1.970 tỷ đồng</strong>, duy trì sức hút vào cuối tuần, lễ hội và cao điểm đầu năm.</p><p>Dịp 30/4 - 1/5/2025, toàn tỉnh Bà Rịa - Vũng Tàu đón khoảng <strong>858.000 lượt khách trong 5 ngày</strong>, trong đó khách lưu trú khoảng <strong>205.600 lượt</strong>, doanh thu du lịch hơn <strong>661 tỷ đồng</strong> và công suất phòng trung bình khoảng <strong>85%</strong>.</p></div>
+      <div class="card"><h3>Điểm nổi bật về nguồn cung</h3><p>Năm 2025, một số nguồn ghi nhận toàn tỉnh có khoảng <strong>1.458 cơ sở lưu trú du lịch</strong> với gần <strong>29.000 phòng</strong>, trong đó chỉ có <strong>73 khách sạn xếp hạng 1–5 sao</strong>.</p><p>Điều này gợi ý rằng phần lớn thị trường là cơ sở vừa, nhỏ, nhà nghỉ, homestay hoặc cơ sở chưa xếp hạng. Nhóm này cạnh tranh mạnh bằng giá, vị trí, ảnh, review và tốc độ phản hồi.</p></div>
+    </div>
+    <div class="table-wrap" style="margin-top:20px">
+      <table><thead><tr><th>Đặc thù Vũng Tàu</th><th>Ý nghĩa với vận hành</th><th>Nỗi đau phát sinh</th></tr></thead><tbody>
+        <tr><td>Khách đông cuối tuần/lễ</td><td>Booking, check-in, dọn phòng, thu tiền xảy ra dồn trong thời gian ngắn.</td><td>Dễ trùng phòng, chờ check-in, dọn phòng không kịp, quên phụ thu.</td></tr>
+        <tr><td>Lưu trú ngắn ngày</td><td>Turnover phòng nhanh, nhiều lượt dọn hơn.</td><td>Tăng áp lực buồng phòng, giặt ủi, vật tư tiêu hao.</td></tr>
+        <tr><td>Cạnh tranh nhiều trên OTA/Facebook/Zalo</td><td>Khách so giá, ảnh, review trước khi đặt.</td><td>Chậm phản hồi hoặc nội dung bán phòng yếu là mất khách.</td></tr>
+        <tr><td>Nhiều cơ sở nhỏ/vừa</td><td>Ít nhân sự, chủ kiêm vận hành, quy trình không chuẩn hóa.</td><td>Bàn giao khó, phụ thuộc người cũ, báo cáo rời rạc.</td></tr>
+        <tr><td>Khách nhóm, gia đình, nhóm bạn</td><td>Nhiều yêu cầu về thêm người, BBQ, bếp, thú cưng, giờ yên tĩnh.</td><td>Dễ tranh cãi nội quy, cọc, phụ thu, hư hỏng tài sản.</td></tr>
+      </tbody></table>
+    </div>
+  </div>
+</section>
+
+<section id="ops">
+  <div class="container">
+    <div class="section-head"><div><h2>4. Bộ 14 nghiệp vụ gộp cuối cùng</h2><p>Khung này không tách quá nhiều phòng ban như khách sạn lớn, mà gom theo dòng vận hành thực tế của cơ sở vừa/nhỏ.</p></div></div>
+    <div class="op-grid"><article class="op-card"><div class="op-no">01</div><h3>Marketing &amp; bán phòng đa kênh</h3><p>Đăng phòng lên OTA, Google Maps, Facebook, Zalo, website; chuẩn hóa ảnh, mô tả, khuyến mãi và tư vấn khách tiềm năng.</p></article>
+<article class="op-card"><div class="op-no">02</div><h3>Quản lý booking &amp; lịch phòng</h3><p>Nhận đặt phòng, kiểm tra phòng trống, báo giá, xác nhận, ghi nhận cọc, đổi/hủy lịch và tránh trùng phòng.</p></article>
+<article class="op-card"><div class="op-no">03</div><h3>Quản lý giá phòng &amp; công suất</h3><p>Thiết lập giá ngày thường, cuối tuần, lễ/tết, mùa cao điểm; theo dõi công suất và điều chỉnh giá theo nhu cầu.</p></article>
+<article class="op-card"><div class="op-no">04</div><h3>Check-in, check-out &amp; bàn giao phòng</h3><p>Xác nhận khách đến, giấy tờ, chìa khóa/mã cửa, hướng dẫn nội quy, kiểm tra phòng khi trả và bàn giao trạng thái.</p></article>
+<article class="op-card"><div class="op-no">05</div><h3>Thông tin khách &amp; khai báo lưu trú</h3><p>Lưu thông tin khách, CCCD/hộ chiếu, số khách, thời gian lưu trú, khai báo lưu trú và tra cứu lịch sử khách.</p></article>
+<article class="op-card"><div class="op-no">06</div><h3>Dọn phòng, vệ sinh &amp; chuẩn bị phòng</h3><p>Dọn phòng trước/sau lưu trú, thay ga/khăn, bổ sung vật dụng, kiểm tra mùi, tài sản và trạng thái sẵn sàng bán lại.</p></article>
+<article class="op-card"><div class="op-no">07</div><h3>Giao tiếp khách &amp; chăm sóc trải nghiệm</h3><p>Tin nhắn trước/trong/sau lưu trú, xử lý yêu cầu, khiếu nại, nhắc checkout, xin review và chăm sóc khách quay lại.</p></article>
+<article class="op-card"><div class="op-no">08</div><h3>Thanh toán, cọc, phụ thu &amp; đối soát</h3><p>Thu tiền phòng/cọc, hoàn cọc, phụ thu, phí OTA, chi phí phát sinh, đối soát ngân hàng và ghi nhận doanh thu/chi phí.</p></article>
+<article class="op-card"><div class="op-no">09</div><h3>Nội quy, an toàn &amp; pháp lý</h3><p>Số khách tối đa, giờ yên tĩnh, hút thuốc, thú cưng, tiệc, PCCC, an ninh, giấy phép, thuế/hóa đơn nếu có.</p></article>
+<article class="op-card"><div class="op-no">10</div><h3>Bảo trì, tài sản &amp; xử lý sự cố</h3><p>Máy lạnh, wifi, điện nước, khóa, toilet, thiết bị bếp, kiểm kê tài sản, ghi nhận sự cố và xử lý đền bù hư hỏng.</p></article>
+<article class="op-card"><div class="op-no">11</div><h3>Vật tư, kho nhỏ &amp; mua sắm</h3><p>Ga, khăn, nước suối, giấy vệ sinh, dầu gội, hóa chất, vật tư sửa chữa, tồn tối thiểu và lịch mua bổ sung.</p></article>
+<article class="op-card"><div class="op-no">12</div><h3>Nhân sự/CTV vận hành</h3><p>Phân ca, lịch dọn phòng, CTV vệ sinh, thợ sửa, người trực hotline, chấm công/trả công và bàn giao công việc.</p></article>
+<article class="op-card"><div class="op-no">13</div><h3>Dịch vụ cộng thêm</h3><p>Minibar, ăn sáng, giặt ủi, thuê xe, tour, đưa đón, BBQ, bếp, thú cưng, decor và đối tác dịch vụ.</p></article>
+<article class="op-card"><div class="op-no">14</div><h3>Báo cáo vận hành &amp; quản trị</h3><p>Doanh thu, số đêm phòng, công suất, kênh bán, chi phí, lợi nhuận, review, sự cố và các điểm cần cải thiện.</p></article>
+</div>
+  </div>
+</section>
+
+<section id="insights">
+  <div class="container">
+    <div class="section-head"><div><h2>5. Insight khách hàng: nỗi vất vả thật sự của chủ cơ sở</h2><p>Chủ cơ sở nhỏ thường không nói bằng ngôn ngữ PMS, CRM hay automation. Họ nói bằng nỗi đau rất thực tế.</p></div></div>
+    <div class="grid-2">
+      <article class="card"><h3>5.1. Họ không sợ “không có phần mềm”, họ sợ mất tiền mà không biết mất ở đâu</h3><p>Các câu chủ cơ sở hay nghĩ đến thường là: “Sao cuối tuần kín phòng mà cuối tháng không thấy lời?”, “Khách này cọc chưa?”, “Bạn lễ tân nghỉ rồi người mới không biết phòng nào còn trống”, “Khách nói đã nhắn Zalo rồi mà nhân viên không thấy”, “Phòng dọn rồi mà khách vẫn chê mùi/tóc/khăn”.</p><p>Bản chất phía sau là thiếu một hệ thống nhớ thay con người và ghi nhận dòng vận hành từ booking đến trả phòng.</p></article>
+      <article class="card"><h3>5.2. Họ chịu chi nếu giải pháp đẻ tiền hoặc chặn mất tiền</h3><p>Họ không dễ mua phần mềm chỉ vì nhiều tính năng. Họ chịu chi khi thấy lợi ích cụ thể: tránh trùng phòng, phản hồi khách nhanh hơn, đồng bộ lịch phòng, kiểm soát cọc/phụ thu, giảm tranh cãi, giảm review xấu, biết kênh nào lời, giảm phụ thuộc OTA hoặc chuẩn hóa bàn giao nhân viên.</p></article>
+      <article class="card"><h3>5.3. Ít nhân viên không làm họ bớt cần công nghệ</h3><p>Một người thường kiêm nhiều việc: nhận booking, trả lời khách, check-in, thu tiền, giao dọn phòng, xử lý sự cố và báo cáo cho chủ. Khi người đó nghỉ, đổi ca hoặc quá tải, toàn bộ tri thức vận hành nằm trong đầu cá nhân sẽ bị đứt đoạn.</p><p>Công nghệ ở đây không chỉ để thay người, mà để chuẩn hóa việc, giảm phụ thuộc vào nhân sự cũ và giúp người mới tiếp nhận nhanh.</p></article>
+      <article class="card"><h3>5.4. Ngày thường có thể làm thủ công, nhưng cuối tuần/lễ dễ vỡ trận</h3><p>Khi công suất cao, lỗi thủ công phình ra nhanh: quên đóng phòng trên OTA, không biết khách đã cọc chưa, khách đến cùng giờ, phòng chưa dọn xong, thiếu khăn/ga, phụ thu thêm người không rõ, khách checkout trễ.</p><p>Ngày thường các lỗi này có thể không xuất hiện, khiến chủ cơ sở chủ quan rằng Excel/Zalo/sổ tay là đủ.</p></article>
+      <article class="card" style="grid-column:1/-1"><h3>5.5. Khách ngày càng kỳ vọng phản hồi nhanh và tự phục vụ</h3><p>Khách hiện nay muốn được trả lời nhanh, rõ ràng, ít chờ đợi, dễ check-in và dễ nắm nội quy. Điều này không có nghĩa homestay nhỏ phải triển khai công nghệ cao ngay, nhưng cho thấy kỳ vọng của khách đang dịch chuyển về tốc độ, tính rõ ràng và sự chủ động.</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="painmap">
+  <div class="container">
+    <div class="section-head"><div><h2>6. Bản đồ nỗi đau theo 14 nghiệp vụ</h2><p>Bảng dưới đây giữ đầy đủ 14 nghiệp vụ, nỗi đau, biểu hiện thực tế, tác động kinh doanh và nhu cầu công nghệ tương ứng.</p></div></div>
+    <div class="filter-bar"><button class="active" data-filter="all">Tất cả</button><button data-filter="Rất cao">Rất cao</button><button data-filter="Cao">Cao</button><button data-filter="Trung bình-cao">Trung bình-cao</button><button data-filter="Trung bình">Trung bình</button></div>
+    <div class="table-wrap"><table id="painTable"><thead><tr><th>Nghiệp vụ</th><th>Nỗi đau/trăn trở</th><th>Biểu hiện thực tế tại Vũng Tàu</th><th>Tác động kinh doanh</th><th>Nhu cầu công nghệ</th><th>Mức ưu tiên</th></tr></thead><tbody><tr data-priority="Cao"><td><strong>Marketing &amp; bán phòng đa kênh</strong></td><td>Phụ thuộc OTA, khó kéo khách đặt trực tiếp, cạnh tranh mạnh bằng ảnh, giá và review.</td><td>Khách so sánh Booking, Agoda, Traveloka, Facebook group, Zalo; ảnh/mô tả yếu là khó chốt.</td><td>Hoa hồng làm mỏng lợi nhuận, khó xây tệp khách riêng.</td><td>Cao: quản lý nội dung bán phòng, kênh bán, tracking nguồn khách.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Rất cao"><td><strong>Booking &amp; lịch phòng</strong></td><td>Sợ trùng phòng, sót booking, quên cọc.</td><td>Booking đến từ OTA, Zalo, Facebook, điện thoại; cuối tuần/lễ dễ overbooking.</td><td>Mất uy tín, phải đền phòng, review xấu.</td><td>Rất cao: lịch phòng tập trung, đồng bộ kênh, cảnh báo trùng.</td><td><span class="badge very-high">Rất cao</span></td></tr>
+<tr data-priority="Cao"><td><strong>Giá phòng &amp; công suất</strong></td><td>Định giá cảm tính, không biết khi nào nên tăng hoặc giảm.</td><td>Ngày thường trống, cuối tuần/lễ tăng không đều; ít theo dõi ADR/công suất.</td><td>Bán rẻ lúc cao điểm hoặc để trống lúc thấp điểm.</td><td>Cao: lịch giá, giá cuối tuần/lễ, dashboard công suất.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Cao"><td><strong>Check-in/out &amp; bàn giao</strong></td><td>Khách đến dồn giờ, phụ thuộc người trực.</td><td>Thứ 7/lễ phải nhận CCCD, thu tiền, giao khóa, hướng dẫn bãi xe/nội quy cùng lúc.</td><td>Khách chờ lâu, dễ nhầm phòng, tiền hoặc phụ phí.</td><td>Cao: form check-in, checklist bàn giao, trạng thái thanh toán.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Cao"><td><strong>Thông tin khách &amp; khai báo lưu trú</strong></td><td>Nhập liệu thủ công, dễ thiếu thông tin hoặc trễ hạn.</td><td>Khách nhóm, khách đến sau, thay đổi người lưu trú; chụp CCCD rời rạc.</td><td>Rủi ro pháp lý, khó tra cứu khi có sự cố.</td><td>Cao: hồ sơ khách, nhắc khai báo, lưu lịch sử.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Rất cao"><td><strong>Dọn phòng &amp; chuẩn bị phòng</strong></td><td>Phòng phải sạch, kịp và sẵn sàng, nhất là turnover cuối tuần.</td><td>Không biết phòng sạch/bẩn/đang dọn; thiếu khăn/ga/nước; dọn nhanh bị sót mùi/tóc/rác.</td><td>Review xấu, mất điểm OTA, khách không quay lại.</td><td>Rất cao: room status, checklist dọn phòng, phân việc.</td><td><span class="badge very-high">Rất cao</span></td></tr>
+<tr data-priority="Rất cao"><td><strong>Giao tiếp khách &amp; trải nghiệm</strong></td><td>Phản hồi chậm, thông tin không nhất quán.</td><td>Câu hỏi lặp: gần biển không, bãi xe, BBQ, thú cưng, phụ thu, giờ check-in.</td><td>Mất booking nếu trả lời chậm; dễ tranh cãi nếu trả lời không rõ.</td><td>Rất cao: tin nhắn mẫu, chatbot cơ bản, kịch bản trước/trong/sau lưu trú.</td><td><span class="badge very-high">Rất cao</span></td></tr>
+<tr data-priority="Rất cao"><td><strong>Thanh toán/cọc/phụ thu</strong></td><td>Dễ nhầm tiền và tranh cãi.</td><td>Khách chuyển khoản không ghi nội dung; hủy sát ngày; thêm người; checkout trễ; hư đồ.</td><td>Thất thoát doanh thu, mất thời gian đối soát, review xấu.</td><td>Rất cao: ghi nhận cọc, hóa đơn/phụ thu, đối soát ngân hàng/OTA.</td><td><span class="badge very-high">Rất cao</span></td></tr>
+<tr data-priority="Cao"><td><strong>Nội quy/an toàn/pháp lý</strong></td><td>Nội quy nói miệng, khó xử lý khi khách vi phạm.</td><td>Tiệc, ồn, hút thuốc, thêm người, thú cưng, dùng bếp/BBQ, hư đồ.</td><td>Ảnh hưởng hàng xóm/khách khác, tăng rủi ro pháp lý và tài sản.</td><td>Cao: nội quy số hóa, khách xác nhận trước check-in, log phụ thu.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Trung bình-cao"><td><strong>Bảo trì/tài sản/sự cố</strong></td><td>Sửa chữa bị động, chỉ biết khi khách phàn nàn.</td><td>Máy lạnh, wifi, nước nóng, khóa, vòi sen, toilet, thiết bị bếp lỗi; môi trường biển làm thiết bị xuống cấp.</td><td>Khóa bán phòng, hoàn tiền/đổi phòng, chi phí sửa gấp cao.</td><td>Trung bình-cao: ticket sự cố, lịch bảo trì, checklist tài sản.</td><td><span class="badge mid-high">Trung bình-cao</span></td></tr>
+<tr data-priority="Trung bình"><td><strong>Vật tư/kho nhỏ</strong></td><td>Mua dư/mua thiếu, thất thoát nhỏ khó thấy.</td><td>Khăn, ga, giấy, dầu gội, nước suối, hóa chất hết bất ngờ dịp đông khách.</td><td>Dịch vụ thiếu chuyên nghiệp, tăng chi phí ẩn.</td><td>Trung bình: tồn tối thiểu, checklist xuất dùng, báo mua.</td><td><span class="badge mid">Trung bình</span></td></tr>
+<tr data-priority="Cao"><td><strong>Nhân sự/CTV</strong></td><td>Thiếu người cao điểm, bàn giao khó khi đổi nhân sự.</td><td>CTV dọn phòng không ổn định; lễ tân/nhân viên mới không biết quy trình; chủ kiêm nhiều việc.</td><td>Chậm phản hồi, chất lượng không đều, chủ quá tải.</td><td>Cao: checklist việc, phân ca, log bàn giao, SOP đơn giản.</td><td><span class="badge high">Cao</span></td></tr>
+<tr data-priority="Trung bình"><td><strong>Dịch vụ cộng thêm</strong></td><td>Có cơ hội tăng doanh thu nhưng hay bỏ sót.</td><td>Thuê xe, BBQ, giặt ủi, decor, tour, đưa đón, phụ thu bếp/thú cưng chưa được giới thiệu/ghi nhận.</td><td>Mất doanh thu phụ; khó tạo khác biệt ngoài giá phòng.</td><td>Trung bình: catalog dịch vụ, upsell qua tin nhắn, ghi nhận doanh thu phụ.</td><td><span class="badge mid">Trung bình</span></td></tr>
+<tr data-priority="Rất cao"><td><strong>Báo cáo quản trị</strong></td><td>Chủ không có dữ liệu để ra quyết định.</td><td>Dữ liệu rải rác ở OTA, Zalo, sổ tay, Excel, tài khoản ngân hàng.</td><td>Ra quyết định theo cảm tính, không biết kênh nào lời, phòng nào hiệu quả.</td><td>Rất cao: báo cáo doanh thu, công suất, kênh bán, chi phí, lỗi vận hành.</td><td><span class="badge very-high">Rất cao</span></td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="priority">
+  <div class="container">
+    <div class="section-head"><div><h2>7. Cụm nỗi đau ưu tiên nhất tại Vũng Tàu</h2><p>Đây là các vấn đề nên đưa vào thông điệp bán hàng, demo sản phẩm và checklist tư vấn ban đầu.</p></div></div>
+    <div class="priority-grid"><div class="priority-card"><span>1</span><div><h3>Quản lý booking đa kênh &amp; tránh trùng phòng</h3><p>Nhu cầu tăng đột biến cuối tuần/lễ; nhiều kênh bán như OTA, Zalo, Facebook, điện thoại dễ lỗi nếu lịch không tập trung.</p></div></div>
+<div class="priority-card"><span>2</span><div><h3>Tối ưu giá ngày thường/cuối tuần/lễ</h3><p>Thị trường biến động theo lịch nghỉ; định giá sai làm mất doanh thu hoặc tăng phòng trống.</p></div></div>
+<div class="priority-card"><span>3</span><div><h3>Tự động phản hồi khách</h3><p>Khách hỏi nhiều nơi cùng lúc; chậm phản hồi là mất booking vào tay đối thủ.</p></div></div>
+<div class="priority-card"><span>4</span><div><h3>Dọn phòng nhanh, sạch, đúng checklist</h3><p>Du lịch biển làm khách nhạy với mùi, cát, tóc, khăn/ga; review vệ sinh ảnh hưởng trực tiếp đặt phòng.</p></div></div>
+<div class="priority-card"><span>5</span><div><h3>Cọc, phụ thu, hủy/đổi lịch minh bạch</h3><p>Homestay/villa/nhà nghỉ dễ phát sinh thêm người, tiệc, checkout trễ, hư hỏng.</p></div></div>
+<div class="priority-card"><span>6</span><div><h3>Nội quy rõ ràng cho homestay/villa</h3><p>Nhóm bạn đi cuối tuần dễ phát sinh ồn, hút thuốc, thú cưng, BBQ, thêm người.</p></div></div>
+<div class="priority-card"><span>7</span><div><h3>Báo cáo doanh thu/công suất/kênh bán</h3><p>Chủ cần biết kênh nào lời thật sau hoa hồng OTA, chi phí dọn phòng, vật tư và bảo trì.</p></div></div></div>
+  </div>
+</section>
+
+<section id="cost">
+  <div class="container">
+    <div class="section-head"><div><h2>8. Đánh giá chi phí, vốn và khả năng chịu chi</h2><p>Chủ cơ sở không nhìn công nghệ như khoản đầu tư “cho đẹp”, mà như khoản phải chứng minh tác dụng ngay.</p></div></div>
+    <div class="table-wrap"><table><thead><tr><th>Nhóm chi phí</th><th>Áp lực với chủ cơ sở</th><th>Liên hệ với công nghệ</th></tr></thead><tbody><tr><td>Thuê mặt bằng/chi phí vốn bất động sản</td><td>Nặng với khách sạn/nhà nghỉ thuê nhà hoặc chủ đầu tư vay vốn.</td><td>Cần tăng công suất và doanh thu/phòng để bù chi phí cố định.</td></tr>
+<tr><td>Sửa chữa, nâng cấp phòng</td><td>Cạnh tranh bằng hình ảnh và review khiến phòng phải bảo trì/nâng cấp liên tục.</td><td>Cần lịch bảo trì, kiểm kê tài sản, ưu tiên phòng hay gây review xấu.</td></tr>
+<tr><td>Điện, nước, giặt ủi, vật tư</td><td>Tăng theo công suất, đặc biệt biến động cuối tuần/lễ.</td><td>Cần theo dõi chi phí/phòng/đêm và tồn vật tư.</td></tr>
+<tr><td>Nhân sự/CTV</td><td>Lễ tân, dọn phòng, bảo vệ, thợ sửa; ngày thường có thể dư, cuối tuần dễ thiếu.</td><td>Cần phân việc, checklist, bàn giao ca, giảm phụ thuộc người cũ.</td></tr>
+<tr><td>Hoa hồng OTA</td><td>Nhiều OTA lớn có mức hoa hồng tham khảo khoảng 15–30% tùy kênh/khu vực/loại hình.</td><td>Cần tăng booking trực tiếp, theo dõi kênh lời/lỗ.</td></tr>
+<tr><td>Marketing</td><td>Ảnh, bài đăng, ads, khuyến mãi, nội dung OTA.</td><td>Cần tracking nguồn khách và mẫu nội dung bán phòng.</td></tr>
+<tr><td>Pháp lý/PCCC/bảo trì</td><td>Không tạo doanh thu ngay nhưng bắt buộc hoặc rất cần.</td><td>Cần nhắc việc, lưu hồ sơ, checklist an toàn.</td></tr>
+</tbody></table></div>
+    <div class="grid-2" style="margin-top:20px">
+      <div class="card"><h3>8.2. Mức giá công nghệ tham khảo</h3><p>Ở phân khúc cơ bản, giá phần mềm quản lý khách sạn tại Việt Nam không quá cao. Một số gói tham khảo có thể từ vài trăm nghìn đồng/tháng cho nhóm ít phòng, trong khi thị trường quốc tế có thể cao hơn tùy số phòng và module.</p><p>Rào cản lớn vì vậy không chỉ là “không có tiền”, mà là “không chắc phần mềm có đáng tiền, dễ dùng, nhân viên có dùng không, và có giúp giảm lỗi/tăng tiền thật không”.</p></div>
+      <div class="card"><h3>8.3. Nhận định về khả năng chi trả</h3><p>Với chủ nhỏ, mức 300.000–700.000 VND/tháng thường dễ thử hơn vì gần tương đương một vài chi phí vận hành nhỏ. Nếu giải pháp yêu cầu phí setup quá cao, họ sẽ chần chừ, trừ khi cơ sở đã có quy mô hoặc đang thất thoát lớn.</p></div>
+    </div>
+    <div class="table-wrap" style="margin-top:20px"><table><thead><tr><th>Phân khúc</th><th>Quy mô</th><th>Người quyết định</th><th>Mức chịu chi hợp lý/tháng</th><th>Gói dễ mua</th><th>Rào cản lớn</th></tr></thead><tbody><tr><td>Homestay/căn hộ/villa nhỏ</td><td>1–8 căn/phòng</td><td>Chủ nhà/host/quản lý thuê ngoài</td><td>200.000–700.000 VND</td><td>Lịch phòng, tin nhắn mẫu/tự động, cọc, nội quy, checklist dọn phòng</td><td>Không muốn học phần mềm phức tạp</td></tr>
+<tr><td>Nhà nghỉ/khách sạn mini</td><td>10–25 phòng</td><td>Chủ + quản lý/lễ tân</td><td>300.000–1.500.000 VND</td><td>PMS mini, quản lý phòng, booking, thu tiền, báo cáo ngày/tháng</td><td>Sợ nhân viên không dùng đều</td></tr>
+<tr><td>Khách sạn vừa</td><td>25–80 phòng</td><td>Chủ/giám đốc/quản lý vận hành</td><td>1.500.000–8.000.000 VND</td><td>PMS + channel manager + housekeeping + báo cáo + phân quyền</td><td>Cần tích hợp OTA/kế toán/thanh toán</td></tr>
+<tr><td>Chuỗi nhỏ/nhiều cơ sở</td><td>2–5 cơ sở</td><td>Chủ chuỗi/nhà đầu tư</td><td>5.000.000–20.000.000+ VND</td><td>Quản trị đa cơ sở, báo cáo hợp nhất, chuẩn hóa SOP</td><td>Cần triển khai và hỗ trợ nghiêm túc</td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="criteria">
+  <div class="container">
+    <div class="section-head"><div><h2>9. Tiêu chí đánh giá mức độ cần công nghệ</h2><p>Không nên chỉ nhìn số phòng. Cần kết hợp quy mô, kênh bán, lỗi vận hành, nhân sự, pháp lý, tốc độ phản hồi và năng lực chi trả.</p></div></div>
+    <div class="table-wrap"><table><thead><tr><th>Tiêu chí</th><th>Định nghĩa</th><th>Dấu hiệu nhu cầu thấp</th><th>Dấu hiệu nhu cầu cao</th></tr></thead><tbody><tr><td>Quy mô phòng/căn</td><td>Số phòng/căn cần quản lý.</td><td>Dưới 5 phòng/căn.</td><td>Trên 15–20 phòng/căn.</td></tr>
+<tr><td>Số kênh bán</td><td>OTA, Facebook, Zalo, điện thoại, walk-in, website.</td><td>1 kênh chính.</td><td>3 kênh trở lên.</td></tr>
+<tr><td>Biến động công suất</td><td>Chênh lệch ngày thường/cuối tuần/lễ.</td><td>Khách đều, ít cao điểm.</td><td>Ngày thường vắng, lễ/cuối tuần quá tải.</td></tr>
+<tr><td>Lỗi thủ công</td><td>Trùng phòng, nhầm cọc, quên trả lời, sai phụ thu.</td><td>Hiếm khi lỗi.</td><td>Lỗi lặp lại hàng tháng.</td></tr>
+<tr><td>Phụ thuộc nhân sự</td><td>Quy trình nằm trong đầu một vài người.</td><td>Chủ tự làm hết.</td><td>Nhiều ca, nhân viên/CTV thay đổi.</td></tr>
+<tr><td>Rủi ro pháp lý/an toàn</td><td>Khai báo lưu trú, PCCC, an ninh, nội quy.</td><td>Khách ít, dễ kiểm soát.</td><td>Khách nhóm, villa, tiệc, thêm người.</td></tr>
+<tr><td>Tốc độ phản hồi khách</td><td>Khả năng trả lời khách nhanh trên nhiều kênh.</td><td>Khách ít hỏi.</td><td>Khách hỏi dồn, nhiều câu lặp lại.</td></tr>
+<tr><td>Nhu cầu báo cáo</td><td>Chủ cần biết doanh thu, công suất, kênh bán, chi phí.</td><td>Chỉ cần biết tiền vào.</td><td>Muốn tối ưu giá, chi phí, nhân sự.</td></tr>
+<tr><td>Mức cạnh tranh</td><td>Khả năng khách so sánh giá/review.</td><td>Ít đối thủ tương tự.</td><td>Nhiều khách sạn/homestay tương tự.</td></tr>
+<tr><td>Khả năng chi trả/học dùng</td><td>Có ngân sách và người dùng công cụ.</td><td>Không muốn thay đổi.</td><td>Sẵn sàng thử nếu dễ dùng và ROI rõ.</td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="scores">
+  <div class="container">
+    <div class="section-head"><div><h2>10. Chấm điểm nhu cầu công nghệ theo phân khúc</h2><p>Thang điểm: 1 = chưa cần, 3 = nên có, 5 = rất cần.</p></div></div>
+    <div class="score-grid"><div class="score-card"><h3>Homestay 1–3 căn, chủ tự vận hành</h3><p>Chưa cần PMS đầy đủ, nhưng nên có lịch phòng, mẫu tin nhắn, nội quy, cọc, checklist dọn phòng.</p><div class="bar-label"><span>Hiện tại</span><strong>2.5/5</strong></div><div class="bar"><i style="width:50.0%"></i></div><div class="bar-label future"><span>2–3 năm tới</span><strong>3.5/5</strong></div><div class="bar future"><i style="width:70.0%"></i></div></div>
+<div class="score-card"><h3>Villa/homestay cho nhóm, khách cuối tuần</h3><p>Cần rõ nhất ở cọc, phụ thu, nội quy, bàn giao, dọn phòng và phản hồi khách.</p><div class="bar-label"><span>Hiện tại</span><strong>3.5/5</strong></div><div class="bar"><i style="width:70.0%"></i></div><div class="bar-label future"><span>2–3 năm tới</span><strong>4.2/5</strong></div><div class="bar future"><i style="width:84.00000000000001%"></i></div></div>
+<div class="score-card"><h3>Nhà nghỉ/khách sạn mini 10–25 phòng</h3><p>Nên có PMS mini; sổ/Zalo/Excel dễ rủi ro khi đông khách hoặc đổi nhân viên.</p><div class="bar-label"><span>Hiện tại</span><strong>4.0/5</strong></div><div class="bar"><i style="width:80.0%"></i></div><div class="bar-label future"><span>2–3 năm tới</span><strong>4.5/5</strong></div><div class="bar future"><i style="width:90.0%"></i></div></div>
+<div class="score-card"><h3>Khách sạn vừa 25–80 phòng</h3><p>Rất cần hệ thống tích hợp: PMS, channel manager, housekeeping, báo cáo và phân quyền.</p><div class="bar-label"><span>Hiện tại</span><strong>4.5/5</strong></div><div class="bar"><i style="width:90.0%"></i></div><div class="bar-label future"><span>2–3 năm tới</span><strong>5.0/5</strong></div><div class="bar future"><i style="width:100.0%"></i></div></div>
+<div class="score-card"><h3>Chuỗi nhỏ/nhiều cơ sở</h3><p>Gần như bắt buộc nếu muốn kiểm soát từ xa và chuẩn hóa quy trình.</p><div class="bar-label"><span>Hiện tại</span><strong>5.0/5</strong></div><div class="bar"><i style="width:100.0%"></i></div><div class="bar-label future"><span>2–3 năm tới</span><strong>5.0/5</strong></div><div class="bar future"><i style="width:100.0%"></i></div></div>
+</div>
+  </div>
+</section>
+
+<section id="future">
+  <div class="container">
+    <div class="section-head"><div><h2>11. Hiện tại và tương lai: có cần giải pháp công nghệ không?</h2><p>Câu trả lời là có, nhưng phải đóng gói đúng mức độ đau và đúng khả năng tiếp nhận.</p></div></div>
+    <div class="grid-2">
+      <div class="card"><h3>11.1. Hiện tại: cần, nhưng phải nhỏ, rõ, dễ dùng</h3><p>Nhu cầu hiện tại cao ở các nghiệp vụ gây lỗi trực tiếp: booking, lịch phòng, cọc, phụ thu, phản hồi khách, dọn phòng, nội quy và báo cáo.</p><p>Cách nói nên dùng không phải “hệ thống chuyển đổi số toàn diện”, mà là: “không trùng phòng nữa”, “khách nhắn có phản hồi ngay”, “biết khách nào cọc/chưa cọc”, “nhân viên mới nhìn vào là biết việc”, “cuối tháng biết lời/lỗ từng kênh”.</p></div>
+      <div class="card"><h3>11.2. Tương lai 2–5 năm: nhu cầu tăng mạnh</h3><p>Nhu cầu sẽ tăng vì cạnh tranh nhiều hơn, khách quen với tự phục vụ và phản hồi nhanh hơn, chính sách chuyển đổi số cho SME được đẩy mạnh, và thị trường phần mềm lưu trú Việt Nam còn dư địa phát triển.</p><p>Trong dài hạn, cơ sở không chỉ cần công cụ ghi chép mà cần hệ thống hóa vận hành, chuẩn hóa nhân sự, kiểm soát kênh bán và ra quyết định bằng dữ liệu.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="need">
+  <div class="container">
+    <div class="section-head"><div><h2>12. Khi nào cần và khi nào chưa cần công nghệ</h2><p>Phân biệt rõ phần gần như chắc chắn cần và phần chưa cần ngay để tránh bán giải pháp quá nặng.</p></div></div>
+    <div class="check-grid">
+      <div class="card"><h3>Gần như chắc chắn cần</h3><ul class="check-list"><li><strong>Booking &amp; lịch phòng</strong><span>Tránh trùng phòng, sót booking, đặc biệt dịp lễ/cuối tuần.</span></li><li><strong>Tin nhắn khách</strong><span>Khách hỏi lặp lại nhiều, cần phản hồi nhanh.</span></li><li><strong>Cọc/thanh toán/phụ thu</strong><span>Giảm tranh cãi, giảm thất thoát.</span></li><li><strong>Dọn phòng/checklist</strong><span>Ảnh hưởng trực tiếp review và khả năng bán lại.</span></li><li><strong>Nội quy số hóa</strong><span>Quan trọng với homestay/villa/khách nhóm.</span></li><li><strong>Báo cáo doanh thu/công suất</strong><span>Chủ cần biết lời thật, không chỉ doanh thu.</span></li><li><strong>Bàn giao ca/nhân sự</strong><span>Giảm phụ thuộc vào người cũ, hỗ trợ người mới.</span></li></ul></div>
+      <div class="card"><h3>Chưa cần ngay với cơ sở nhỏ</h3><ul class="check-list avoid"><li><strong>CRM nâng cao</strong><span>Chưa có tệp khách cũ lớn hoặc chưa có chiến lược khách quay lại.</span></li><li><strong>Revenue management phức tạp</strong><span>Chỉ có vài phòng, giá ít thay đổi, chưa có dữ liệu đủ.</span></li><li><strong>POS nhà hàng</strong><span>Không có F&amp;B riêng, chỉ có minibar/ăn sáng nhẹ.</span></li><li><strong>ERP/kế toán phức tạp</strong><span>Chỉ cần thu-chi cơ bản và đối soát đơn giản.</span></li><li><strong>App riêng cho khách sạn</strong><span>Chưa có lượng khách direct đủ lớn.</span></li><li><strong>AI chatbot nâng cao đa ngôn ngữ</strong><span>Khách chủ yếu nội địa, câu hỏi đơn giản; có thể dùng FAQ/tin nhắn mẫu trước.</span></li><li><strong>Smart lock toàn bộ</strong><span>Chi phí lắp đặt lớn, chưa có nhu cầu self check-in hoặc rủi ro an ninh chưa được xử lý.</span></li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section id="manual">
+  <div class="container">
+    <div class="section-head"><div><h2>13. Ít nhân viên có thể làm tốt thủ công không?</h2><p>Có thể, nhưng chỉ trong điều kiện hẹp. Khi vượt ngưỡng, thủ công bắt đầu nguy hiểm.</p></div></div>
+    <div class="grid-2">
+      <div class="card"><h3>Khi vẫn có thể vận hành thủ công</h3><p>Cơ sở dưới 5–8 phòng/căn, chủ trực tiếp vận hành, chỉ bán qua 1–2 kênh, ít khách dồn cuối tuần, ít thay đổi giá, ít nhân sự thay ca và khách chủ yếu là khách quen/direct.</p><p>Với nhóm này, chưa cần hệ thống lớn. Có thể dùng bộ công cụ tối thiểu: Google Sheet chuẩn, Google Calendar, mẫu tin nhắn, checklist dọn phòng, mẫu nội quy và bảng cọc/thanh toán.</p></div>
+      <div class="card"><h3>Khi thủ công bắt đầu dễ vỡ</h3><p>Khi cơ sở có từ 10 phòng trở lên, bán qua 3 kênh trở lên, có khách nhóm, có CTV dọn phòng, nhiều ca hoặc chủ không trực tiếp có mặt, vấn đề không phải là nhân viên ít mà là một nhân viên đang gánh quá nhiều điểm quyết định.</p></div>
+    </div>
+    <div class="table-wrap" style="margin-top:20px"><table><thead><tr><th>Điểm dễ vỡ khi làm thủ công</th><th>Ví dụ thực tế</th></tr></thead><tbody><tr><td>Booking</td><td>Khách OTA đặt nhưng lễ tân chưa cập nhật phòng, dẫn tới phòng bị bán tiếp qua Zalo.</td></tr>
+<tr><td>Cọc</td><td>Khách chuyển khoản nhưng không ghi nhận vào booking; người khác không biết đã cọc hay chưa.</td></tr>
+<tr><td>Dọn phòng</td><td>Người dọn không biết phòng nào checkout, phòng nào khách đến sớm, phòng nào cần bổ sung vật tư.</td></tr>
+<tr><td>Check-in</td><td>Khách đến cùng lúc, nhập CCCD/thu tiền/giao khóa bị rối.</td></tr>
+<tr><td>Bàn giao ca</td><td>Ca sau không biết khách nào chưa thanh toán, khách nào xin checkout trễ, khách nào có yêu cầu đặc biệt.</td></tr>
+<tr><td>Báo cáo</td><td>Chủ chỉ thấy tiền vào tài khoản, không biết kênh nào lời, chi phí nào phình, thất thoát ở đâu.</td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="roadmap">
+  <div class="container">
+    <div class="section-head"><div><h2>14. Lộ trình giải pháp công nghệ phù hợp</h2><p>Không nên bắt đầu bằng full PMS quá nặng cho mọi cơ sở. Nên chia theo cấp giải pháp tương ứng với quy mô và mức độ đau.</p></div></div>
+    <div class="solution-grid"><article class="solution-card"><div class="solution-top"><h3>Cấp 1 — Bộ công cụ nhẹ</h3><span>200.000–700.000 VND</span></div><p><strong>Đối tượng:</strong> Homestay/villa/căn hộ nhỏ</p><p><strong>Thành phần:</strong> Lịch phòng, mẫu tin nhắn, link nội quy, quản lý cọc/phụ thu, checklist dọn phòng, báo cáo doanh thu đơn giản.</p><p><strong>Mục tiêu:</strong> Giảm lỗi cơ bản, giảm tranh cãi, phản hồi nhanh.</p></article>
+<article class="solution-card"><div class="solution-top"><h3>Cấp 2 — PMS mini</h3><span>300.000–1.500.000 VND</span></div><p><strong>Đối tượng:</strong> Nhà nghỉ/khách sạn mini 10–25 phòng</p><p><strong>Thành phần:</strong> Sơ đồ phòng realtime, booking tập trung, check-in/out, cọc/thanh toán, buồng phòng, báo cáo ngày/tháng.</p><p><strong>Mục tiêu:</strong> Chuẩn hóa lễ tân và buồng phòng, giảm thất thoát.</p></article>
+<article class="solution-card"><div class="solution-top"><h3>Cấp 3 — PMS tích hợp</h3><span>1.500.000–8.000.000+ VND</span></div><p><strong>Đối tượng:</strong> Khách sạn vừa 25–80 phòng, nhiều kênh OTA</p><p><strong>Thành phần:</strong> PMS + channel manager, housekeeping nâng cao, phân quyền, báo cáo ADR/công suất/kênh, thanh toán/kế toán, CSKH/review.</p><p><strong>Mục tiêu:</strong> Tối ưu doanh thu, kiểm soát đa bộ phận, quản trị từ xa.</p></article>
+<article class="solution-card"><div class="solution-top"><h3>Cấp 4 — Quản trị đa cơ sở</h3><span>5.000.000–20.000.000+ VND</span></div><p><strong>Đối tượng:</strong> Chuỗi nhỏ/nhiều cơ sở</p><p><strong>Thành phần:</strong> Dashboard hợp nhất, SOP, phân quyền, báo cáo đa cơ sở, chuẩn hóa nhân sự/CTV, tích hợp sâu.</p><p><strong>Mục tiêu:</strong> Kiểm soát quy mô, giảm phụ thuộc từng quản lý cơ sở.</p></article></div>
+  </div>
+</section>
+
+<section id="roi">
+  <div class="container">
+    <div class="section-head"><div><h2>15. Logic ROI: vì sao chủ cơ sở sẽ chịu chi</h2><p>Thông điệp bán hàng nên chứng minh công nghệ giúp tăng tiền hoặc chặn mất tiền, thay vì chỉ nói về tính năng.</p></div></div>
+    <div class="roi-box">
+      <div class="calc"><h3>Mini calculator: ước tính tiết kiệm hoa hồng OTA</h3><label>Doanh thu qua OTA/tháng (VND)</label><input id="otaRevenue" type="number" value="100000000" min="0" step="1000000"><label>Hoa hồng OTA (%)</label><input id="commission" type="number" value="15" min="0" max="100" step="1"><label>Tỷ lệ booking chuyển sang direct (%)</label><input id="directShift" type="number" value="8" min="0" max="100" step="1"><div class="calc-result"><span>Ước tính tiết kiệm/tháng</span><b id="saving">1.200.000 VND</b><small>Đây chỉ là ví dụ minh họa ROI, không phải cam kết kết quả.</small></div></div>
+      <div class="steps">
+        <div class="step"><h3>Giảm phụ thuộc OTA</h3><p>Nếu doanh thu phòng qua OTA là 100 triệu/tháng và hoa hồng 15%, chi phí hoa hồng khoảng 15 triệu/tháng. Chỉ cần dịch chuyển 5–10% booking sang kênh trực tiếp, lợi ích có thể lớn hơn phí phần mềm vài trăm nghìn đến vài triệu đồng/tháng.</p></div>
+        <div class="step"><h3>Tránh lỗi overbooking</h3><p>Một lỗi trùng phòng dịp lễ có thể gây hoàn tiền, đền phòng nơi khác, mất công xử lý và review xấu. Chỉ cần tránh 1–2 lỗi nghiêm trọng mỗi năm, phần mềm lịch phòng/booking đã có cơ sở hoàn vốn.</p></div>
+        <div class="step"><h3>Tiết kiệm thời gian phản hồi</h3><p>Nếu mỗi ngày chủ/nhân viên trả lời 30–50 câu hỏi lặp lại về giờ check-in, bãi xe, phụ thu, chính sách cọc, tin nhắn mẫu/chatbot giúp giảm thời gian và giảm mất khách khi đang bận.</p></div>
+        <div class="step"><h3>Giảm review xấu do dọn phòng</h3><p>Checklist dọn phòng, trạng thái phòng và phân công rõ không tạo doanh thu ngay, nhưng giúp bảo vệ điểm đánh giá và khả năng bán phòng.</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="barriers">
+  <div class="container">
+    <div class="section-head"><div><h2>16. Rào cản mua công nghệ và cách xử lý</h2><p>Muốn bán được cho nhóm này, cần xử lý nỗi sợ: không thấy ROI, sợ phức tạp, sợ nhân viên không dùng và ngại nhập dữ liệu ban đầu.</p></div></div>
+    <div class="table-wrap"><table><thead><tr><th>Rào cản</th><th>Mô tả</th><th>Cách xử lý khi tư vấn/bán giải pháp</th></tr></thead><tbody><tr><td>Không thấy ROI rõ</td><td>“Tốn tiền phần mềm nhưng có tăng khách không?”</td><td>Bán theo case cụ thể: tránh trùng phòng, giảm hoa hồng OTA, tăng booking direct, giảm thất thoát cọc/phụ thu.</td></tr>
+<tr><td>Sợ nhân viên không dùng</td><td>Nhân viên quen Zalo/sổ tay/Excel.</td><td>Mobile-first, thao tác đơn giản, giống quy trình cũ, có hướng dẫn ngắn và hỗ trợ Zalo.</td></tr>
+<tr><td>Sợ phức tạp</td><td>Chủ không có IT, ngại setup.</td><td>Cài đặt sẵn phòng/giá/nội quy/checklist/mẫu tin nhắn; đào tạo trong 30–60 phút.</td></tr>
+<tr><td>Ngại nhập dữ liệu ban đầu</td><td>Phòng, giá, kênh, nội quy, khách cũ nằm rải rác.</td><td>Có dịch vụ nhập liệu/setup ban đầu như một phần của gói triển khai.</td></tr>
+<tr><td>Không muốn trả phí dài hạn</td><td>Doanh thu mùa vụ, ngày thường vắng.</td><td>Gói tháng thấp, gói mùa cao điểm, dùng thử, cam kết hủy linh hoạt.</td></tr>
+<tr><td>Lo bảo mật dữ liệu</td><td>Thông tin khách, CCCD, doanh thu.</td><td>Phân quyền, sao lưu, quyền sở hữu dữ liệu, chính sách bảo mật rõ.</td></tr>
+<tr><td>Thấy Excel đang ổn</td><td>Chưa gặp lỗi lớn hoặc chưa đo thất thoát.</td><td>Dùng checklist rủi ro để tự kiểm: trùng phòng, cọc, phụ thu, dọn phòng, báo cáo, bàn giao.</td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="product">
+  <div class="container">
+    <div class="section-head"><div><h2>17. Hàm ý cho sản phẩm/giải pháp công nghệ</h2><p>Các gợi ý này có thể dùng để định vị sản phẩm, viết landing page, demo sales hoặc thiết kế MVP.</p></div></div>
+    <div class="grid-2">
+      <div class="card"><h3>Định vị nên đi từ nỗi đau</h3><p>Không nên mở đầu bằng danh sách tính năng. Nên nói bằng ngôn ngữ của chủ cơ sở: “không trùng phòng cuối tuần”, “khách nhắn là có câu trả lời”, “không quên thu cọc/phụ thu”, “nhân viên mới vẫn làm đúng quy trình”.</p></div>
+      <div class="card"><h3>Giao diện phải mobile-first</h3><p>Chủ, lễ tân, CTV dọn phòng và thợ sửa thường dùng điện thoại. Nếu bắt buộc mở laptop nhiều, tỷ lệ sử dụng sẽ thấp.</p></div>
+      <div class="card"><h3>Triển khai theo module nhỏ</h3><p>Nên bắt đầu từ booking/lịch phòng + tin nhắn + cọc/phụ thu + checklist dọn phòng + báo cáo đơn giản. Sau đó mới mở rộng sang channel manager, dashboard nâng cao và tích hợp kế toán.</p></div>
+      <div class="card"><h3>Cần template địa phương cho Vũng Tàu</h3><p>Nên có sẵn mẫu câu trả lời về gần biển, bãi xe, giờ check-in/out, phụ thu thêm người, BBQ, thú cưng, chính sách cọc và nội quy tiếng Việt rõ ràng.</p></div>
+      <div class="card"><h3>Bán phần mềm kèm setup quy trình</h3><p>Chủ nhỏ ngại nhập dữ liệu. Gói “phần mềm + người đồng hành setup quy trình” sẽ dễ mua hơn phần mềm thuần túy.</p></div>
+      <div class="card"><h3>Báo cáo phải cực đơn giản</h3><p>Chủ cần doanh thu, công suất, kênh bán, tiền cọc, phụ thu, chi phí dọn phòng/vật tư, top phòng có vấn đề và review xấu. Không cần dashboard quá phức tạp ở giai đoạn đầu.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="final">
+  <div class="container">
+    <div class="section-head"><div><h2>18. Kết luận cuối cùng</h2><p>Thông điệp cuối dùng để chốt chiến lược sản phẩm hoặc định hướng tư vấn khách hàng.</p></div></div>
+    <div class="card">
+      <p>Đối với thị trường Vũng Tàu, nỗi đau của khách sạn vừa và nhỏ không chỉ là “quản lý khách sạn”. Đó là tổ hợp của những áp lực cụ thể: bán phòng có lợi nhuận trong thị trường cạnh tranh, không trùng booking vào cuối tuần/lễ, phản hồi khách nhanh, giữ phòng sạch, kiểm soát cọc/phụ thu, rõ nội quy với khách nhóm, giảm phụ thuộc nhân viên cũ và biết cuối tháng lời/lỗ thật.</p>
+      <p>Cơ sở rất nhỏ vẫn có thể vận hành thủ công nếu chủ trực tiếp làm, ít phòng, ít kênh và ít thay ca. Nhưng khi có nhiều kênh bán, khách dồn cao điểm, nhiều nhân sự/CTV hoặc chủ muốn quản lý từ xa, công nghệ trở thành công cụ giảm rủi ro chứ không chỉ là công cụ “hiện đại hóa”.</p>
+      <div class="quote">Chủ khách sạn vừa và nhỏ ở Vũng Tàu không mua công nghệ vì muốn chạy theo xu hướng. Họ mua nếu công nghệ giúp họ bớt rối vào cuối tuần/lễ, bớt phụ thuộc nhân viên cũ, không mất booking, không nhầm tiền, không bị khách phàn nàn và biết cuối tháng mình thật sự lời hay lỗ.</div>
+    </div>
+  </div>
+</section>
+
+<section id="sources">
+  <div class="container">
+    <div class="section-head"><div><h2>19. Nguồn tham khảo</h2><p>Các nguồn dùng để đối chiếu số liệu, bối cảnh thị trường, quy định pháp lý và xu hướng công nghệ.</p></div></div>
+    <div class="table-wrap"><table><thead><tr><th>Mã</th><th>Thông tin nguồn</th><th>URL</th></tr></thead><tbody><tr><td><strong>S1</strong></td><td>Lao Động, “Vũng Tàu đón hơn 1,5 triệu khách du lịch, thu hơn 1.970 tỉ đồng trong quý I”, 24/04/2026.</td><td><a href="https://laodong.vn/du-lich/tin-tuc/vung-tau-don-hon-15-trieu-khach-du-lich-thu-hon-1970-ti-dong-trong-quy-i-1690775.html" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S2</strong></td><td>Đại biểu Nhân dân, “Du lịch phường Vũng Tàu khởi sắc, mở rộng các trải nghiệm”, 25/04/2026.</td><td><a href="https://daibieunhandan.vn/tp-ho-chi-minh-du-lich-vung-tau-khoi-sac-mo-rong-khong-gian-trai-nghiem-10414946.html" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S3</strong></td><td>Vietnam.vn / Tuổi Trẻ Thủ Đô, số liệu kỳ nghỉ 30/4 - 1/5/2025 Bà Rịa - Vũng Tàu.</td><td><a href="https://www.vietnam.vn/ba-ria-vung-tau-dung-thu-6-ca-nuoc-ve-thu-hut-khach-trong-ky-nghi-le-30-4" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S4</strong></td><td>Thanh tra, “Bà Rịa - Vũng Tàu: Vững bước trở thành trung tâm du lịch sự kiện và nghỉ dưỡng hàng đầu phía Nam”, 27/06/2025.</td><td><a href="https://thanhtra.com.vn/du-lich-E19590D86/ba-ria-vung-tau-vung-buoc-tro-thanh-trung-tam-du-lich-su-kien-va-nghi-duong-hang-dau-phia-nam-5ae86c016.html" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S5</strong></td><td>Bộ Văn hóa, Thể thao và Du lịch, “Bà Rịa - Vũng Tàu: Đưa du lịch trở thành ngành kinh tế trụ cột”, 25/03/2025.</td><td><a href="https://bvhttdl.gov.vn/ba-ria-vung-tau-dua-du-lich-tro-thanh-nganh-kinh-te-tru-cot-20250325101118498.htm" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S6</strong></td><td>Cloudbeds, “A Guide to OTA Commission Rates in 2026”.</td><td><a href="https://www.cloudbeds.com/online-travel-agencies/commissions/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S7</strong></td><td>Oracle Hospitality, “Travelers Want High-Tech, Low-Touch Hotel Stays”, 01/06/2022.</td><td><a href="https://www.oracle.com/news/announcement/oracle-hospitality-in-2025-consumer-research-study-2022-06-01/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S8</strong></td><td>AHLA, “65% of surveyed hotels report staffing shortages”, 20/02/2025.</td><td><a href="https://www.ahla.com/news/65-surveyed-hotels-report-staffing-shortages" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S9</strong></td><td>Cổng thông tin văn bản Chính phủ, Quyết định 433/QĐ-TTg ngày 16/03/2026.</td><td><a href="https://vanban.chinhphu.vn/?docid=217187&amp;pageid=27160" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S10</strong></td><td>ITPC TP.HCM, mục tiêu đến năm 2030 ít nhất 300.000 doanh nghiệp nhỏ và vừa ứng dụng công nghệ số và AI.</td><td><a href="https://itpc.hochiminhcity.gov.vn/-/muc-tieu-en-nam-2030-it-nhat-300-000-doanh-nghiep-nho-va-vua-ung-dung-cong-nghe-so-va-ai" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S11</strong></td><td>OnePMS, “Phần mềm quản lý khách sạn tốt nhất 2026”.</td><td><a href="https://onepms.net/2026/03/05/mua-phan-mem-quan-ly-khach-san-onepms-nhan-duoc-nhieu-hon-mot-phan-mem/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S12</strong></td><td>ezCloud, “Hotel software price list 2025”.</td><td><a href="https://ezcloud.vn/en/hotel-software-price-list-2025" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S13</strong></td><td>roomMaster, “Hotel Software Pricing: What Hoteliers Actually Pay in 2026”.</td><td><a href="https://www.roommaster.com/blog/hotel-software-pricing-guide" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S14</strong></td><td>IMARC Group, “Vietnam Hotel and Hospitality Management Software Market”.</td><td><a href="https://www.imarcgroup.com/vietnam-hotel-hospitality-management-software-market" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S15</strong></td><td>Little Hotelier, “What is a Hotel PMS?”.</td><td><a href="https://www.littlehotelier.com/blog/learn-about-tech/property-management-system-pms/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S16</strong></td><td>SiteMinder, “The World’s Leading Hotel Channel Manager”.</td><td><a href="https://www.siteminder.com/channel-manager/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S17</strong></td><td>SiteMinder, “Hotel dynamic pricing: Complete guide with examples”.</td><td><a href="https://www.siteminder.com/r/hotel-dynamic-pricing/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S18</strong></td><td>SiteMinder, “Hotel maintenance: A complete guide”.</td><td><a href="https://www.siteminder.com/r/hotel-maintenance/" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S19</strong></td><td>Cổng Dịch vụ công Quốc gia, thủ tục “Thông báo lưu trú”.</td><td><a href="https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-nganh-doc.html?ma_thu_tuc=2.001159" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S20</strong></td><td>Bộ Văn hóa, Thể thao và Du lịch, quy định pháp luật về lữ hành và lưu trú du lịch, 30/12/2024.</td><td><a href="https://bvhttdl.gov.vn/quy-dinh-cua-phap-luat-ve-hoat-dong-kinh-doanh-dich-vu-lu-hanh-va-luu-tru-du-lich-20241230102536598.htm" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S21</strong></td><td>Báo Lào Cai, điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ của cơ sở lưu trú du lịch.</td><td><a href="https://baolaocai.vn/dieu-kien-toi-thieu-ve-co-so-vat-chat-ky-thuat-va-dich-vu-cua-co-so-luu-tru-du-lich-post273361.html" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+<tr><td><strong>S22</strong></td><td>Airbnb Help Center, “Host reliability standards”.</td><td><a href="https://www.airbnb.com/help/article/2894" target="_blank" rel="noopener">Mở nguồn</a></td></tr>
+</tbody></table></div>
+  </div>
+</section>
+
+<section id="github">
+  <div class="container">
+    <div class="section-head"><div><h2>Hướng dẫn đưa file này lên GitHub Pages</h2><p>File này là HTML tĩnh, nên có thể đưa lên GitHub Pages trực tiếp mà không cần build React/Vite.</p></div></div>
+    <div class="card">
+      <div class="steps">
+        <div class="step"><h3>Đổi tên file thành index.html</h3><p>Tải file này về máy, đổi tên thành <strong>index.html</strong>. GitHub Pages sẽ ưu tiên file index.html làm trang chính.</p></div>
+        <div class="step"><h3>Tạo repository mới trên GitHub</h3><p>Vào GitHub → New repository → đặt tên ví dụ <strong>hotel-insight-vung-tau</strong> → chọn Public nếu dùng tài khoản miễn phí và muốn public web.</p></div>
+        <div class="step"><h3>Upload file</h3><p>Trong repo mới, bấm <strong>Add file → Upload files</strong>, kéo file <strong>index.html</strong> vào, sau đó bấm <strong>Commit changes</strong>.</p></div>
+        <div class="step"><h3>Bật GitHub Pages</h3><p>Vào <strong>Settings → Pages</strong>. Trong phần <strong>Build and deployment</strong>, chọn <strong>Deploy from a branch</strong>. Ở Branch chọn <strong>main</strong> và thư mục <strong>/(root)</strong>, sau đó bấm <strong>Save</strong>.</p></div>
+        <div class="step"><h3>Mở link website</h3><p>Chờ GitHub deploy. Link thường có dạng <strong>https://username.github.io/hotel-insight-vung-tau/</strong>. Nếu chưa thấy ngay, refresh lại mục Pages sau một lúc.</p></div>
+      </div>
+      <p class="note"><strong>Lưu ý:</strong> Vì đây là báo cáo có số liệu và insight thị trường, hãy kiểm tra lại những thông tin bạn muốn public trước khi đưa lên GitHub Pages. GitHub Pages dùng để xuất bản website tĩnh từ HTML/CSS/JS trong repository.</p>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="footer"><div class="container"><p>Bản trực quan hóa HTML • Báo cáo Insight Quản lý Khách sạn Vũng Tàu • Có thể chạy trực tiếp trên trình duyệt và GitHub Pages.</p></div></footer>
+
+<script>
+const buttons = document.querySelectorAll('.filter-bar button');
+const rows = document.querySelectorAll('#painTable tbody tr');
+buttons.forEach(btn => btn.addEventListener('click', () => {
+  buttons.forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  const filter = btn.dataset.filter;
+  rows.forEach(row => { row.style.display = (filter === 'all' || row.dataset.priority === filter) ? '' : 'none'; });
+}));
+function formatVND(value) {
+  return new Intl.NumberFormat('vi-VN', { style:'currency', currency:'VND', maximumFractionDigits:0 }).format(value);
+}
+function updateSaving() {
+  const revenue = Number(document.getElementById('otaRevenue').value || 0);
+  const commission = Number(document.getElementById('commission').value || 0) / 100;
+  const directShift = Number(document.getElementById('directShift').value || 0) / 100;
+  const saving = revenue * directShift * commission;
+  document.getElementById('saving').textContent = formatVND(saving);
+}
+['otaRevenue','commission','directShift'].forEach(id => document.getElementById(id).addEventListener('input', updateSaving));
+updateSaving();
+</script>
+</body>
+</html>
